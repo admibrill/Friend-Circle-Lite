@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 21,
-    "active_num": 16,
+    "friends_num": 20,
+    "active_num": 15,
     "error_num": 5,
-    "article_num": 211,
-    "last_updated_time": "2024-10-06 20:16:44"
+    "article_num": 196,
+    "last_updated_time": "2024-10-07 02:11:43"
   },
   "article_data": [
     {
@@ -71,13 +71,6 @@
       "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
-      "title": "React-记-1",
-      "created": "2024-09-23 21:15",
-      "link": "https://www.qcqx.cn/article/cb488cbf.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
       "title": "iOS18的设计规范：iPhone16系列设计尺寸、设备分辨率",
       "created": "2024-09-23 18:04",
       "link": "https://blog.zhheo.com/p/8c62.html",
@@ -134,30 +127,9 @@
       "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
-      "title": "闭包与内存泄漏",
-      "created": "2024-09-12 20:04",
-      "link": "https://www.qcqx.cn/article/d186ebdd.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
       "title": "Vue3.5 更新了啥",
       "created": "2024-09-12 14:33",
       "link": "https://www.qcqx.cn/article/d22c87fc.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
-      "title": "Vue3.5 更新了啥",
-      "created": "2024-09-12 14:33",
-      "link": "https://www.qcqx.cn/article/d22c87fc.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
-      "title": "Git lint 相关",
-      "created": "2024-09-10 10:09",
-      "link": "https://www.qcqx.cn/article/93c63660.html",
       "author": "轻笑Chuckle",
       "avatar": "https://www.qcqx.cn/head.webp"
     },
@@ -188,13 +160,6 @@
       "link": "https://www.imaegoo.com/2024/http-crud-data-from-wps/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "集成 lint 代码规范工具",
-      "created": "2024-09-08 09:45",
-      "link": "https://www.qcqx.cn/article/b2086eb9.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
       "title": "集成 lint 代码规范工具",
@@ -393,13 +358,6 @@
       "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
-      "title": "Monorepo 单仓库多应用",
-      "created": "2024-08-05 19:32",
-      "link": "https://www.qcqx.cn/article/65df4aa6.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
       "title": "学习笔记——STL模板库之数据结构",
       "created": "2024-08-02 00:09",
       "link": "https://www.ordchaos.com/posts/8752b65a/",
@@ -440,13 +398,6 @@
       "link": "https://blog.liushen.fun/posts/67189760/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "Vue+TS 实现虚拟列表",
-      "created": "2024-07-04 14:41",
-      "link": "https://www.qcqx.cn/article/6ae8614b.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
       "title": "Vue+TS 实现虚拟列表",
@@ -526,20 +477,6 @@
       "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
-      "title": "开发了一个 Canvas 2D 渲染引擎",
-      "created": "2024-05-23 22:15",
-      "link": "https://www.qcqx.cn/article/8275f29.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
-      "title": "Canvas 2D 事件",
-      "created": "2024-05-23 18:52",
-      "link": "https://www.qcqx.cn/article/5b168750.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
       "title": "Canvas 2D 事件",
       "created": "2024-05-23 18:52",
       "link": "https://www.qcqx.cn/article/5b168750.html",
@@ -561,20 +498,6 @@
       "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
-      "title": "Canvas 2D 贝塞尔曲线",
-      "created": "2024-05-22 10:27",
-      "link": "https://www.qcqx.cn/article/ba04fd32.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
-      "title": "Canvas 2D 进阶",
-      "created": "2024-05-19 14:52",
-      "link": "https://www.qcqx.cn/article/995d74ec.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
       "title": "Canvas 2D 进阶",
       "created": "2024-05-19 14:52",
       "link": "https://www.qcqx.cn/article/995d74ec.html",
@@ -585,20 +508,6 @@
       "title": "Canvas 2D 基础",
       "created": "2024-05-18 20:53",
       "link": "https://www.qcqx.cn/article/8c1c45d8.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
-      "title": "Canvas 2D 基础",
-      "created": "2024-05-18 20:53",
-      "link": "https://www.qcqx.cn/article/8c1c45d8.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
-      "title": "Git 规范与实践",
-      "created": "2024-05-12 15:13",
-      "link": "https://www.qcqx.cn/article/7f942cef.html",
       "author": "轻笑Chuckle",
       "avatar": "https://www.qcqx.cn/head.webp"
     },
@@ -615,13 +524,6 @@
       "link": "https://kmar.top/posts/6f6ff562/",
       "author": "山岳库博",
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
-    },
-    {
-      "title": "Git 熟知熟用",
-      "created": "2024-05-07 21:07",
-      "link": "https://www.qcqx.cn/article/120u7a12.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
       "title": "Git 熟知熟用",
@@ -650,13 +552,6 @@
       "link": "https://akilar.top/posts/fb6a1a78/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
-      "title": "解决System占CPU过高",
-      "created": "2024-04-05 13:46",
-      "link": "https://www.qcqx.cn/article/11072a12.html",
-      "author": "轻笑Chuckle",
-      "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
       "title": "解决System占CPU过高",
