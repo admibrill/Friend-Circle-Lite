@@ -4,9 +4,16 @@
     "active_num": 15,
     "error_num": 5,
     "article_num": 196,
-    "last_updated_time": "2024-10-08 14:14:35"
+    "last_updated_time": "2024-10-08 20:18:44"
   },
   "article_data": [
+    {
+      "title": "《黑神话：悟空》 国产佳作",
+      "created": "2024-10-08 14:10",
+      "link": "http://ichika.cc/Article/game_BlackMyth/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
     {
       "title": "域名迁移到blog.qyadbr.top",
       "created": "2024-10-04 17:37",
@@ -734,13 +741,6 @@
       "link": "https://blog.yaria.top/posts/7edb78c4",
       "author": "Ariasakaの小窝",
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
-    },
-    {
-      "title": "《星空》 银河大镖客",
-      "created": "2023-09-27 13:10",
-      "link": "http://ichika.cc/Article/game_Starfield/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "闪电入职vs光速离职",
