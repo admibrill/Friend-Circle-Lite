@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 20,
-    "active_num": 15,
+    "friends_num": 21,
+    "active_num": 16,
     "error_num": 5,
-    "article_num": 196,
-    "last_updated_time": "2024-10-09 20:18:40"
+    "article_num": 208,
+    "last_updated_time": "2024-10-10 02:12:53"
   },
   "article_data": [
     {
@@ -118,6 +118,13 @@
       "link": "https://blog.liushen.fun/posts/95c77d9e/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "Butterfly主题美化",
+      "created": "2024-09-17 06:30",
+      "link": "https://blog.linux-qitong.top/posts/305bae84/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
     },
     {
       "title": "Markdown与外挂标签语法测试",
@@ -589,6 +596,13 @@
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
+      "title": "校园日常",
+      "created": "2024-03-09 10:01",
+      "link": "https://blog.linux-qitong.top/posts/d0ac8280/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
+    },
+    {
       "title": "《碧蓝幻想 relink》 一起成为骑空士吧！",
       "created": "2024-02-26 17:10",
       "link": "http://ichika.cc/Article/game_GranblueFantasyRelink/",
@@ -615,6 +629,41 @@
       "link": "http://ichika.cc/Article/game_Cocoon/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
+      "title": "GitHub Actions自动部署hexo博客",
+      "created": "2024-01-22 12:23",
+      "link": "https://blog.linux-qitong.top/posts/fd2f879b/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
+    },
+    {
+      "title": "linux前置音频",
+      "created": "2024-01-21 14:00",
+      "link": "https://blog.linux-qitong.top/posts/f1df95b1/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
+    },
+    {
+      "title": "坛友和官方的肯定",
+      "created": "2024-01-05 09:30",
+      "link": "https://blog.linux-qitong.top/posts/da60ea1f/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
+    },
+    {
+      "title": "搭建hexo博客和安装npm",
+      "created": "2024-01-05 09:23",
+      "link": "https://blog.linux-qitong.top/posts/1b32c63/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
+    },
+    {
+      "title": "linux内核合集",
+      "created": "2024-01-05 08:58",
+      "link": "https://blog.linux-qitong.top/posts/dad498b9/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
     },
     {
       "title": "2024游戏记录",
@@ -967,6 +1016,20 @@
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
+      "title": "重新打包deb",
+      "created": "2023-06-27 09:28",
+      "link": "https://blog.linux-qitong.top/posts/7394d04d/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
+    },
+    {
+      "title": "编译deb内核",
+      "created": "2023-06-25 12:20",
+      "link": "https://blog.linux-qitong.top/posts/15118675/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
+    },
+    {
       "title": "音乐meting自建api",
       "created": "2023-06-08 20:55",
       "link": "https://blog.anheyu.com/posts/a76e.html",
@@ -993,6 +1056,13 @@
       "link": "https://blog.anheyu.com/posts/d50a.html",
       "author": "安知鱼",
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "title": "玲珑包",
+      "created": "2023-05-08 12:17",
+      "link": "https://blog.linux-qitong.top/posts/d1c309f6/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
     },
     {
       "title": "Butterfly 友链魔改教程",
@@ -1058,6 +1128,13 @@
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
     },
     {
+      "title": "deepin合集",
+      "created": "2023-03-21 12:31",
+      "link": "https://blog.linux-qitong.top/posts/2d7d86b5/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
+    },
+    {
       "title": "Linux驱动模型详解",
       "created": "2023-03-20 00:00",
       "link": "https://www.fomal.cc/posts/dd1040c8.html",
@@ -1070,6 +1147,13 @@
       "link": "https://www.fomal.cc/posts/c59270e7.html",
       "author": "Fomalhaut🥝",
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
+    {
+      "title": "关于老爷机使用系统",
+      "created": "2023-03-15 08:52",
+      "link": "https://blog.linux-qitong.top/posts/1131c5be/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.jpg"
     },
     {
       "title": "ARM体系架构知识点总结",
