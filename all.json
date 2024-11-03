@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 19,
     "error_num": 3,
-    "article_num": 249,
-    "last_updated_time": "2024-11-03 14:15:20"
+    "article_num": 248,
+    "last_updated_time": "2024-11-03 20:17:11"
   },
   "article_data": [
     {
@@ -1616,13 +1616,6 @@
       "link": "https://zfe.space/post/mmd-box-1.0.html",
       "author": "小冰博客",
       "avatar": "https://zfe.space/images/headimage.png"
-    },
-    {
-      "title": "Picgo + GitHub Action + npm 搭建图床",
-      "created": "2022-07-08 21:21",
-      "link": "https://blog.redish101.top/article/picgo-with-npm",
-      "author": "Redish101",
-      "avatar": "https://bu.dusays.com/2024/09/01/66d3c23c16277.jpg"
     },
     {
       "title": "给博客添加追番页面",
