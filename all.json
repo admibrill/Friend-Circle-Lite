@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 3,
     "article_num": 247,
-    "last_updated_time": "2024-11-14 14:15:01"
+    "last_updated_time": "2024-11-14 20:19:36"
   },
   "article_data": [
+    {
+      "title": "屠龙者终成恶龙",
+      "created": "2024-11-14 18:00",
+      "link": "https://www.imaegoo.com/2024/sensational-headlines/",
+      "author": "iMaeGoo’s Blog",
+      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
+    },
     {
       "title": "泰坦军团P2710R上手：便宜好用的高刷显示器",
       "created": "2024-11-14 11:04",
@@ -489,13 +496,6 @@
       "link": "https://blog.qyadbr.top/2024/08/23/hexo1/",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "离奇问题，网络故障恢复后，无法重连到数据库？",
-      "created": "2024-08-21 10:00",
-      "link": "https://www.imaegoo.com/2024/conn-pool-pro-issue/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "无服务器AI摘要后端——OrdChaosGPT",
