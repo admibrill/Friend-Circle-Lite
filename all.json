@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 3,
     "article_num": 235,
-    "last_updated_time": "2024-11-22 14:14:59"
+    "last_updated_time": "2024-11-22 20:19:44"
   },
   "article_data": [
+    {
+      "title": "异形工厂2&幸福工厂：自动化流水线的魅力",
+      "created": "2024-11-22 12:10",
+      "link": "http://ichika.cc/Article/game_Shapez2&Satisfactory/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
     {
       "title": "Android 14 APP 全屏代码实现",
       "created": "2024-11-21 21:08",
@@ -830,13 +837,6 @@
       "title": "喜欢的音乐组合解散了",
       "created": "2023-11-22 16:05",
       "link": "http://ichika.cc/Article/talk_TUYUend/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "《超级马力欧兄弟：惊奇》 wonderful everywhere",
-      "created": "2023-11-19 21:10",
-      "link": "http://ichika.cc/Article/game_SuperMarioBrosWonder/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
