@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 3,
     "article_num": 246,
-    "last_updated_time": "2024-12-04 08:53:27"
+    "last_updated_time": "2024-12-04 14:16:24"
   },
   "article_data": [
+    {
+      "title": "Mac使用rsync实现本地文件夹同步到服务器，提交编译好的静态站点，增量提交网站",
+      "created": "2024-12-04 10:48",
+      "link": "https://blog.zhheo.com/p/3anvspa5.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "Alist如何添加Ubuntu服务器的文件夹，给服务器添加上传SFTP的账号并授予访问权限",
       "created": "2024-12-03 14:22",
@@ -207,13 +214,6 @@
       "title": "ChatGPT对话搜索网络功能上手：能代替搜索引擎吗？",
       "created": "2024-11-01 10:52",
       "link": "https://blog.zhheo.com/p/8088.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "HeoAwards2024：年度我喜欢的博主",
-      "created": "2024-10-30 12:00",
-      "link": "https://blog.zhheo.com/p/d0b6.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
