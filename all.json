@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 21,
-    "active_num": 18,
-    "error_num": 3,
-    "article_num": 232,
-    "last_updated_time": "2024-12-23 08:50:33"
+    "active_num": 19,
+    "error_num": 2,
+    "article_num": 247,
+    "last_updated_time": "2024-12-23 14:15:34"
   },
   "article_data": [
+    {
+      "title": "我在2025年推荐的Mac软件",
+      "created": "2024-12-23 10:56",
+      "link": "https://blog.zhheo.com/p/qs34pfrn.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "正则表达式学习",
       "created": "2024-12-20 22:10",
@@ -106,6 +113,13 @@
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
+      "title": "《学园偶像大师》 站在赛马娘的肩膀上",
+      "created": "2024-12-04 19:50",
+      "link": "http://ichika.cc/Article/game_GakuenImas/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
       "title": "Mac上使用Drawthings的Flux模型进行扩图、补图",
       "created": "2024-12-04 17:21",
       "link": "https://blog.zhheo.com/p/5vi77cg0.html",
@@ -183,6 +197,13 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "异形工厂2&幸福工厂：自动化流水线的魅力",
+      "created": "2024-11-22 12:10",
+      "link": "http://ichika.cc/Article/game_Shapez2&Satisfactory/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
       "title": "是的，开源真的很酷",
       "created": "2024-11-21 22:30",
       "link": "https://xingwangzhe.fun/posts/48478/",
@@ -239,13 +260,6 @@
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
-      "title": "通过智能插座在HomeAssistant中实现电脑开关机控制，无需米家开机卡",
-      "created": "2024-11-11 14:59",
-      "link": "https://blog.zhheo.com/p/cec8.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "制作github贪吃蛇贡献图",
       "created": "2024-11-11 09:19",
       "link": "https://xingwangzhe.fun/posts/16664/",
@@ -293,6 +307,20 @@
       "link": "https://www.qcqx.cn/article/55cefeb1.html",
       "author": "轻笑Chuckle",
       "avatar": "https://www.qcqx.cn/head.webp"
+    },
+    {
+      "title": "国庆去了cp30",
+      "created": "2024-10-12 16:00",
+      "link": "http://ichika.cc/Article/life_cp30/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
+      "title": "《黑神话：悟空》 国产佳作",
+      "created": "2024-10-08 14:10",
+      "link": "http://ichika.cc/Article/game_BlackMyth/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "域名迁移到blog.qyadbr.top",
@@ -575,6 +603,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "去日本玩儿了",
+      "created": "2024-07-31 16:30",
+      "link": "http://ichika.cc/Article/life_TripToJapan/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
       "title": "Deno再尝试：使用Deno编写一个简单的HTTP API",
       "created": "2024-07-23 12:13",
       "link": "https://blog.redish101.top/article/deno",
@@ -624,6 +659,13 @@
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
     },
     {
+      "title": "《艾尔登法环：黄金树幽影》 差强人意",
+      "created": "2024-06-25 18:10",
+      "link": "http://ichika.cc/Article/game_GoldenTree/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
       "title": "Github Action实现友链状态检测",
       "created": "2024-06-24 01:00",
       "link": "https://blog.liushen.fun/posts/c2262998/",
@@ -652,6 +694,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "第一次尝试环太湖骑行",
+      "created": "2024-05-28 16:00",
+      "link": "http://ichika.cc/Article/life_CycleAroundTaihuLake/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
       "title": "开发了一个 Canvas 2D 渲染引擎",
       "created": "2024-05-23 22:15",
       "link": "https://www.qcqx.cn/article/8275f29.html",
@@ -664,6 +713,13 @@
       "link": "https://www.qcqx.cn/article/5b168750.html",
       "author": "轻笑Chuckle",
       "avatar": "https://www.qcqx.cn/head.webp"
+    },
+    {
+      "title": "《圣兽之王》 趣味与性癖并存",
+      "created": "2024-05-23 16:00",
+      "link": "http://ichika.cc/Article/game_UnicornOverlord/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "Canvas 2D 贝塞尔曲线",
@@ -701,6 +757,13 @@
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
     },
     {
+      "title": "《Persona 3 Reload》 优秀的现代化重置",
+      "created": "2024-05-07 16:00",
+      "link": "http://ichika.cc/Article/game_Persona3Reload/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
       "title": "关于群聊更换的紧急通知",
       "created": "2024-04-24 21:42",
       "link": "https://akilar.top/posts/c215d440/",
@@ -720,6 +783,13 @@
       "link": "https://fe32.top/articles/css10006/",
       "author": "唐志远",
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
+    },
+    {
+      "title": "《人中之龙8》 堂岛之龙与横滨英雄的故事",
+      "created": "2024-03-18 17:10",
+      "link": "http://ichika.cc/Article/game_Yakuza8/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "如何在RK系开发板的linux冷门内核上编译CH340驱动",
@@ -743,6 +813,13 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
+      "title": "《碧蓝幻想 relink》 一起成为骑空士吧！",
+      "created": "2024-02-26 17:10",
+      "link": "http://ichika.cc/Article/game_GranblueFantasyRelink/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
       "title": "CentOS7.6 安装宝塔",
       "created": "2024-02-23 18:17",
       "link": "https://fe32.top/articles/linux001/",
@@ -755,6 +832,20 @@
       "link": "https://www.ordchaos.com/posts/e9c784c5/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "KGA2023&大概是年终总结",
+      "created": "2024-02-02 17:12",
+      "link": "http://ichika.cc/Article/game_KGA2023/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
+      "title": "《Cocoon》 流畅的惊艳解谜体验",
+      "created": "2024-01-26 17:10",
+      "link": "http://ichika.cc/Article/game_Cocoon/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "GitHub Actions自动部署hexo博客",
@@ -792,6 +883,13 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
+      "title": "2024游戏记录",
+      "created": "2024-01-01 00:00",
+      "link": "http://ichika.cc/Article/game_GameRecord2024/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
       "title": "我的2023回忆录——还有遗憾吗？明年会怎么样呢？",
       "created": "2023-12-31 08:34",
       "link": "https://blog.yaria.top/posts/b7bc969f",
@@ -818,6 +916,13 @@
       "link": "https://akilar.top/posts/5ad2af31/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "Meta Quest3:优秀的升级品",
+      "created": "2023-12-04 19:05",
+      "link": "http://ichika.cc/Article/tech_MetaQuest3/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "幽门螺旋杆菌的治疗",
