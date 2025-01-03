@@ -1,12 +1,19 @@
 {
   "statistical_data": {
-    "friends_num": 21,
-    "active_num": 19,
+    "friends_num": 22,
+    "active_num": 20,
     "error_num": 2,
-    "article_num": 249,
-    "last_updated_time": "2025-01-03 20:18:43"
+    "article_num": 264,
+    "last_updated_time": "2025-01-04 02:13:58"
   },
   "article_data": [
+    {
+      "title": "hexo-tips:快捷小贴士插件",
+      "created": "2025-01-03 22:59",
+      "link": "https://xingwangzhe.fun/posts/8367/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+    },
     {
       "title": "hexo-graph:新增分类树状图",
       "created": "2025-01-02 18:56",
@@ -22,6 +29,13 @@
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
+      "title": "题解：P2678 [NOIP2015 提高组] 跳石头",
+      "created": "2024-12-31 17:50",
+      "link": "https://xyx404.github.io/2024/12/31/P2678/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
+    {
       "title": "2024，清风入梦，扬帆待明年",
       "created": "2024-12-31 16:06",
       "link": "https://blog.liushen.fun/posts/c7e32459/",
@@ -34,6 +48,13 @@
       "link": "https://blog.yaria.top/posts/f445e0f8",
       "author": "Ariasakaの小窝",
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
+      "title": "题解：AT_abc386_f [ABC386F] Operate K",
+      "created": "2024-12-30 21:07",
+      "link": "https://xyx404.github.io/2024/12/30/F%20-%20Operate%20K/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "Qt Troubleshoot （一）",
@@ -85,6 +106,20 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "题解：P5681 [CSP-J2019 江西] 面积",
+      "created": "2024-12-23 19:24",
+      "link": "https://xyx404.github.io/2024/12/23/P5681/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
+    {
+      "title": "题解：P5690 [CSP-S2019 江西] 日期",
+      "created": "2024-12-23 19:15",
+      "link": "https://xyx404.github.io/2024/12/23/P5690/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
+    {
       "title": "我在2025年推荐的Mac软件",
       "created": "2024-12-23 10:56",
       "link": "https://blog.zhheo.com/p/qs34pfrn.html",
@@ -97,6 +132,13 @@
       "link": "https://xingwangzhe.fun/posts/13105/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+    },
+    {
+      "title": "实现文章统计图",
+      "created": "2024-12-19 20:27",
+      "link": "https://xyx404.github.io/2024/12/19/%E6%96%87%E7%AB%A0%E7%BB%9F%E8%AE%A1/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "node.js:试试express",
@@ -125,6 +167,20 @@
       "link": "https://blog.yaria.top/posts/7944d7c6",
       "author": "Ariasakaの小窝",
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
+      "title": "ABC384 E - Takahashi is Slime 2",
+      "created": "2024-12-14 22:13",
+      "link": "https://xyx404.github.io/2024/12/14/ABC384%20E%20-%20Takahashi%20is%20Slime%202/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
+    {
+      "title": "题解：UVA628 Passwords",
+      "created": "2024-12-14 11:43",
+      "link": "https://xyx404.github.io/2024/12/14/%E9%A2%98%E8%A7%A3%EF%BC%9AUVA628%20Passwords/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "hexo-graph:优秀的hexo统计插件",
@@ -183,6 +239,13 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "题解：AT_abc383_c [ABC383C] Humidifier 3",
+      "created": "2024-12-08 09:57",
+      "link": "https://xyx404.github.io/2024/12/08/%E9%A2%98%E8%A7%A3%EF%BC%9AAT_abc383_c%20[ABC383C]%20Humidifier%203/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
+    {
       "title": "使用Qt实现一个简易时钟应用",
       "created": "2024-12-08 09:39",
       "link": "https://blog.qyadbr.top/2024/12/08/hexo9/",
@@ -190,11 +253,25 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "题解 9 Divisors",
+      "created": "2024-12-07 22:07",
+      "link": "https://xyx404.github.io/2024/12/07/%E9%A2%98%E8%A7%A3%209%20Divisors/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
+    {
       "title": "开往:到了",
       "created": "2024-12-06 20:59",
       "link": "https://xingwangzhe.fun/posts/5398/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+    },
+    {
+      "title": "题解：CF1468C Berpizza",
+      "created": "2024-12-06 20:28",
+      "link": "https://xyx404.github.io/2024/12/06/%E9%A2%98%E8%A7%A3%EF%BC%9ACF1468C%20Berpizza/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "《学园偶像大师》 站在赛马娘的肩膀上",
@@ -230,6 +307,13 @@
       "link": "https://blog.zhheo.com/p/io1i02p6.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "题解 Keep Distance",
+      "created": "2024-11-30 21:54",
+      "link": "https://xyx404.github.io/2024/11/30/%E9%A2%98%E8%A7%A3%20Keep%20Distance/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "宝塔Nginx反代上游服务器不支持HTTP3，如何启用HTTP3",
@@ -281,6 +365,13 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "friend-circle-lite 朋友圈的实现",
+      "created": "2024-11-24 13:40",
+      "link": "https://xyx404.github.io/2024/11/24/friend-circle-lite%E7%9A%84%E5%AE%9E%E7%8E%B0/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
+    {
       "title": "异形工厂2&幸福工厂：自动化流水线的魅力",
       "created": "2024-11-22 12:10",
       "link": "http://ichika.cc/Article/game_Shapez2&Satisfactory/",
@@ -302,11 +393,11 @@
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
-      "title": "使用Godot实现单带图灵机模型",
-      "created": "2024-11-19 16:33",
-      "link": "https://xingwangzhe.fun/posts/58216/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+      "title": "题解：UVA10056 What is the Probability ?",
+      "created": "2024-11-18 20:28",
+      "link": "https://xyx404.github.io/2024/11/18/UVA10056/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "开机黑屏时间长，进系统显示器才亮？DP线开机黑屏进不去bios解决方法",
@@ -321,6 +412,20 @@
       "link": "https://blog.linux-qitong.top/posts/c06a1f35/",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
+    },
+    {
+      "title": "题解：UVA10761 Broken Keyboard",
+      "created": "2024-11-16 08:41",
+      "link": "https://xyx404.github.io/2024/11/16/%E9%A2%98%E8%A7%A3%EF%BC%9AUVA10761%20Broken%20Keyboard/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
+    {
+      "title": "题解：P11276 第一首歌",
+      "created": "2024-11-14 21:59",
+      "link": "https://xyx404.github.io/2024/11/14/%E9%A2%98%E8%A7%A3%EF%BC%9AP11276%20%E7%AC%AC%E4%B8%80%E9%A6%96%E6%AD%8C/",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "屠龙者终成恶龙",
