@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 2,
     "article_num": 264,
-    "last_updated_time": "2025-01-04 20:17:12"
+    "last_updated_time": "2025-01-05 02:12:46"
   },
   "article_data": [
+    {
+      "title": "海岛机器人农场试玩",
+      "created": "2025-01-04 21:52",
+      "link": "https://xingwangzhe.fun/posts/10867/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+    },
     {
       "title": "hexo-tips:快捷小贴士插件",
       "created": "2025-01-03 22:59",
@@ -377,13 +384,6 @@
       "link": "http://ichika.cc/Article/game_Shapez2&Satisfactory/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "是的，开源真的很酷",
-      "created": "2024-11-21 22:30",
-      "link": "https://xingwangzhe.fun/posts/48478/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
       "title": "Android 14 APP 全屏代码实现",
