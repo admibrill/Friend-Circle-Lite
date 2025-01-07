@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 2,
     "article_num": 254,
-    "last_updated_time": "2025-01-07 14:15:06"
+    "last_updated_time": "2025-01-07 20:19:42"
   },
   "article_data": [
+    {
+      "title": "bing搜索结果消失，持续记录",
+      "created": "2025-01-07 14:20",
+      "link": "https://xingwangzhe.fun/posts/27250/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+    },
     {
       "title": "github:action/workflow自动发布npm包",
       "created": "2025-01-06 20:03",
@@ -230,13 +237,6 @@
       "link": "https://blog.zhheo.com/p/n3wc1lq1.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "重构:hexo-theme-wang",
-      "created": "2024-12-09 19:08",
-      "link": "https://xingwangzhe.fun/posts/42609/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
       "title": "NestJS实践杂记",
