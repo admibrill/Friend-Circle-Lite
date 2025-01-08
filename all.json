@@ -3,8 +3,8 @@
     "friends_num": 22,
     "active_num": 20,
     "error_num": 2,
-    "article_num": 254,
-    "last_updated_time": "2025-01-08 14:14:53"
+    "article_num": 261,
+    "last_updated_time": "2025-01-08 20:20:01"
   },
   "article_data": [
     {
@@ -104,6 +104,13 @@
       "link": "https://blog.redish101.top/article/2024-summary",
       "author": "Redish101",
       "avatar": "https://bu.dusays.com/2024/09/01/66d3c23c16277.jpg"
+    },
+    {
+      "title": "打造高效团队",
+      "created": "2024-12-29 12:20",
+      "link": "https://blog.linux-qitong.top/posts/bacc54dc/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
       "title": "hexo-theme-wang:应该是最后一个大版本了",
@@ -344,6 +351,13 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "从被轻视到被敬仰",
+      "created": "2024-11-26 23:20",
+      "link": "https://blog.linux-qitong.top/posts/afe2aeac/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
+    },
+    {
       "title": "Mac中磁盘没有被推出，因为一个或多个程序可能正在使用它解决方法",
       "created": "2024-11-25 10:54",
       "link": "https://blog.zhheo.com/p/cgxdrt1t.html",
@@ -391,6 +405,13 @@
       "link": "https://blog.zhheo.com/p/6053759e.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "linux使用git远程上传",
+      "created": "2024-11-16 09:28",
+      "link": "https://blog.linux-qitong.top/posts/c06a1f35/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
       "title": "题解：UVA10761 Broken Keyboard",
@@ -531,6 +552,13 @@
       "link": "https://blog.liushen.fun/posts/95c77d9e/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "Butterfly主题美化",
+      "created": "2024-09-17 06:30",
+      "link": "https://blog.linux-qitong.top/posts/305bae84/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
       "title": "Markdown与外挂标签语法测试",
@@ -911,6 +939,13 @@
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
+      "title": "校园日常",
+      "created": "2024-03-09 10:01",
+      "link": "https://blog.linux-qitong.top/posts/d0ac8280/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
+    },
+    {
       "title": "《碧蓝幻想 relink》 一起成为骑空士吧！",
       "created": "2024-02-26 17:10",
       "link": "http://ichika.cc/Article/game_GranblueFantasyRelink/",
@@ -946,18 +981,32 @@
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
+      "title": "GitHub Actions自动部署hexo博客",
+      "created": "2024-01-22 12:23",
+      "link": "https://blog.linux-qitong.top/posts/fd2f879b/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
+    },
+    {
+      "title": "linux前置音频",
+      "created": "2024-01-21 14:00",
+      "link": "https://blog.linux-qitong.top/posts/f1df95b1/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
+    },
+    {
+      "title": "我的2023回忆录——还有遗憾吗？明年会怎么样呢？",
+      "created": "2024-01-01 00:00",
+      "link": "",
+      "author": "Ariasakaの小窝",
+      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
       "title": "2024游戏记录",
       "created": "2024-01-01 00:00",
       "link": "http://ichika.cc/Article/game_GameRecord2024/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "我的2023回忆录——还有遗憾吗？明年会怎么样呢？",
-      "created": "2023-12-31 08:34",
-      "link": "https://blog.yaria.top/posts/b7bc969f",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
       "title": "新年倒计时改良&随便说说",
@@ -1009,20 +1058,6 @@
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
     },
     {
-      "title": "CSP-J 2023 题解",
-      "created": "2023-10-28 10:34",
-      "link": "https://blog.yaria.top/posts/dbbb90bf",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
-    },
-    {
-      "title": "CSP-J 2023 复赛游记",
-      "created": "2023-10-28 10:17",
-      "link": "https://blog.yaria.top/posts/2da55a98",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
-    },
-    {
       "title": "解决 Vue3 + Element Plus 树形表格全选多选以及子节点勾选的问题",
       "created": "2023-10-23 15:02",
       "link": "https://fe32.top/articles/vue20006/",
@@ -1072,13 +1107,6 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
-      "title": "成都——古蜀底蕴和现代都市的碰撞",
-      "created": "2023-10-05 00:11",
-      "link": "https://blog.yaria.top/posts/7edb78c4",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
-    },
-    {
       "title": "闪电入职vs光速离职",
       "created": "2023-09-21 03:08",
       "link": "https://akilar.top/posts/b5a208a8/",
@@ -1107,13 +1135,6 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
-      "title": "CSP JS 2023 第一轮 游记",
-      "created": "2023-09-09 19:34",
-      "link": "https://blog.yaria.top/posts/e94b15ea",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
-    },
-    {
       "title": "面试问题总结",
       "created": "2023-08-28 20:58",
       "link": "https://blog.leonus.cn/2023/interview-qa.html",
@@ -1124,20 +1145,13 @@
       "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
       "created": "2023-08-27 19:22",
       "link": "https://blog.anheyu.com/posts/340b.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+      "author": "Eurkon",
+      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
       "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
       "created": "2023-08-27 19:22",
       "link": "https://blog.anheyu.com/posts/340b.html",
-      "author": "Eurkon",
-      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
-    },
-    {
-      "title": "什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法",
-      "created": "2023-08-26 19:24",
-      "link": "https://blog.anheyu.com/posts/136a.html",
       "author": "安知鱼",
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
@@ -1147,6 +1161,13 @@
       "link": "https://blog.anheyu.com/posts/136a.html",
       "author": "Eurkon",
       "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
+    },
+    {
+      "title": "什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法",
+      "created": "2023-08-26 19:24",
+      "link": "https://blog.anheyu.com/posts/136a.html",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "实用配件 —— 视频采集卡",
@@ -1166,20 +1187,13 @@
       "title": "腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了",
       "created": "2023-08-19 18:42",
       "link": "https://blog.anheyu.com/posts/8105.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+      "author": "Eurkon",
+      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
       "title": "腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了",
       "created": "2023-08-19 18:42",
       "link": "https://blog.anheyu.com/posts/8105.html",
-      "author": "Eurkon",
-      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
-    },
-    {
-      "title": "当AI加上PS后让我变的极为振奋(附mac安装ps beta25.0)教程",
-      "created": "2023-08-18 19:24",
-      "link": "https://blog.anheyu.com/posts/4eb4.html",
       "author": "安知鱼",
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
@@ -1189,6 +1203,13 @@
       "link": "https://blog.anheyu.com/posts/4eb4.html",
       "author": "Eurkon",
       "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
+    },
+    {
+      "title": "当AI加上PS后让我变的极为振奋(附mac安装ps beta25.0)教程",
+      "created": "2023-08-18 19:24",
+      "link": "https://blog.anheyu.com/posts/4eb4.html",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "前端如何实现自动检测更新？",
@@ -1236,15 +1257,15 @@
       "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
       "created": "2023-07-23 17:55",
       "link": "https://blog.anheyu.com/posts/40fd.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+      "author": "Eurkon",
+      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
       "title": "CNAME解析至cf：分流解析cloudflare处理国外请求",
       "created": "2023-07-23 17:55",
       "link": "https://blog.anheyu.com/posts/40fd.html",
-      "author": "Eurkon",
-      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "分享ikun小鸡仔表情包 300+",
@@ -1257,15 +1278,22 @@
       "title": "网络安全方向：10分钟2700w请求的攻击我是如何处理的",
       "created": "2023-07-16 17:55",
       "link": "https://blog.anheyu.com/posts/dfb3.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+      "author": "Eurkon",
+      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
       "title": "网络安全方向：10分钟2700w请求的攻击我是如何处理的",
       "created": "2023-07-16 17:55",
       "link": "https://blog.anheyu.com/posts/dfb3.html",
-      "author": "Eurkon",
-      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "title": "搭建hexo博客和安装npm",
+      "created": "2023-07-16 09:23",
+      "link": "https://blog.linux-qitong.top/posts/1b32c63/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
       "title": "vue3 如何将页面生成 pdf 导出",
@@ -1292,15 +1320,15 @@
       "title": "通义万相上手体验",
       "created": "2023-07-09 19:45",
       "link": "https://blog.anheyu.com/posts/2594.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+      "author": "Eurkon",
+      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
       "title": "通义万相上手体验",
       "created": "2023-07-09 19:45",
       "link": "https://blog.anheyu.com/posts/2594.html",
-      "author": "Eurkon",
-      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "文章AI摘要？太酷啦！",
@@ -1320,20 +1348,13 @@
       "title": "html 属性Accesskey详细解析",
       "created": "2023-07-01 19:45",
       "link": "https://blog.anheyu.com/posts/e140.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+      "author": "Eurkon",
+      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
       "title": "html 属性Accesskey详细解析",
       "created": "2023-07-01 19:45",
       "link": "https://blog.anheyu.com/posts/e140.html",
-      "author": "Eurkon",
-      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
-    },
-    {
-      "title": "全新卡片式外链标签引入",
-      "created": "2023-06-30 23:55",
-      "link": "https://blog.anheyu.com/posts/39a9.html",
       "author": "安知鱼",
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
@@ -1345,11 +1366,25 @@
       "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
-      "title": "音乐meting自建api",
-      "created": "2023-06-08 20:55",
-      "link": "https://blog.anheyu.com/posts/a76e.html",
+      "title": "全新卡片式外链标签引入",
+      "created": "2023-06-30 23:55",
+      "link": "https://blog.anheyu.com/posts/39a9.html",
       "author": "安知鱼",
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    },
+    {
+      "title": "重新打包deb",
+      "created": "2023-06-27 09:28",
+      "link": "https://blog.linux-qitong.top/posts/7394d04d/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
+    },
+    {
+      "title": "编译deb内核",
+      "created": "2023-06-25 12:20",
+      "link": "https://blog.linux-qitong.top/posts/15118675/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
       "title": "音乐meting自建api",
@@ -1359,9 +1394,9 @@
       "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
-      "title": "安知鱼主题标签 Tag Plugins",
-      "created": "2023-06-01 23:55",
-      "link": "https://blog.anheyu.com/posts/d50a.html",
+      "title": "音乐meting自建api",
+      "created": "2023-06-08 20:55",
+      "link": "https://blog.anheyu.com/posts/a76e.html",
       "author": "安知鱼",
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
@@ -1371,6 +1406,13 @@
       "link": "https://blog.anheyu.com/posts/d50a.html",
       "author": "Eurkon",
       "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
+    },
+    {
+      "title": "安知鱼主题标签 Tag Plugins",
+      "created": "2023-06-01 23:55",
+      "link": "https://blog.anheyu.com/posts/d50a.html",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "Butterfly 友链魔改教程",
@@ -1457,6 +1499,13 @@
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
     },
     {
+      "title": "关于老爷机使用系统",
+      "created": "2023-03-15 08:52",
+      "link": "https://blog.linux-qitong.top/posts/1131c5be/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
+    },
+    {
       "title": "ARM体系架构知识点总结",
       "created": "2023-03-06 00:10",
       "link": "https://www.fomal.cc/posts/c570025b.html",
@@ -1495,20 +1544,13 @@
       "title": "hexo博客工作流CI（一键部署的快乐）",
       "created": "2023-02-15 23:55",
       "link": "https://blog.anheyu.com/posts/b228.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+      "author": "Eurkon",
+      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
       "title": "hexo博客工作流CI（一键部署的快乐）",
       "created": "2023-02-15 23:55",
       "link": "https://blog.anheyu.com/posts/b228.html",
-      "author": "Eurkon",
-      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
-    },
-    {
-      "title": "给你的博客加一个优雅的音乐界面",
-      "created": "2023-02-10 23:55",
-      "link": "https://blog.anheyu.com/posts/c3d3.html",
       "author": "安知鱼",
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
@@ -1520,9 +1562,9 @@
       "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
-      "title": "操作系统复习题",
-      "created": "2023-02-02 23:55",
-      "link": "https://blog.anheyu.com/posts/d4d2.html",
+      "title": "给你的博客加一个优雅的音乐界面",
+      "created": "2023-02-10 23:55",
+      "link": "https://blog.anheyu.com/posts/c3d3.html",
       "author": "安知鱼",
       "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
@@ -1532,6 +1574,13 @@
       "link": "https://blog.anheyu.com/posts/d4d2.html",
       "author": "Eurkon",
       "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
+    },
+    {
+      "title": "操作系统复习题",
+      "created": "2023-02-02 23:55",
+      "link": "https://blog.anheyu.com/posts/d4d2.html",
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "全站 webp 自动切换，加速访问好帮手",
@@ -1586,15 +1635,15 @@
       "title": "2022年度总结",
       "created": "2022-12-27 18:57",
       "link": "https://blog.anheyu.com/posts/4c6a.html",
-      "author": "安知鱼",
-      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+      "author": "Eurkon",
+      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
     },
     {
       "title": "2022年度总结",
       "created": "2022-12-27 18:57",
       "link": "https://blog.anheyu.com/posts/4c6a.html",
-      "author": "Eurkon",
-      "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
+      "author": "安知鱼",
+      "avatar": "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     },
     {
       "title": "免费图床综合教程",
