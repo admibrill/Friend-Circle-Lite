@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 4,
     "article_num": 244,
-    "last_updated_time": "2025-01-15 08:47:36"
+    "last_updated_time": "2025-01-15 14:14:16"
   },
   "article_data": [
+    {
+      "title": "题解：P1048 [NOIP2005 普及组] 采药",
+      "created": "2025-01-15 10:05",
+      "link": "https://xyx404.github.io/post/20250115100500.html",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
     {
       "title": "Cloudflare/Vercel项目推荐(3)",
       "created": "2025-01-14 00:31",
@@ -27,6 +34,13 @@
       "link": "https://xingwangzhe.fun/posts/4628/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+    },
+    {
+      "title": "题解：AT_abc388_d [ABC388D] Coming of Age Celebration",
+      "created": "2025-01-12 10:07",
+      "link": "https://xyx404.github.io/post/20250112100700.html",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "SEO优化:期待拯救我的bing搜索",
@@ -71,6 +85,13 @@
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
+      "title": "题解：ABC387 D - Snaky Walk",
+      "created": "2025-01-05 20:00",
+      "link": "https://xyx404.github.io/post/20250105200000.html",
+      "author": "xyx404",
+      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
+    },
+    {
       "title": "海岛机器人农场试玩",
       "created": "2025-01-04 21:52",
       "link": "https://xingwangzhe.fun/posts/10867/",
@@ -101,7 +122,7 @@
     {
       "title": "题解：P2678 [NOIP2015 提高组] 跳石头",
       "created": "2024-12-31 17:50",
-      "link": "https://xyx404.github.io/2024/12/31/P2678/",
+      "link": "https://xyx404.github.io/post/20241231175000.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
@@ -122,7 +143,7 @@
     {
       "title": "题解：AT_abc386_f [ABC386F] Operate K",
       "created": "2024-12-30 21:07",
-      "link": "https://xyx404.github.io/2024/12/30/F%20-%20Operate%20K/",
+      "link": "https://xyx404.github.io/post/20241230210700.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
@@ -171,14 +192,14 @@
     {
       "title": "题解：P5681 [CSP-J2019 江西] 面积",
       "created": "2024-12-23 19:24",
-      "link": "https://xyx404.github.io/2024/12/23/P5681/",
+      "link": "https://xyx404.github.io/post/20241223192400.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "题解：P5690 [CSP-S2019 江西] 日期",
       "created": "2024-12-23 19:15",
-      "link": "https://xyx404.github.io/2024/12/23/P5690/",
+      "link": "https://xyx404.github.io/post/20241223191500.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
@@ -199,7 +220,7 @@
     {
       "title": "实现文章统计图",
       "created": "2024-12-19 20:27",
-      "link": "https://xyx404.github.io/2024/12/19/%E6%96%87%E7%AB%A0%E7%BB%9F%E8%AE%A1/",
+      "link": "https://xyx404.github.io/post/20241219202700.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
@@ -234,14 +255,14 @@
     {
       "title": "ABC384 E - Takahashi is Slime 2",
       "created": "2024-12-14 22:13",
-      "link": "https://xyx404.github.io/2024/12/14/ABC384%20E%20-%20Takahashi%20is%20Slime%202/",
+      "link": "https://xyx404.github.io/post/20241214221300.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "题解：UVA628 Passwords",
       "created": "2024-12-14 11:43",
-      "link": "https://xyx404.github.io/2024/12/14/%E9%A2%98%E8%A7%A3%EF%BC%9AUVA628%20Passwords/",
+      "link": "https://xyx404.github.io/post/20241214114300.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
@@ -283,7 +304,7 @@
     {
       "title": "题解：AT_abc383_c [ABC383C] Humidifier 3",
       "created": "2024-12-08 09:57",
-      "link": "https://xyx404.github.io/2024/12/08/%E9%A2%98%E8%A7%A3%EF%BC%9AAT_abc383_c%20[ABC383C]%20Humidifier%203/",
+      "link": "https://xyx404.github.io/post/20241208095700.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
@@ -297,14 +318,14 @@
     {
       "title": "题解 9 Divisors",
       "created": "2024-12-07 22:07",
-      "link": "https://xyx404.github.io/2024/12/07/%E9%A2%98%E8%A7%A3%209%20Divisors/",
+      "link": "https://xyx404.github.io/post/20241207220700.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "题解：CF1468C Berpizza",
       "created": "2024-12-06 20:28",
-      "link": "https://xyx404.github.io/2024/12/06/%E9%A2%98%E8%A7%A3%EF%BC%9ACF1468C%20Berpizza/",
+      "link": "https://xyx404.github.io/post/20241206202800.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
@@ -346,7 +367,7 @@
     {
       "title": "题解 Keep Distance",
       "created": "2024-11-30 21:54",
-      "link": "https://xyx404.github.io/2024/11/30/%E9%A2%98%E8%A7%A3%20Keep%20Distance/",
+      "link": "https://xyx404.github.io/post/20241130215400.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
@@ -374,7 +395,7 @@
     {
       "title": "friend-circle-lite 朋友圈的实现",
       "created": "2024-11-24 13:40",
-      "link": "https://xyx404.github.io/2024/11/24/friend-circle-lite%E7%9A%84%E5%AE%9E%E7%8E%B0/",
+      "link": "https://xyx404.github.io/post/20241124134000.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
@@ -391,27 +412,6 @@
       "link": "https://www.imaegoo.com/2024/android-fullscreen/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "题解：UVA10056 What is the Probability ?",
-      "created": "2024-11-18 20:28",
-      "link": "https://xyx404.github.io/2024/11/18/UVA10056/",
-      "author": "xyx404",
-      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
-    },
-    {
-      "title": "题解：UVA10761 Broken Keyboard",
-      "created": "2024-11-16 08:41",
-      "link": "https://xyx404.github.io/2024/11/16/%E9%A2%98%E8%A7%A3%EF%BC%9AUVA10761%20Broken%20Keyboard/",
-      "author": "xyx404",
-      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
-    },
-    {
-      "title": "题解：P11276 第一首歌",
-      "created": "2024-11-14 21:59",
-      "link": "https://xyx404.github.io/2024/11/14/%E9%A2%98%E8%A7%A3%EF%BC%9AP11276%20%E7%AC%AC%E4%B8%80%E9%A6%96%E6%AD%8C/",
-      "author": "xyx404",
-      "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
     },
     {
       "title": "屠龙者终成恶龙",
