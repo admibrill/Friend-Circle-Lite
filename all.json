@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 22,
-    "active_num": 19,
-    "error_num": 3,
-    "article_num": 258,
-    "last_updated_time": "2025-02-03 02:13:05"
+    "active_num": 20,
+    "error_num": 2,
+    "article_num": 268,
+    "last_updated_time": "2025-02-03 08:49:38"
   },
   "article_data": [
+    {
+      "title": "KGA2024&大概是年终总结",
+      "created": "2025-02-02 17:12",
+      "link": "http://ichika.cc/Article/game_KGA2024/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
     {
       "title": "2024再见，2025你好！",
       "created": "2025-02-02 00:31",
@@ -785,6 +792,13 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
+      "title": "人没逝，感谢关心（咬牙切齿）",
+      "created": "2024-08-01 18:46",
+      "link": "https://blog.leonus.cn/2024/alive.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
       "title": "Cloudflare/Vercel项目推荐(2)",
       "created": "2024-08-01 01:31",
       "link": "https://blog.liushen.fun/posts/3850e950/",
@@ -1016,18 +1030,18 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
-      "title": "2024游戏记录",
-      "created": "2024-01-01 00:00",
-      "link": "http://ichika.cc/Article/game_GameRecord2024/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "我的2023回忆录——还有遗憾吗？明年会怎么样呢？",
       "created": "2023-12-31 08:34",
       "link": "https://blog.yaria.top/posts/b7bc969f",
       "author": "Ariasakaの小窝",
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
+      "title": "新年倒计时改良&随便说说",
+      "created": "2023-12-25 20:24",
+      "link": "https://blog.leonus.cn/2023/newYearCard2.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
       "title": "一文搞懂伪代码",
@@ -1042,6 +1056,20 @@
       "link": "https://akilar.top/posts/5ad2af31/",
       "author": "Akilarの糖果屋",
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "幽门螺旋杆菌的治疗",
+      "created": "2023-11-12 12:10",
+      "link": "https://blog.leonus.cn/2023/Helicobacter-pylori.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
+      "title": "《光年 星环》蓝牙耳机购买体验",
+      "created": "2023-11-07 20:14",
+      "link": "https://blog.leonus.cn/2023/star-ring.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
       "title": "2023 级新生周赛第二周题解",
@@ -1079,6 +1107,13 @@
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
     },
     {
+      "title": "最近我都干了些什么",
+      "created": "2023-10-22 09:05",
+      "link": "https://blog.leonus.cn/2023/recently.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
       "title": "几个非常实用的 Chrome Devtools 技巧",
       "created": "2023-10-17 15:53",
       "link": "https://fe32.top/articles/skill001/",
@@ -1091,6 +1126,20 @@
       "link": "https://fe32.top/articles/fe100002/",
       "author": "唐志远",
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
+    },
+    {
+      "title": "发现了一款好用的安卓视频播放器",
+      "created": "2023-10-13 09:43",
+      "link": "https://blog.leonus.cn/2023/nextplayer.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
+      "title": "《百妖谱》经典语录",
+      "created": "2023-10-10 00:33",
+      "link": "https://blog.leonus.cn/2023/baiyaopu.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
       "title": "成都——古蜀底蕴和现代都市的碰撞",
@@ -1121,6 +1170,13 @@
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
+      "title": "最近买的一些打折的 Steam 游戏",
+      "created": "2023-09-15 16:42",
+      "link": "https://blog.leonus.cn/2023/steam.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
       "title": "CSP JS 2023 第一轮 游记",
       "created": "2023-09-09 19:34",
       "link": "https://blog.yaria.top/posts/e94b15ea",
@@ -1128,6 +1184,13 @@
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
+      "title": "面试问题总结",
+      "created": "2023-08-28 20:58",
+      "link": "https://blog.leonus.cn/2023/interview-qa.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
+    },
+    {
       "title": "那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列",
       "created": "2023-08-27 19:22",
       "link": "https://blog.anheyu.com/posts/340b.html",
@@ -1154,6 +1217,13 @@
       "link": "https://blog.anheyu.com/posts/136a.html",
       "author": "Eurkon",
       "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
+    },
+    {
+      "title": "实用配件 —— 视频采集卡",
+      "created": "2023-08-26 11:32",
+      "link": "https://blog.leonus.cn/2023/video-capture.html",
+      "author": "Leonus",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
       "title": "年中总结，及进16岁生贺",
