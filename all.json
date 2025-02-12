@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 22,
-    "active_num": 20,
-    "error_num": 2,
-    "article_num": 269,
-    "last_updated_time": "2025-02-12 08:48:36"
+    "active_num": 19,
+    "error_num": 3,
+    "article_num": 254,
+    "last_updated_time": "2025-02-12 14:15:01"
   },
   "article_data": [
     {
@@ -176,25 +176,11 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "Webmapview:一个我的世界内置网页地图浏览Fabric模组",
-      "created": "2025-01-12 19:02",
-      "link": "https://xingwangzhe.fun/posts/4628/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
       "title": "题解：AT_abc388_d [ABC388D] Coming of Age Celebration",
       "created": "2025-01-12 10:07",
       "link": "https://xyx404.github.io/post/20250112100700.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
-    },
-    {
-      "title": "SEO优化:期待拯救我的bing搜索",
-      "created": "2025-01-10 18:43",
-      "link": "https://xingwangzhe.fun/posts/8811/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
       "title": "网购生涯回顾：我在2024买到的好物推荐",
@@ -211,60 +197,11 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "bing搜索结果消失，持续记录",
-      "created": "2025-01-07 14:20",
-      "link": "https://xingwangzhe.fun/posts/27250/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "github:action/workflow自动发布npm包",
-      "created": "2025-01-06 20:03",
-      "link": "https://xingwangzhe.fun/posts/5561/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "开源的像素沙盒游戏:Luanti (formerly Minetest)",
-      "created": "2025-01-05 21:05",
-      "link": "https://xingwangzhe.fun/posts/55555/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
       "title": "题解：ABC387 D - Snaky Walk",
       "created": "2025-01-05 20:00",
       "link": "https://xyx404.github.io/post/20250105200000.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
-    },
-    {
-      "title": "海岛机器人农场试玩",
-      "created": "2025-01-04 21:52",
-      "link": "https://xingwangzhe.fun/posts/10867/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "hexo-tips:快捷小贴士插件",
-      "created": "2025-01-03 22:59",
-      "link": "https://xingwangzhe.fun/posts/8367/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "hexo-graph:新增分类树状图",
-      "created": "2025-01-02 18:56",
-      "link": "https://xingwangzhe.fun/posts/42695/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "新年新气象，新年第一章",
-      "created": "2025-01-01 09:56",
-      "link": "https://xingwangzhe.fun/posts/51154/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
       "title": "题解：P2678 [NOIP2015 提高组] 跳石头",
@@ -309,25 +246,11 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
-      "title": "再见2024，你好2025",
-      "created": "2024-12-29 20:22",
-      "link": "https://xingwangzhe.fun/posts/63165/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
       "title": "打造高效团队",
       "created": "2024-12-29 12:20",
       "link": "https://blog.linux-qitong.top/posts/bacc54dc/",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
-    },
-    {
-      "title": "hexo-theme-wang:应该是最后一个大版本了",
-      "created": "2024-12-28 20:35",
-      "link": "https://xingwangzhe.fun/posts/38915/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
       "title": "华为通用软件开发工程师面经",
@@ -365,25 +288,11 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "正则表达式学习",
-      "created": "2024-12-20 22:10",
-      "link": "https://xingwangzhe.fun/posts/13105/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
       "title": "实现文章统计图",
       "created": "2024-12-19 20:27",
       "link": "https://xyx404.github.io/post/20241219202700.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
-    },
-    {
-      "title": "node.js:试试express",
-      "created": "2024-12-18 18:05",
-      "link": "https://xingwangzhe.fun/posts/8479/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
       "title": "迟别，OI",
@@ -405,20 +314,6 @@
       "link": "https://xyx404.github.io/post/20241214114300.html",
       "author": "xyx404",
       "avatar": "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
-    },
-    {
-      "title": "hexo-graph:优秀的hexo统计插件",
-      "created": "2024-12-14 10:11",
-      "link": "https://xingwangzhe.fun/posts/55581/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "bat脚本使用教程",
-      "created": "2024-12-11 20:10",
-      "link": "https://xingwangzhe.fun/posts/50463/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
     {
       "title": "NestJS实践杂记",
