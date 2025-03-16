@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 3,
     "article_num": 271,
-    "last_updated_time": "2025-03-16 02:13:06"
+    "last_updated_time": "2025-03-16 08:55:39"
   },
   "article_data": [
     {
@@ -372,7 +372,7 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
-      "title": "打造高效团队",
+      "title": "如何打造高效的团队",
       "created": "2024-12-29 12:20",
       "link": "https://blog.linux-qitong.top/posts/bacc54dc/",
       "author": "青稚の空间",
@@ -1030,7 +1030,7 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
-      "title": "linux前置音频",
+      "title": "修复Linux前置音频插孔无声音",
       "created": "2024-01-21 14:00",
       "link": "https://blog.linux-qitong.top/posts/f1df95b1/",
       "author": "青稚の空间",
@@ -1450,7 +1450,7 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.avif"
     },
     {
-      "title": "编译deb内核",
+      "title": "如何编译debian格式内核",
       "created": "2023-06-25 12:20",
       "link": "https://blog.linux-qitong.top/posts/15118675/",
       "author": "青稚の空间",
