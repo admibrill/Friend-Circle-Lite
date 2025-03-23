@@ -3,10 +3,17 @@
     "friends_num": 23,
     "active_num": 19,
     "error_num": 4,
-    "article_num": 254,
-    "last_updated_time": "2025-03-23 20:19:47"
+    "article_num": 255,
+    "last_updated_time": "2025-03-24 02:14:04"
   },
   "article_data": [
+    {
+      "title": "P3435 [POI 2006] OKR-Periods of Words 题解",
+      "created": "2025-03-23 20:45",
+      "link": "https://blog.qyadbr.top/2025/03/23/hexo13/",
+      "author": "Admibrill",
+      "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
+    },
     {
       "title": "HomeAssistant接入和风天气教程，免费的天气集成",
       "created": "2025-03-21 17:14",
