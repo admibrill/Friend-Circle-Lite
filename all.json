@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 3,
     "article_num": 270,
-    "last_updated_time": "2025-04-02 14:15:58"
+    "last_updated_time": "2025-04-02 20:21:23"
   },
   "article_data": [
+    {
+      "title": "craftmine:愚人节更新",
+      "created": "2025-04-02 19:18",
+      "link": "https://xingwangzhe.fun/posts/52599/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+    },
     {
       "title": "GPT4o新版图片生成上手：丸辣！你是要毁了设计圈吗！",
       "created": "2025-03-28 17:52",
@@ -186,13 +193,6 @@
       "title": "不是你,而是我们:bing又一次崩溃",
       "created": "2025-03-13 10:43",
       "link": "https://xingwangzhe.fun/posts/48826/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "vscode插件开发心得:RustedWarfareModSupport",
-      "created": "2025-03-09 18:57",
-      "link": "https://xingwangzhe.fun/posts/65110/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
