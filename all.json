@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 3,
     "article_num": 272,
-    "last_updated_time": "2025-04-23 08:54:43"
+    "last_updated_time": "2025-04-23 14:16:19"
   },
   "article_data": [
+    {
+      "title": "如何用唯物主义的观点看待ai的发展",
+      "created": "2025-04-23 11:01",
+      "link": "https://xingwangzhe.fun/posts/60039/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+    },
     {
       "title": "美化你的RSS订阅地址",
       "created": "2025-04-18 20:47",
@@ -193,13 +200,6 @@
       "title": "离散数学:子群的陪集及拉格朗日定理",
       "created": "2025-03-23 11:07",
       "link": "https://xingwangzhe.fun/posts/14001/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "离散数学:子群及其证明",
-      "created": "2025-03-23 09:08",
-      "link": "https://xingwangzhe.fun/posts/52401/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
