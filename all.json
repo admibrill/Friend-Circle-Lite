@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 3,
     "article_num": 272,
-    "last_updated_time": "2025-04-29 14:17:05"
+    "last_updated_time": "2025-04-29 20:22:40"
   },
   "article_data": [
     {
@@ -246,7 +246,7 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "用多模态模型，写新一代爬虫",
+      "title": "Midscene.js：AI驱动的自动化测试工具",
       "created": "2025-03-19 08:00",
       "link": "https://www.imaegoo.com/2025/midscene-js/",
       "author": "iMaeGoo’s Blog",
