@@ -1,12 +1,26 @@
 {
   "statistical_data": {
-    "friends_num": 23,
-    "active_num": 20,
+    "friends_num": 24,
+    "active_num": 21,
     "error_num": 3,
-    "article_num": 274,
-    "last_updated_time": "2025-05-26 20:22:10"
+    "article_num": 275,
+    "last_updated_time": "2025-05-27 02:15:14"
   },
   "article_data": [
+    {
+      "title": "群众计算机素养这块堪忧",
+      "created": "2025-05-26 20:33",
+      "link": "https://xingwangzhe.fun/posts/72ce85f7/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
+    },
+    {
+      "title": "Moonlark（Nonebot2+Python）命令式聊天机器人插件开发记录",
+      "created": "2025-05-25 21:58",
+      "link": "https://blog.qyadbr.top/2025/05/25/hexo15/",
+      "author": "Admibrill",
+      "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
+    },
     {
       "title": "数据库可视化WEB工具对比",
       "created": "2025-05-25 18:00",
@@ -291,13 +305,6 @@
       "title": "国产开源的文档转换器:MinerU",
       "created": "2025-03-28 03:11",
       "link": "https://xingwangzhe.fun/posts/64756/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
-    },
-    {
-      "title": "编译原理:FIRST集和FOLLOW集",
-      "created": "2025-03-27 17:01",
-      "link": "https://xingwangzhe.fun/posts/8237/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/images/apple-touch-icon-next.png"
     },
