@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 4,
     "article_num": 245,
-    "last_updated_time": "2025-06-06 14:18:27"
+    "last_updated_time": "2025-06-06 20:23:08"
   },
   "article_data": [
+    {
+      "title": "ubuntu折腾记录",
+      "created": "2025-06-06 13:18",
+      "link": "https://xingwangzhe.fun/posts/e665b92c/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "TaoSync上手：基于Alist的文件同步系统，文件备份神器",
       "created": "2025-06-04 16:25",
@@ -291,13 +298,6 @@
       "title": "不要再用微软auth验证器了!",
       "created": "2025-04-13 22:03",
       "link": "https://xingwangzhe.fun/posts/52579/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "系统化:为我自己的博客主题建立文档网站",
-      "created": "2025-04-09 02:47",
-      "link": "https://xingwangzhe.fun/posts/31565/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
