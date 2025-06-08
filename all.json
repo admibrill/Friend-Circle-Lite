@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 23,
-    "active_num": 19,
-    "error_num": 4,
-    "article_num": 255,
-    "last_updated_time": "2025-06-08 20:20:45"
+    "active_num": 20,
+    "error_num": 3,
+    "article_num": 260,
+    "last_updated_time": "2025-06-09 02:14:02"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://www.ordchaos.com/posts/26a06268/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "再简单折腾一下ubuntu",
+      "created": "2025-06-08 21:17",
+      "link": "https://xingwangzhe.fun/posts/e18027de/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "ubuntu折腾记录",
@@ -300,13 +307,6 @@
       "link": "https://blog.zhheo.com/p/r1wqptre.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "不要再用微软auth验证器了!",
-      "created": "2025-04-13 22:03",
-      "link": "https://xingwangzhe.fun/posts/52579/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "PaddleYOLO训练自己的数据集",
@@ -1030,6 +1030,20 @@
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
     },
     {
+      "title": "关于群聊更换的紧急通知",
+      "created": "2024-04-24 21:42",
+      "link": "https://akilar.top/posts/c215d440/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
+      "title": "源计划-方舟：友链卡片",
+      "created": "2024-04-09 05:42",
+      "link": "https://akilar.top/posts/fb6a1a78/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
       "title": "浅谈 Css 规范",
       "created": "2024-03-28 15:24",
       "link": "https://fe32.top/articles/css10006/",
@@ -1105,6 +1119,13 @@
       "link": "https://kmar.top/posts/6e8d014c/",
       "author": "山岳库博",
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
+    },
+    {
+      "title": "找到新工作了，还挺喜欢的",
+      "created": "2023-12-16 00:08",
+      "link": "https://akilar.top/posts/5ad2af31/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
       "title": "2023年年终总结",
@@ -1205,11 +1226,25 @@
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
+      "title": "闪电入职vs光速离职",
+      "created": "2023-09-21 03:08",
+      "link": "https://akilar.top/posts/b5a208a8/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
+    },
+    {
       "title": "前端如何实现埋点上报？",
       "created": "2023-09-15 20:55",
       "link": "https://fe32.top/articles/fe100001/",
       "author": "唐志远",
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
+    },
+    {
+      "title": "20230915",
+      "created": "2023-09-15 17:30",
+      "link": "https://akilar.top/posts/eee5afe4/",
+      "author": "Akilarの糖果屋",
+      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
       "title": "最近买的一些打折的 Steam 游戏",
