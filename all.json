@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 3,
     "article_num": 260,
-    "last_updated_time": "2025-06-11 20:23:29"
+    "last_updated_time": "2025-06-12 02:16:49"
   },
   "article_data": [
+    {
+      "title": "拓竹H2D小测评",
+      "created": "2025-06-11 19:05",
+      "link": "http://ichika.cc/Article/tech_BambuH2D/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
     {
       "title": "面对AList商业化：如何从Alist解绑阿里云盘？如何避免阿里云盘的数据被第三方应用读取",
       "created": "2025-06-11 12:03",
@@ -972,13 +979,6 @@
       "link": "https://fe32.top/articles/moudel001/",
       "author": "唐志远",
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
-    },
-    {
-      "title": "《艾尔登法环：黄金树幽影》 差强人意",
-      "created": "2024-06-25 18:10",
-      "link": "http://ichika.cc/Article/game_GoldenTree/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "新冠生物考点",
