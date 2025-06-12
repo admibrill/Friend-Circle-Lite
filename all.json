@@ -4,18 +4,18 @@
     "active_num": 20,
     "error_num": 3,
     "article_num": 260,
-    "last_updated_time": "2025-06-12 08:57:52"
+    "last_updated_time": "2025-06-12 14:18:26"
   },
   "article_data": [
     {
-      "title": "拓竹H2D小测评",
-      "created": "2025-06-11 19:05",
-      "link": "http://ichika.cc/Article/tech_BambuH2D/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+      "title": "解决ubuntu智能卡验证问题,取消智能卡验证",
+      "created": "2025-06-12 09:53",
+      "link": "https://xingwangzhe.fun/posts/b0c84f59/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "面对AList商业化：如何从Alist解绑阿里云盘？如何避免阿里云盘的数据被第三方应用读取",
+      "title": "面对Alist商业化：如何从Alist解绑阿里云盘？如何避免阿里云盘的数据被第三方应用读取",
       "created": "2025-06-11 12:03",
       "link": "https://blog.zhheo.com/p/w1hvnzfq.html",
       "author": "张洪Heo",
@@ -235,13 +235,6 @@
       "title": "初试rust,门槛有点高",
       "created": "2025-05-11 13:44",
       "link": "https://xingwangzhe.fun/posts/2f7208c4/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "久未更新,杂谈一点",
-      "created": "2025-05-11 11:00",
-      "link": "https://xingwangzhe.fun/posts/90508808/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -979,6 +972,13 @@
       "link": "https://fe32.top/articles/moudel001/",
       "author": "唐志远",
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
+    },
+    {
+      "title": "《艾尔登法环：黄金树幽影》 差强人意",
+      "created": "2024-06-25 18:10",
+      "link": "http://ichika.cc/Article/game_GoldenTree/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "新冠生物考点",
