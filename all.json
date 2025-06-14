@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 3,
     "article_num": 275,
-    "last_updated_time": "2025-06-14 20:20:18"
+    "last_updated_time": "2025-06-15 02:15:24"
   },
   "article_data": [
+    {
+      "title": "ubuntu无法访问windows磁盘问题",
+      "created": "2025-06-14 19:45",
+      "link": "https://xingwangzhe.fun/posts/3e2e5b68/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "远程挂载Macbook中电脑的文件，使用Alist配合SFTP在家访问公司电脑文件",
       "created": "2025-06-13 18:44",
@@ -314,13 +321,6 @@
       "link": "https://fe32.top/articles/http0001/",
       "author": "唐志远",
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
-    },
-    {
-      "title": "初试rust,门槛有点高",
-      "created": "2025-05-11 13:44",
-      "link": "https://xingwangzhe.fun/posts/2f7208c4/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "芜湖散记：江畔的温柔与遗憾",
