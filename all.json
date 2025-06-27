@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2025-06-27 14:19:18"
+    "last_updated_time": "2025-06-27 20:23:38"
   },
   "article_data": [
+    {
+      "title": "老外催我升级Minecraft模组版本",
+      "created": "2025-06-27 12:29",
+      "link": "https://xingwangzhe.fun/posts/f8002f06/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "腾讯代码托管服务 Coding 将停服",
       "created": "2025-06-27 09:00",
@@ -193,13 +200,6 @@
       "title": "学习开发astro博客后台(一)钩子文学",
       "created": "2025-05-28 19:28",
       "link": "https://xingwangzhe.fun/posts/f023e0e0/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "群众计算机素养这块堪忧",
-      "created": "2025-05-26 20:33",
-      "link": "https://xingwangzhe.fun/posts/72ce85f7/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
