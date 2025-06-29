@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 23,
-    "active_num": 19,
-    "error_num": 4,
-    "article_num": 260,
-    "last_updated_time": "2025-06-29 09:05:15"
+    "active_num": 18,
+    "error_num": 5,
+    "article_num": 245,
+    "last_updated_time": "2025-06-29 14:17:04"
   },
   "article_data": [
     {
@@ -218,13 +218,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "关于近期群内冲突的说明与致歉",
-      "created": "2025-05-24 17:15",
-      "link": "https://blog.linux-qitong.top/posts/1f3edadb/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
       "title": "Mac如何将喜欢的视频作为屏幕保护程序？自定义Mac视频屏保，最新系统教程",
       "created": "2025-05-23 14:26",
       "link": "https://blog.zhheo.com/p/pkrapvvx.html",
@@ -288,13 +281,6 @@
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
     },
     {
-      "title": "芜湖散记：江畔的温柔与遗憾",
-      "created": "2025-05-09 18:23",
-      "link": "https://blog.linux-qitong.top/posts/11bb7200/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
       "title": "微信快速找出自己创建的群聊",
       "created": "2025-05-08 13:00",
       "link": "https://www.imaegoo.com/2025/find-owned-weixin-group/",
@@ -342,13 +328,6 @@
       "link": "https://blog.liushen.fun/posts/caee2d9f/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "使用Vercel自建Umami数据统计",
-      "created": "2025-04-16 09:23",
-      "link": "https://blog.linux-qitong.top/posts/86dde596/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "PS邀请函多名字怎么处理？批量制作证书、邀请函、奖状图片",
@@ -449,13 +428,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "回忆没有网络的岁月",
-      "created": "2025-02-21 19:23",
-      "link": "https://blog.linux-qitong.top/posts/3fbb769/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
       "title": "仅需两个文件，实现在 VS Code 状态栏监控黄金价格",
       "created": "2025-02-21 08:00",
       "link": "https://www.imaegoo.com/2025/vscode-ext-gold-monitor/",
@@ -475,13 +447,6 @@
       "link": "https://blog.redish101.top/article/gn-quick-start-guide",
       "author": "Redish101",
       "avatar": "https://bu.dusays.com/2024/09/01/66d3c23c16277.jpg"
-    },
-    {
-      "title": "伤心的过去",
-      "created": "2025-02-15 09:23",
-      "link": "https://blog.linux-qitong.top/posts/604987c3/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "windows本地部署DeepSeek-R1模型",
@@ -510,13 +475,6 @@
       "link": "https://blog.liushen.fun/posts/a0ab9e68/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "公共澡堂-洗澡体验",
-      "created": "2025-01-23 09:23",
-      "link": "https://blog.linux-qitong.top/posts/851d5ed7/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "Qt Troubleshoot（三）",
@@ -568,13 +526,6 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
-      "title": "如何打造高效的团队",
-      "created": "2024-12-29 12:20",
-      "link": "https://blog.linux-qitong.top/posts/bacc54dc/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
       "title": "迟别，OI",
       "created": "2024-12-17 17:22",
       "link": "https://blog.yaria.top/posts/7944d7c6",
@@ -622,13 +573,6 @@
       "link": "https://www.imaegoo.com/2024/android-fullscreen/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "Linux使用Git命令远程上传",
-      "created": "2024-11-16 09:28",
-      "link": "https://blog.linux-qitong.top/posts/c06a1f35/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "屠龙者终成恶龙",
@@ -818,13 +762,6 @@
       "link": "https://blog.yaria.top/posts/c0z8jdo2",
       "author": "Ariasakaの小窝",
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
-    },
-    {
-      "title": "简易美化Butterfly主题",
-      "created": "2024-09-17 06:30",
-      "link": "https://blog.linux-qitong.top/posts/305bae84/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "Markdown与外挂标签语法测试",
@@ -1079,20 +1016,6 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
-      "title": "GitHub Actions自动部署Hexo博客",
-      "created": "2024-01-22 12:23",
-      "link": "https://blog.linux-qitong.top/posts/fd2f879b/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
-      "title": "修复Linux前置音频插孔无声音",
-      "created": "2024-01-21 14:00",
-      "link": "https://blog.linux-qitong.top/posts/f1df95b1/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
       "title": "我的2023回忆录——还有遗憾吗？明年会怎么样呢？",
       "created": "2023-12-31 08:34",
       "link": "https://blog.yaria.top/posts/b7bc969f",
@@ -1324,13 +1247,6 @@
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
     },
     {
-      "title": "搭建Hexo博客及安装NPM环境指南",
-      "created": "2023-07-16 09:23",
-      "link": "https://blog.linux-qitong.top/posts/1b32c63/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
       "title": "将我的博客迁移到Next.js App Router与React Server Components",
       "created": "2023-07-13 13:03",
       "link": "https://blog.redish101.top/article/migrate-my-blog-to-nextjs-app-router-and-react-server-component",
@@ -1350,20 +1266,6 @@
       "link": "https://www.ordchaos.com/posts/c2e7460a/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
-      "title": "如何重新打包Debian软件包",
-      "created": "2023-06-27 09:28",
-      "link": "https://blog.linux-qitong.top/posts/7394d04d/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
-      "title": "如何编译Debian格式的Linux内核",
-      "created": "2023-06-25 12:20",
-      "link": "https://blog.linux-qitong.top/posts/15118675/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "ECharts 帕累托图",
@@ -1476,13 +1378,6 @@
       "link": "https://www.fomal.cc/posts/c59270e7.html",
       "author": "Fomalhaut🥝",
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
-    },
-    {
-      "title": "老爷机安装Linux Mint Xfce指南",
-      "created": "2023-03-15 08:52",
-      "link": "https://blog.linux-qitong.top/posts/1131c5be/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "ECharts 渐变折线图",
