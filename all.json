@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 4,
     "article_num": 260,
-    "last_updated_time": "2025-07-01 14:18:38"
+    "last_updated_time": "2025-07-01 20:23:31"
   },
   "article_data": [
+    {
+      "title": "浅谈AIGC论文检测",
+      "created": "2025-07-01 19:32",
+      "link": "https://blog.liushen.fun/posts/58e1bd57/",
+      "author": "清羽飞扬",
+      "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
     {
       "title": "P13020 [GESP202506 八级] 遍历计数 题解",
       "created": "2025-06-30 19:18",
@@ -510,13 +517,6 @@
       "link": "http://ichika.cc/Article/game_KGA2024/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "2024再见，2025你好！",
-      "created": "2025-02-02 00:31",
-      "link": "https://blog.liushen.fun/posts/a0ab9e68/",
-      "author": "清羽飞扬",
-      "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
       "title": "公共澡堂-洗澡体验",
