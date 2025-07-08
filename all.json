@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 4,
     "article_num": 260,
-    "last_updated_time": "2025-07-08 14:18:51"
+    "last_updated_time": "2025-07-08 20:24:49"
   },
   "article_data": [
+    {
+      "title": "Ubuntu 24.04 安装 Vivado 2018.3",
+      "created": "2025-07-08 14:35",
+      "link": "https://xingwangzhe.fun/posts/1a282b79/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "腾讯云EdgeOne免费版配置攻略，如何给我的网站加速",
       "created": "2025-07-08 10:33",
@@ -207,13 +214,6 @@
       "title": "自由不止软件-记录一次zlib上传书籍",
       "created": "2025-06-01 21:06",
       "link": "https://xingwangzhe.fun/posts/fb8a0c1d/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "异梦-boom与陨石灾变",
-      "created": "2025-06-01 19:04",
-      "link": "https://xingwangzhe.fun/posts/1e837f38/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
