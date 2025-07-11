@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 280,
-    "last_updated_time": "2025-07-11 09:00:06"
+    "last_updated_time": "2025-07-11 14:18:19"
   },
   "article_data": [
+    {
+      "title": "Android 强制锁定屏幕旋转方向",
+      "created": "2025-07-11 08:00",
+      "link": "https://www.imaegoo.com/2025/orientation-lock/",
+      "author": "iMaeGoo’s Blog",
+      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
+    },
     {
       "title": "企业微信实用操作指南",
       "created": "2025-07-11 01:09",
@@ -1005,13 +1012,6 @@
       "title": "前端人的 Python、Conda 环境搭建",
       "created": "2024-09-19 19:00",
       "link": "https://www.imaegoo.com/2024/python-conda-setup/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "给 Parsec 设置代理，解决国内无法打开、无法登录、无法刷新的问题",
-      "created": "2024-09-18 15:19",
-      "link": "https://www.imaegoo.com/2024/parsec-proxy/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
