@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 280,
-    "last_updated_time": "2025-07-13 14:17:07"
+    "last_updated_time": "2025-07-13 20:21:39"
   },
   "article_data": [
+    {
+      "title": "读书：《Free as in Freedom》——若为自由故",
+      "created": "2025-07-13 13:52",
+      "link": "https://xingwangzhe.fun/posts/1ae84415/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "PNG 二十年磨一剑：W3C 正式第三版",
       "created": "2025-07-12 23:20",
@@ -328,13 +335,6 @@
       "link": "https://blog.6uu.us/archives/wo-de-aiqu-dong-phpxiang-mu-gou-xiang-zou-xiang-quan-zi-dong-hua-bian-cheng",
       "author": "bbb-lsy07",
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
-    },
-    {
-      "title": "ubuntu折腾记录",
-      "created": "2025-06-06 13:18",
-      "link": "https://xingwangzhe.fun/posts/e665b92c/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "TaoSync上手：基于Alist的文件同步系统，文件备份神器",
