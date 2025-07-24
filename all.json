@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 250,
-    "last_updated_time": "2025-07-24 09:03:20"
+    "last_updated_time": "2025-07-24 14:20:46"
   },
   "article_data": [
+    {
+      "title": "7x24:运维使命",
+      "created": "2025-07-24 08:11",
+      "link": "https://xingwangzhe.fun/posts/a16c0283/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "西安·十几年后的初识",
       "created": "2025-07-18 20:00",
@@ -314,13 +321,6 @@
       "link": "http://ichika.cc/Article/game_Expedition33/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "再简单折腾一下ubuntu",
-      "created": "2025-06-08 21:17",
-      "link": "https://xingwangzhe.fun/posts/e18027de/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "TaoSync上手：基于Alist的文件同步系统，文件备份神器",
