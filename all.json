@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 235,
-    "last_updated_time": "2025-07-25 20:25:35"
+    "last_updated_time": "2025-07-26 02:19:13"
   },
   "article_data": [
+    {
+      "title": "Forgejo及其Action自部署简明教程",
+      "created": "2025-07-25 22:00",
+      "link": "https://blog.liushen.fun/posts/de5fc13c/",
+      "author": "清羽飞扬",
+      "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
     {
       "title": "7x24:运维使命",
       "created": "2025-07-24 08:11",
@@ -552,13 +559,6 @@
       "link": "http://ichika.cc/Article/game_EnderMagnolia/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "静态网站优化方案",
-      "created": "2025-02-27 10:11",
-      "link": "https://blog.liushen.fun/posts/260f4f9a/",
-      "author": "清羽飞扬",
-      "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
       "title": "回忆没有网络的岁月",
