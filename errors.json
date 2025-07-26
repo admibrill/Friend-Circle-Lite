@@ -1,13 +1,13 @@
 [
   [
-    "Tianli",
-    "https://tianli-blog.club/",
-    "https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640"
-  ],
-  [
     "CyanFalse's Weblog",
     "https://blog.eurekac.cn",
     "https://cdn.eurekac.cn/npm/chenyfan-oss/4.0.0/files/512.jpg"
+  ],
+  [
+    "Tianli",
+    "https://tianli-blog.club/",
+    "https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640"
   ],
   [
     "Redish101",
@@ -18,10 +18,5 @@
     "xyx404",
     "https://blog.qyadbr.top/link/",
     "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
-  ],
-  [
-    "序炁的博客",
-    "https://www.ordchaos.com",
-    "https://www.ordchaos.com/img/avatar.jpg"
   ]
 ]
