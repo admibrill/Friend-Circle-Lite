@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 265,
-    "last_updated_time": "2025-07-30 14:20:39"
+    "last_updated_time": "2025-07-30 20:25:53"
   },
   "article_data": [
+    {
+      "title": "稻田之殇-农耕梦碎",
+      "created": "2025-07-30 15:50",
+      "link": "https://blog.linux-qitong.top/posts/5233feb3/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
     {
       "title": "Sketch2025上手：迎接画框的时代，对齐Figma的一大步了，画框快速入门教程",
       "created": "2025-07-28 11:54",
@@ -1525,13 +1532,6 @@
       "link": "https://www.fomal.cc/posts/c59270e7.html",
       "author": "Fomalhaut🥝",
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
-    },
-    {
-      "title": "老爷机安装Linux Mint Xfce指南",
-      "created": "2023-03-15 08:52",
-      "link": "https://blog.linux-qitong.top/posts/1131c5be/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "ECharts 渐变折线图",
