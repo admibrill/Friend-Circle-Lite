@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 265,
-    "last_updated_time": "2025-08-06 09:02:56"
+    "last_updated_time": "2025-08-06 14:21:24"
   },
   "article_data": [
+    {
+      "title": "bat 脚本打印输出彩色文字",
+      "created": "2025-08-06 08:00",
+      "link": "https://www.imaegoo.com/2025/bat-color/",
+      "author": "iMaeGoo’s Blog",
+      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
+    },
     {
       "title": "田埂之争-恶邻",
       "created": "2025-08-05 09:17",
@@ -923,13 +930,6 @@
       "link": "https://www.qcqx.cn/article/cb488cbf.html",
       "author": "轻笑Chuckle",
       "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
-      "title": "前端人的 Python、Conda 环境搭建",
-      "created": "2024-09-19 19:00",
-      "link": "https://www.imaegoo.com/2024/python-conda-setup/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "Arch Linux + Windows 11 双系统硬盘迁移超级踩坑记",
