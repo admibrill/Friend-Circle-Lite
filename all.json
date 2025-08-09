@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 265,
-    "last_updated_time": "2025-08-09 08:57:53"
+    "last_updated_time": "2025-08-09 14:17:15"
   },
   "article_data": [
+    {
+      "title": "爆，沉浸式翻译泄露敏感信息",
+      "created": "2025-08-09 07:37",
+      "link": "https://xingwangzhe.fun/posts/59d4a1c5/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "循一缕风，入山偷得夏日凉",
       "created": "2025-08-08 13:50",
@@ -377,13 +384,6 @@
       "link": "https://blog.liushen.fun/posts/5aebde52/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "解决ubuntu智能卡验证问题,取消智能卡验证",
-      "created": "2025-06-12 09:53",
-      "link": "https://xingwangzhe.fun/posts/b0c84f59/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "拓竹H2D小测评",
