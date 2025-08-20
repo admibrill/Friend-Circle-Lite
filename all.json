@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 265,
-    "last_updated_time": "2025-08-20 08:55:01"
+    "last_updated_time": "2025-08-20 14:18:06"
   },
   "article_data": [
+    {
+      "title": "GPG公钥分享文化",
+      "created": "2025-08-20 08:05",
+      "link": "https://xingwangzhe.fun/posts/f74e64e5/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "解决在ubuntu上，打包vscode插件问题",
       "created": "2025-08-18 20:24",
@@ -382,13 +389,6 @@
       "title": "博客一周年了，竟然坚持了下来",
       "created": "2025-06-20 16:43",
       "link": "https://xingwangzhe.fun/posts/3bf19d88/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "天上不会掉馅饼，那是陷阱！",
-      "created": "2025-06-19 19:39",
-      "link": "https://xingwangzhe.fun/posts/3797104e/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
