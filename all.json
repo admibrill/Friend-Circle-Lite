@@ -3,8 +3,8 @@
     "friends_num": 24,
     "active_num": 20,
     "error_num": 4,
-    "article_num": 265,
-    "last_updated_time": "2025-08-21 08:53:59"
+    "article_num": 250,
+    "last_updated_time": "2025-08-21 14:27:08"
   },
   "article_data": [
     {
@@ -160,13 +160,6 @@
       "link": "https://xingwangzhe.fun/posts/a16c0283/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "去看了千与千寻舞台剧，超级推荐",
-      "created": "2025-07-23 16:00",
-      "link": "http://ichika.cc/Article/life_SpritedAway/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "西安·十几年后的初识",
@@ -435,25 +428,11 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "拓竹H2D小测评",
-      "created": "2025-06-11 19:05",
-      "link": "http://ichika.cc/Article/tech_BambuH2D/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "面对Alist商业化：如何从Alist解绑阿里云盘？如何避免阿里云盘的数据被第三方应用读取",
       "created": "2025-06-11 12:03",
       "link": "https://blog.zhheo.com/p/w1hvnzfq.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "《光与影：33号远征队》",
-      "created": "2025-06-09 22:10",
-      "link": "http://ichika.cc/Article/game_Expedition33/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "哈哈，好久没更新了",
@@ -503,13 +482,6 @@
       "link": "https://fe32.top/articles/linux002/",
       "author": "唐志远",
       "avatar": "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
-    },
-    {
-      "title": "《浪漫沙加2：七英雄的复仇》不浪漫，但好玩",
-      "created": "2025-05-12 18:10",
-      "link": "http://ichika.cc/Article/game_RomancingSaga2/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "HTTP 协议详解",
@@ -617,27 +589,6 @@
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
-      "title": "そして、次の曲が始まるのです！——吹响吧上低音号10th Anniversary",
-      "created": "2025-03-18 22:00",
-      "link": "http://ichika.cc/Article/life_eupho10th/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "任天堂博物馆参观与购票指北",
-      "created": "2025-03-18 16:00",
-      "link": "http://ichika.cc/Article/life_NintendoMuseum/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "《终焉之马格诺利亚》 优雅的恶魔城续作",
-      "created": "2025-02-27 19:50",
-      "link": "http://ichika.cc/Article/game_EnderMagnolia/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "回忆没有网络的岁月",
       "created": "2025-02-21 19:23",
       "link": "https://blog.linux-qitong.top/posts/3fbb769/",
@@ -657,20 +608,6 @@
       "link": "https://blog.linux-qitong.top/posts/604987c3/",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
-      "title": "看了PJSK 4th live与初音未来大电影",
-      "created": "2025-02-02 22:30",
-      "link": "http://ichika.cc/Article/life_PJSK4thLiveAndMovie/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "KGA2024&大概是年终总结",
-      "created": "2025-02-02 17:12",
-      "link": "http://ichika.cc/Article/game_KGA2024/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "原码、补码和反码",
@@ -699,20 +636,6 @@
       "link": "https://blog.qyadbr.top/2025/01/18/hexo11/",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "《逆向坍塌：面包房行动》这不比少前好玩？",
-      "created": "2025-01-16 18:10",
-      "link": "http://ichika.cc/Article/game_ReverseCollapse/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "2025游戏记录",
-      "created": "2025-01-01 00:00",
-      "link": "http://ichika.cc/Article/game_GameRecord2025/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "十五岁、迷茫还是梦与希冀？——我的2024",
@@ -757,25 +680,11 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
-      "title": "《学园偶像大师》 站在赛马娘的肩膀上",
-      "created": "2024-12-04 19:50",
-      "link": "http://ichika.cc/Article/game_GakuenImas/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "自己动手写三维引擎（一）",
       "created": "2024-11-24 18:43",
       "link": "https://blog.qyadbr.top/2024/11/24/hexo8/",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "异形工厂2&幸福工厂：自动化流水线的魅力",
-      "created": "2024-11-22 12:10",
-      "link": "http://ichika.cc/Article/game_Shapez2&Satisfactory/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "Android 14 APP 全屏代码实现",
@@ -862,13 +771,6 @@
       "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
-      "title": "国庆去了cp30",
-      "created": "2024-10-12 16:00",
-      "link": "http://ichika.cc/Article/life_cp30/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "题解：P4986 逃离",
       "created": "2024-10-12 05:03",
       "link": "https://blog.walterfang.us.kg/posts/solution-p4986/",
@@ -888,13 +790,6 @@
       "link": "https://blog.walterfang.us.kg/posts/solution-at_abc236_f/",
       "author": "Walter_Fang",
       "avatar": "https://blog.walterfang.site/walterfang.jpg"
-    },
-    {
-      "title": "《黑神话：悟空》 国产佳作",
-      "created": "2024-10-08 14:10",
-      "link": "http://ichika.cc/Article/game_BlackMyth/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "做题笔记",
