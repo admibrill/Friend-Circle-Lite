@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-09-05 20:21:14"
+    "last_updated_time": "2025-09-06 02:14:59"
   },
   "article_data": [
+    {
+      "title": "为什么说，大学教育与社会脱节",
+      "created": "2025-09-05 19:47",
+      "link": "https://xingwangzhe.fun/posts/f1467e6a/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "版主生涯的回忆",
       "created": "2025-09-05 10:17",
@@ -475,13 +482,6 @@
       "link": "https://liangbm3.site/blog/c-de-sizeof-yun-suan-fu",
       "author": "liangbm3’s blog",
       "avatar": "https://liangbm3.site/avatar.png"
-    },
-    {
-      "title": "俄罗斯互联网用户无法访问Cloudflare",
-      "created": "2025-06-28 09:18",
-      "link": "https://xingwangzhe.fun/posts/3a0159f8/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "C++ 中的内存对齐",
