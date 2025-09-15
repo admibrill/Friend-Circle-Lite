@@ -4,7 +4,7 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-09-15 14:19:36"
+    "last_updated_time": "2025-09-15 20:23:30"
   },
   "article_data": [
     {
@@ -13,6 +13,20 @@
       "link": "https://blog.zhheo.com/p/25udchxs.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "计算机组成原理第二章 - 定点数与浮点数",
+      "created": "2025-09-14 18:06",
+      "link": "https://xingwangzhe.fun/posts/4f16228c/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "计算机组成原理第一章",
+      "created": "2025-09-14 17:51",
+      "link": "https://xingwangzhe.fun/posts/d7dbaa42/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "教你部署Astro Fuwari静态博客",
@@ -358,13 +372,6 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
-      "title": "赶集风景，平淡的一天",
-      "created": "2025-08-04 17:34",
-      "link": "https://xingwangzhe.fun/posts/7c20886a/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "发生什么事情了捏？记博客图片丢失与被黑删文——用CFR2当图床！",
       "created": "2025-08-02 11:15",
       "link": "https://blog.yaria.top/posts/730cf317",
@@ -412,13 +419,6 @@
       "link": "https://blog.liushen.fun/posts/de5fc13c/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "7x24:运维使命",
-      "created": "2025-07-24 08:11",
-      "link": "https://xingwangzhe.fun/posts/a16c0283/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "去看了千与千寻舞台剧，超级推荐",
