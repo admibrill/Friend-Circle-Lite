@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-09-16 20:23:05"
+    "last_updated_time": "2025-09-17 02:17:46"
   },
   "article_data": [
+    {
+      "title": "Casdoor强行兼容Artalk社交登录",
+      "created": "2025-09-16 23:50",
+      "link": "https://blog.liushen.fun/posts/8624756e/",
+      "author": "清羽飞扬",
+      "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
     {
       "title": "Xingwangzhe! Z-Library We miss you and we need your help",
       "created": "2025-09-16 19:47",
@@ -748,13 +755,6 @@
       "link": "https://blog.linux-qitong.top/posts/86dde596/",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
-      "title": "PaddleYOLO训练自己的数据集",
-      "created": "2025-04-08 15:27",
-      "link": "https://blog.liushen.fun/posts/4bb33804/",
-      "author": "清羽飞扬",
-      "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
       "title": "使用Github Actions定制Github个人主页",
