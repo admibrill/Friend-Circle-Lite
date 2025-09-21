@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 24,
-    "active_num": 18,
-    "error_num": 6,
+    "active_num": 19,
+    "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2025-09-21 14:17:00"
+    "last_updated_time": "2025-09-21 20:20:43"
   },
   "article_data": [
+    {
+      "title": "Tauri2.x实现系统菜单导航Vue路由",
+      "created": "2025-09-21 16:37",
+      "link": "https://xingwangzhe.fun/posts/1c1f2d49/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "计算机图形学-基本图形生成算法",
       "created": "2025-09-20 12:35",
@@ -172,13 +179,6 @@
       "title": "计算机图形学绪论",
       "created": "2025-09-08 18:27",
       "link": "https://xingwangzhe.fun/posts/c0bab5bf/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "为什么说，大学教育与社会脱节",
-      "created": "2025-09-05 19:47",
-      "link": "https://xingwangzhe.fun/posts/f1467e6a/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
