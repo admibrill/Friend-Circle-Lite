@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 245,
-    "last_updated_time": "2025-09-29 08:55:44"
+    "last_updated_time": "2025-09-29 14:20:27"
   },
   "article_data": [
+    {
+      "title": "GNU 42周年，AI时代的自由精神",
+      "created": "2025-09-29 08:52",
+      "link": "https://xingwangzhe.fun/posts/c08b9de1/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "解决Linux上启动游戏总是默认English的情况",
       "created": "2025-09-27 20:32",
@@ -188,13 +195,6 @@
       "link": "http://ichika.cc/Article/life_ASLandMM2025/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "计算机图形学-图形的表示与数据结构",
-      "created": "2025-09-08 19:00",
-      "link": "https://xingwangzhe.fun/posts/ba87b986/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "版主生涯的回忆",
