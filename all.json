@@ -4,9 +4,23 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-09-30 20:24:07"
+    "last_updated_time": "2025-10-01 02:16:21"
   },
   "article_data": [
+    {
+      "title": "不同姿势部署Anheyu-App应用",
+      "created": "2025-09-30 23:59",
+      "link": "https://blog.liushen.fun/posts/e3f6f966/",
+      "author": "清羽飞扬",
+      "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "一个高仿某红薯平台-部署教程",
+      "created": "2025-09-30 21:37",
+      "link": "https://blog.6uu.us/archives/bu-shu-yi-ge-gao-fang-mou-hong-shu-ping-tai",
+      "author": "bbb-lsy07",
+      "avatar": "https://images.6uu.us/20250511114301488.JPG"
+    },
     {
       "title": "GNU 42周年，AI时代的自由精神",
       "created": "2025-09-29 08:52",
@@ -666,13 +680,6 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "title": "AI不听话？OpenAI o3模型拒绝关机，这事儿真有点吓人",
-      "created": "2025-05-31 15:45",
-      "link": "https://blog.6uu.us/archives/aibu-ting-hua-openai-o3mo-xing-ju-jue-guan-ji-zhe-shi-er-zhen-you-dian-xia-ren",
-      "author": "bbb-lsy07",
-      "avatar": "https://images.6uu.us/20250511114301488.JPG"
-    },
-    {
       "title": "Moonlark（Nonebot2+Python）命令式聊天机器人插件开发记录",
       "created": "2025-05-25 21:58",
       "link": "https://blog.qyadbr.top/posts/hexo15/",
@@ -746,13 +753,6 @@
       "title": "耗子面板和DPanel简单体验",
       "created": "2025-04-28 22:47",
       "link": "https://blog.liushen.fun/posts/5f71a4b1/",
-      "author": "清羽飞扬",
-      "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "美化你的RSS订阅地址",
-      "created": "2025-04-18 20:47",
-      "link": "https://blog.liushen.fun/posts/caee2d9f/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
