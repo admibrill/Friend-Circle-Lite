@@ -4,9 +4,23 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-10-02 20:21:16"
+    "last_updated_time": "2025-10-03 02:17:29"
   },
   "article_data": [
+    {
+      "title": "如何在Mac上部署indexTTS2，快速语音克隆和情感控制",
+      "created": "2025-10-02 21:59",
+      "link": "https://blog.zhheo.com/p/gulzh21p.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "免费获得17级域名并且托管在CF——IPv6反解域名",
+      "created": "2025-10-02 20:31",
+      "link": "https://blog.6uu.us/archives/mian-fei-huo-de-17ji-yu-ming-bing-qie-tuo-guan-zai-cf----ipv6fan-jie-yu-ming",
+      "author": "bbb-lsy07",
+      "avatar": "https://images.6uu.us/20250511114301488.JPG"
+    },
     {
       "title": "Obsidian使用体验",
       "created": "2025-10-02 16:58",
@@ -365,13 +379,6 @@
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
     },
     {
-      "title": "洪绘速填发布！无登录评论系统自动填写信息插件，Twikoo等评论系统自动填信息",
-      "created": "2025-08-20 15:08",
-      "link": "https://blog.zhheo.com/p/eq9bc5bn.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "真正零基础：Halo博客搭建的极简指南（全程UI，无需命令）",
       "created": "2025-08-15 10:52",
       "link": "https://blog.6uu.us/archives/zhen-zheng-ling-ji-chu-halobo-ke-da-jian-de-ji-jian-zhi-nan-quan-cheng-ui-wu-xu-ming-ling",
@@ -671,13 +678,6 @@
       "link": "https://blog.liushen.fun/posts/327826ac/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "用cloudflare搭建在线观影平台LibreTV",
-      "created": "2025-06-01 11:56",
-      "link": "https://blog.6uu.us/archives/yong-cloudflareda-jian-zai-xian-guan-ying-ping-tai-libretv",
-      "author": "bbb-lsy07",
-      "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
       "title": "Moonlark（Nonebot2+Python）命令式聊天机器人插件开发记录",
