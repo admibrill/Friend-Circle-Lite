@@ -1,19 +1,12 @@
 {
   "statistical_data": {
     "friends_num": 24,
-    "active_num": 19,
-    "error_num": 5,
-    "article_num": 260,
-    "last_updated_time": "2025-10-05 08:58:56"
+    "active_num": 18,
+    "error_num": 6,
+    "article_num": 235,
+    "last_updated_time": "2025-10-05 14:18:20"
   },
   "article_data": [
-    {
-      "title": "如何在Mac上部署indexTTS2，快速语音克隆和情感控制",
-      "created": "2025-10-02 21:59",
-      "link": "https://blog.zhheo.com/p/gulzh21p.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
     {
       "title": "免费获得17级域名并且托管在CF——IPv6反解域名",
       "created": "2025-10-02 20:31",
@@ -71,20 +64,6 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "升级到 macOS Tahoe 26 没有启动台？用 LaunchNext 实现在 macOS26 中使用启动台！",
-      "created": "2025-09-24 09:42",
-      "link": "https://blog.zhheo.com/p/rvl5xpjy.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "如何批量下载抖音某一个博主的全部视频，抖音视频批量下载方法",
-      "created": "2025-09-22 10:10",
-      "link": "https://blog.zhheo.com/p/u4t3kbx9.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "Tauri2.x实现系统菜单导航Vue路由",
       "created": "2025-09-21 16:37",
       "link": "https://xingwangzhe.fun/posts/1c1f2d49/",
@@ -127,25 +106,11 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "在 Mac 的 Drawthings 中使用 Qwen Image Edit 打造个人IP形象衍生图",
-      "created": "2025-09-19 18:11",
-      "link": "https://blog.zhheo.com/p/0zfcxubz.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "旧忆 - 我曾玩过的游戏",
       "created": "2025-09-19 13:15",
       "link": "https://xingwangzhe.fun/posts/ecf8776c/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "AE、PR导出的视频发灰发亮怎么办？使用QucikTime播放颜色不对解决方法",
-      "created": "2025-09-18 11:03",
-      "link": "https://blog.zhheo.com/p/x9z1ci7b.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "再谈自由软件",
@@ -162,13 +127,6 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "AE如何给曲线添加波浪动态效果，动态的波浪线制作",
-      "created": "2025-09-17 11:42",
-      "link": "https://blog.zhheo.com/p/419mi3zm.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "Casdoor强行兼容Artalk社交登录",
       "created": "2025-09-16 23:50",
       "link": "https://blog.liushen.fun/posts/8624756e/",
@@ -183,20 +141,6 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "蓝屏报错 clock watchdog timeout 的一次经历，开机1分30秒必定死机",
-      "created": "2025-09-16 10:40",
-      "link": "https://blog.zhheo.com/p/7zoumq5l.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "让你的Mac巨省电，使用EfficiencyTool自定义程序在性能核心还是节能核心上运行",
-      "created": "2025-09-15 10:48",
-      "link": "https://blog.zhheo.com/p/25udchxs.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "计算机组成原理第二章 - 定点数与浮点数",
       "created": "2025-09-14 18:06",
       "link": "https://xingwangzhe.fun/posts/4f16228c/",
@@ -209,13 +153,6 @@
       "link": "https://blog.6uu.us/archives/xiang-xi-jiao-ni-bu-shu-astro-fuwarijing-tai-bo-ke",
       "author": "bbb-lsy07",
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
-    },
-    {
-      "title": "OpenWrt如何启用DoH？让软路由下的设备使用 DNS over HTTPS",
-      "created": "2025-09-12 18:30",
-      "link": "https://blog.zhheo.com/p/tvu4kf6v.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "雨云日本东京服务器测评",
@@ -260,48 +197,6 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
-      "title": "Sketch教程：液态玻璃、玻璃效果与渐变模糊、不透明度渐变",
-      "created": "2025-09-03 14:27",
-      "link": "https://blog.zhheo.com/p/1nc4t8qs.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "洪绘电子章发布！在线给你的PDF快速盖上电子章、骑缝章，你的盖章助手",
-      "created": "2025-09-03 11:06",
-      "link": "https://blog.zhheo.com/p/j0xcp072.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "卸载百度网盘智能看图",
-      "created": "2025-09-02 08:00",
-      "link": "https://www.imaegoo.com/2025/uninstall-netdisk-image-viewer/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "CDN 方式引入 Monaco Editor",
-      "created": "2025-09-01 17:30",
-      "link": "https://www.imaegoo.com/2025/monaco-editor-cdn/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "Nano Banana上手：全能的AI图片生成与AI图片修改模型",
-      "created": "2025-09-01 14:37",
-      "link": "https://blog.zhheo.com/p/yzge5thp.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "在线工具 - 富文本转 Markdown",
-      "created": "2025-09-01 12:30",
-      "link": "https://www.imaegoo.com/2025/html-to-md/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "博客一周年记",
       "created": "2025-08-30 14:17",
       "link": "https://blog.qyadbr.top/posts/hexo17/",
@@ -316,46 +211,11 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "给Openwrt软路由更换网络拥塞控制算法为BBR降低延迟水平并减少丢包",
-      "created": "2025-08-29 10:37",
-      "link": "https://blog.zhheo.com/p/ihokom38.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "免费无限流量的CDN又来了！腾讯云EdgeOne良心到又哭了（抽兑换码）",
-      "created": "2025-08-28 10:13",
-      "link": "https://blog.zhheo.com/p/o4nhg19d.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "Mac微信终于原生支持聊天记录备份到移动硬盘了",
-      "created": "2025-08-27 14:37",
-      "link": "https://blog.zhheo.com/p/c90540x0.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "新的开源ICP备案系统Yuan-ICP 高拓展性的新一代备案系统",
       "created": "2025-08-25 20:17",
       "link": "https://blog.6uu.us/archives/xin-de-kai-yuan-icpbei-an-xi-tong-yuan-icp-gao-tuo-zhan-xing-de-xin-yi-dai-bei-an-xi-tong",
       "author": "bbb-lsy07",
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
-    },
-    {
-      "title": "2025 年了，安卓平板上什么第三方九键输入法最好用？",
-      "created": "2025-08-25 12:00",
-      "link": "https://www.imaegoo.com/2025/android-pad-input-method/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "鸿蒙 PC 编译运行 Electron 应用",
-      "created": "2025-08-25 08:00",
-      "link": "https://www.imaegoo.com/2025/harmony-pc-electron/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "Nintendo Switch 2：恰到好处的升级",
@@ -428,13 +288,6 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "title": "bat 脚本打印输出彩色文字",
-      "created": "2025-08-06 08:00",
-      "link": "https://www.imaegoo.com/2025/bat-color/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "田埂之争-恶邻",
       "created": "2025-08-05 09:17",
       "link": "https://blog.linux-qitong.top/posts/1f6d5936/",
@@ -489,13 +342,6 @@
       "link": "https://blog.6uu.us/archives/png-er-shi-nian-mo-yi-jian-w3c-zheng-shi-tui-jian-di-san-ban-dong-tu-yu-hdr",
       "author": "bbb-lsy07",
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
-    },
-    {
-      "title": "Android 强制锁定屏幕旋转方向",
-      "created": "2025-07-11 08:00",
-      "link": "https://www.imaegoo.com/2025/orientation-lock/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "企业微信实用操作指南",
@@ -610,13 +456,6 @@
       "avatar": "https://liangbm3.site/avatar.png"
     },
     {
-      "title": "腾讯代码托管服务 Coding 将停服",
-      "created": "2025-06-27 09:00",
-      "link": "https://www.imaegoo.com/2025/coding-end-of-service/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "使用 PeerJS 构建点对点文件传输 Web 应用",
       "created": "2025-06-21 18:52",
       "link": "https://blog.6uu.us/archives/shi-yong-peerjs-gou-jian-dian-dui-dian-wen-jian-chuan-shu-web-ying-yong",
@@ -729,25 +568,11 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
-      "title": "微信快速找出自己创建的群聊",
-      "created": "2025-05-08 13:00",
-      "link": "https://www.imaegoo.com/2025/find-owned-weixin-group/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "本地实现HEXO文章AI摘要",
       "created": "2025-05-07 00:00",
       "link": "https://blog.liushen.fun/posts/40702a0d/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "将扣子空间生成的 jsx 格式网页部署到自己的服务器",
-      "created": "2025-04-29 08:00",
-      "link": "https://www.imaegoo.com/2025/coze-space-jsx/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "耗子面板和DPanel简单体验",
