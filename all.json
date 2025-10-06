@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-10-06 14:19:16"
+    "last_updated_time": "2025-10-06 20:23:47"
   },
   "article_data": [
+    {
+      "title": "中秋-来试试Moonbit吧",
+      "created": "2025-10-06 16:11",
+      "link": "https://xingwangzhe.fun/posts/32faf407/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "如何在Mac上部署indexTTS2，快速语音克隆和情感控制",
       "created": "2025-10-02 21:59",
@@ -195,13 +202,6 @@
       "link": "https://blog.zhheo.com/p/25udchxs.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "计算机组成原理第二章 - 定点数与浮点数",
-      "created": "2025-09-14 18:06",
-      "link": "https://xingwangzhe.fun/posts/4f16228c/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "教你部署Astro Fuwari静态博客",
