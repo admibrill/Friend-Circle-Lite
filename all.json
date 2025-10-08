@@ -4,7 +4,7 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-10-08 02:16:54"
+    "last_updated_time": "2025-10-08 08:53:06"
   },
   "article_data": [
     {
@@ -701,13 +701,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "关于近期群内冲突的说明与致歉",
-      "created": "2025-05-24 17:15",
-      "link": "https://blog.linux-qitong.top/posts/1f3edadb/",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
       "title": "VMware虚拟机 安装 CentOS 7",
       "created": "2025-05-15 16:23",
       "link": "https://fe32.top/articles/linux002/",
@@ -1271,6 +1264,13 @@
       "title": "GitHub Actions自动部署Hexo博客",
       "created": "2024-01-22 12:23",
       "link": "https://blog.linux-qitong.top/posts/fd2f879b/",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "修复Linux前置音频插孔无声音",
+      "created": "2024-01-21 14:00",
+      "link": "https://blog.linux-qitong.top/posts/f1df95b1/",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
