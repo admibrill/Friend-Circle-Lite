@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-10-12 14:16:33"
+    "last_updated_time": "2025-10-12 20:20:56"
   },
   "article_data": [
+    {
+      "title": "偷梁换柱，解决Ubuntu24.04安装Packet Tracer缺失依赖问题",
+      "created": "2025-10-12 17:50",
+      "link": "https://xingwangzhe.fun/posts/9fe82262/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "免费实现未备案域名解析国内服务器",
       "created": "2025-10-12 13:07",
@@ -200,13 +207,6 @@
       "title": "再谈自由软件",
       "created": "2025-09-17 17:25",
       "link": "https://xingwangzhe.fun/posts/945d7e3a/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "可能解决Tauri多窗口应用阻塞问题",
-      "created": "2025-09-17 14:21",
-      "link": "https://xingwangzhe.fun/posts/50b9d330/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
