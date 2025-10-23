@@ -4,9 +4,23 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-10-23 14:19:04"
+    "last_updated_time": "2025-10-23 20:24:45"
   },
   "article_data": [
+    {
+      "title": "Effective C++: 成对使用 new 和 delete 时要采取相同形式",
+      "created": "2025-10-23 08:00",
+      "link": "https://liangbm3.site/blog/effective-c-cheng-dui-shi-yong-new-he-delete-shi-yao-cai-qu-xiang-tong-xing-shi",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "Effective C++: 以独立语句将 newed 对象置入智能指针",
+      "created": "2025-10-23 08:00",
+      "link": "https://liangbm3.site/blog/effective-c-yi-du-li-yu-ju-jiang-newed-dui-xiang-zhi-ru-zhi-neng-zhi-zhen",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
     {
       "title": "ChatGPT Atlas 浏览器上手：能颠覆浏览体验吗？能否彻底抛弃 Chrome？",
       "created": "2025-10-22 13:12",
@@ -634,20 +648,6 @@
       "title": "C++ 中静态局部变量的使用场景",
       "created": "2025-07-05 08:00",
       "link": "https://liangbm3.site/blog/c-zhong-jing-tai-ju-bu-bian-liang-de-shi-yong-chang-jing",
-      "author": "liangbm3’s blog",
-      "avatar": "https://liangbm3.site/avatar.png"
-    },
-    {
-      "title": "C++ 的 static 和 extern 关键字以及相关的概念",
-      "created": "2025-07-04 08:00",
-      "link": "https://liangbm3.site/blog/c-de-static-he-extern-guan-jian-zi-yi-ji-xiang-guan-de-gai-nian",
-      "author": "liangbm3’s blog",
-      "avatar": "https://liangbm3.site/avatar.png"
-    },
-    {
-      "title": "C++ 的函数指针与函数对象",
-      "created": "2025-07-03 08:00",
-      "link": "https://liangbm3.site/blog/c-de-han-shu-zhi-zhen-yu-han-shu-dui-xiang",
       "author": "liangbm3’s blog",
       "avatar": "https://liangbm3.site/avatar.png"
     },
