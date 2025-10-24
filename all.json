@@ -1,12 +1,40 @@
 {
   "statistical_data": {
     "friends_num": 24,
-    "active_num": 16,
-    "error_num": 8,
-    "article_num": 230,
-    "last_updated_time": "2025-10-24 08:52:45"
+    "active_num": 19,
+    "error_num": 5,
+    "article_num": 260,
+    "last_updated_time": "2025-10-24 14:18:15"
   },
   "article_data": [
+    {
+      "title": "1024 重要的日子",
+      "created": "2025-10-24 11:48",
+      "link": "https://xingwangzhe.fun/posts/749956b2/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "CommandPost上手：通过鼠标缩放你的 Final Cut Pro 时间线",
+      "created": "2025-10-23 18:27",
+      "link": "https://blog.zhheo.com/p/rjbyt8wz.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "Effective C++: 成对使用 new 和 delete 时要采取相同形式",
+      "created": "2025-10-23 08:00",
+      "link": "https://liangbm3.site/blog/effective-c-cheng-dui-shi-yong-new-he-delete-shi-yao-cai-qu-xiang-tong-xing-shi",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "Effective C++: 以独立语句将 newed 对象置入智能指针",
+      "created": "2025-10-23 08:00",
+      "link": "https://liangbm3.site/blog/effective-c-yi-du-li-yu-ju-jiang-newed-dui-xiang-zhi-ru-zhi-neng-zhi-zhen",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
     {
       "title": "ChatGPT Atlas 浏览器上手：能颠覆浏览体验吗？能否彻底抛弃 Chrome？",
       "created": "2025-10-22 13:12",
@@ -22,6 +50,13 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "Effective C++: 在资源管理类中提供对原始资源的访问",
+      "created": "2025-10-20 08:00",
+      "link": "https://liangbm3.site/blog/effective-c-zai-zi-yuan-guan-li-lei-zhong-ti-gong-dui-yuan-shi-zi-yuan-de-fang-wen",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
       "title": "Butterfly主题实现赞赏页面及侧边卡片",
       "created": "2025-10-19 17:10",
       "link": "https://blog.liushen.fun/posts/deffcde0/",
@@ -29,11 +64,39 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "Effective C++: 在资源管理类中小心 copying 行为",
+      "created": "2025-10-19 08:00",
+      "link": "https://liangbm3.site/blog/effective-c-zai-zi-yuan-guan-li-lei-zhong-xiao-xin-copying-xing-wei",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "Effective C++: 以对象管理资源",
+      "created": "2025-10-19 08:00",
+      "link": "https://liangbm3.site/blog/effective-c-yi-dui-xiang-guan-li-zi-yuan",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
       "title": "搭建VoceChat家庭聊天服务器",
       "created": "2025-10-18 21:51",
       "link": "https://blog.6uu.us/archives/da-jian-vocechatsi-ren-liao-tian-fu-wu-qi",
       "author": "bbb-lsy07",
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
+    },
+    {
+      "title": "Effective C++: 为多态基类声明虚析构函数",
+      "created": "2025-10-18 08:00",
+      "link": "https://liangbm3.site/blog/effective-c-wei-duo-tai-ji-lei-sheng-ming-xu-xi-gou-han-shu",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "Effective C++: 视C++为一个语言联邦",
+      "created": "2025-10-18 08:00",
+      "link": "https://liangbm3.site/blog/effective-c-shi-c-wei-yi-ge-yu-yan-lian-bang",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
     },
     {
       "title": "Final Cut Pro 资源库文件过大如何解决？如何清理资源库中的渲染文件和缓存？",
@@ -48,6 +111,34 @@
       "link": "https://blog.zhheo.com/p/k34vgibs.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "C++ 中使用 SQLite3 API 的经典流程",
+      "created": "2025-10-16 08:00",
+      "link": "https://liangbm3.site/blog/c-zhong-shi-yong-sqlite3-api-de-jing-dian-liu-cheng",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "SQLite 踩坑记录",
+      "created": "2025-10-15 08:00",
+      "link": "https://liangbm3.site/blog/sqlite-cai-keng-ji-lu",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "再也不见Windows10",
+      "created": "2025-10-14 08:25",
+      "link": "https://xingwangzhe.fun/posts/ac8ebba9/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "偷梁换柱，解决Ubuntu24.04安装Packet Tracer缺失依赖问题",
+      "created": "2025-10-12 17:50",
+      "link": "https://xingwangzhe.fun/posts/9fe82262/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "免费实现未备案域名解析国内服务器",
@@ -78,11 +169,25 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "神秘的外链指向我站",
+      "created": "2025-10-09 11:32",
+      "link": "https://xingwangzhe.fun/posts/7cd9e7a9/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "使用TinyAuth实现任意应用登录认证",
       "created": "2025-10-07 16:20",
       "link": "https://blog.liushen.fun/posts/362bfd8b/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "中秋-来试试Moonbit吧",
+      "created": "2025-10-06 16:11",
+      "link": "https://xingwangzhe.fun/posts/32faf407/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "如何在Mac上部署indexTTS2，快速语音克隆和情感控制",
@@ -99,6 +204,27 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
+      "title": "Obsidian使用体验",
+      "created": "2025-10-02 16:58",
+      "link": "https://xingwangzhe.fun/posts/d5f89da4/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "猪猪侠·一只老猪的逆袭",
+      "created": "2025-10-01 15:23",
+      "link": "https://xingwangzhe.fun/posts/ab47fdfc/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "国庆日纪念",
+      "created": "2025-10-01 13:56",
+      "link": "https://xingwangzhe.fun/posts/0b1a4bdd/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "不同姿势部署Anheyu-App应用",
       "created": "2025-09-30 23:59",
       "link": "https://blog.liushen.fun/posts/e3f6f966/",
@@ -111,6 +237,20 @@
       "link": "https://blog.6uu.us/archives/bu-shu-yi-ge-gao-fang-mou-hong-shu-ping-tai",
       "author": "bbb-lsy07",
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
+    },
+    {
+      "title": "GNU 42周年，AI时代的自由精神",
+      "created": "2025-09-29 08:52",
+      "link": "https://xingwangzhe.fun/posts/c08b9de1/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "解决Linux上启动游戏总是默认English的情况",
+      "created": "2025-09-27 20:32",
+      "link": "https://xingwangzhe.fun/posts/81fc36f0/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "升级到 macOS Tahoe 26 没有启动台？用 LaunchNext 实现在 macOS26 中使用启动台！",
@@ -127,11 +267,46 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "Tauri2.x实现系统菜单导航Vue路由",
+      "created": "2025-09-21 16:37",
+      "link": "https://xingwangzhe.fun/posts/1c1f2d49/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "当基督徒的行为违背圣经",
       "created": "2025-09-20 18:55",
       "link": "https://blog.linux-qitong.top/posts/c5715e3e",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "计算机图形学-基本图形生成算法",
+      "created": "2025-09-20 12:35",
+      "link": "https://xingwangzhe.fun/posts/10deed37/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "数据库原理-关系数据",
+      "created": "2025-09-20 11:04",
+      "link": "https://xingwangzhe.fun/posts/8ce31cb6/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "数据库原理-设计技巧",
+      "created": "2025-09-20 10:38",
+      "link": "https://xingwangzhe.fun/posts/2d86180d/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "数据库原理E-R模型",
+      "created": "2025-09-20 09:26",
+      "link": "https://xingwangzhe.fun/posts/6906e0aa/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "在 Mac 的 Drawthings 中使用 Qwen Image Edit 打造个人IP形象衍生图",
@@ -230,13 +405,6 @@
       "link": "https://blog.linux-qitong.top/posts/50f07e17",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
-      "title": "Sketch教程：液态玻璃、玻璃效果与渐变模糊、不透明度渐变",
-      "created": "2025-09-03 14:27",
-      "link": "https://blog.zhheo.com/p/1nc4t8qs.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "卸载百度网盘智能看图",
@@ -440,6 +608,48 @@
       "link": "https://blog.liushen.fun/posts/c00eee1d/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "单源最短路径",
+      "created": "2025-07-09 08:00",
+      "link": "https://liangbm3.site/blog/dan-yuan-zui-duan-lu-jing",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "并查集",
+      "created": "2025-07-08 08:00",
+      "link": "https://liangbm3.site/blog/bing-cha-ji",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "最小生成树",
+      "created": "2025-07-08 08:00",
+      "link": "https://liangbm3.site/blog/zui-xiao-sheng-cheng-shu",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "堆及其相关应用",
+      "created": "2025-07-07 08:00",
+      "link": "https://liangbm3.site/blog/dui-ji-qi-xiang-guan-ying-yong",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "拓扑排序",
+      "created": "2025-07-06 08:00",
+      "link": "https://liangbm3.site/blog/tuo-bu-pai-xu",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "C++ 中静态局部变量的使用场景",
+      "created": "2025-07-05 08:00",
+      "link": "https://liangbm3.site/blog/c-zhong-jing-tai-ju-bu-bian-liang-de-shi-yong-chang-jing",
+      "author": "liangbm3’s blog",
+      "avatar": "https://liangbm3.site/avatar.png"
     },
     {
       "title": "浅谈AIGC论文检测",
