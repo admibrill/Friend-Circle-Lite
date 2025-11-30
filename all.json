@@ -4,7 +4,7 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-11-30 14:18:30"
+    "last_updated_time": "2025-11-30 20:22:01"
   },
   "article_data": [
     {
@@ -15,7 +15,7 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
-      "title": "Debug 记录：一个缺失的“\\0”和一个意外的“%n”引发的挂死",
+      "title": "Debug 记录：一个缺失的“\\0”和一个意外的“%”引发的挂死",
       "created": "2025-11-27 08:00",
       "link": "https://liangbm3.site/blog/debug-ji-lu-yi-ge-que-shi-de-0-he-yi-ge-yi-wai-de-d-yin-fa-de-gua-si",
       "author": "liangbm3’s blog",
