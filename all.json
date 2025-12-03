@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 260,
-    "last_updated_time": "2025-12-03 14:20:17"
+    "last_updated_time": "2025-12-03 20:26:53"
   },
   "article_data": [
+    {
+      "title": "chen-er 专为Chen式ER图打造的npm包",
+      "created": "2025-12-03 15:34",
+      "link": "https://xingwangzhe.fun/posts/b8eb3b61/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "滥用SWPP的后果",
       "created": "2025-11-30 11:35",
@@ -419,13 +426,6 @@
       "link": "https://blog.zhheo.com/p/u4t3kbx9.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "Tauri2.x实现系统菜单导航Vue路由",
-      "created": "2025-09-21 16:37",
-      "link": "https://xingwangzhe.fun/posts/1c1f2d49/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "当基督徒的行为违背圣经",
