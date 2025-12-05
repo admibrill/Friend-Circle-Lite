@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 24,
-    "active_num": 19,
-    "error_num": 5,
+    "active_num": 18,
+    "error_num": 6,
     "article_num": 260,
-    "last_updated_time": "2025-12-05 20:24:56"
+    "last_updated_time": "2025-12-06 02:15:57"
   },
   "article_data": [
+    {
+      "title": "友链图谱 - 汇聚千丝万缕的联系",
+      "created": "2025-12-05 19:58",
+      "link": "https://xingwangzhe.fun/posts/ceec80f8/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "chen-er 专为Chen式ER图打造的npm包",
       "created": "2025-12-03 15:34",
@@ -403,13 +410,6 @@
       "title": "解决Linux上启动游戏总是默认English的情况",
       "created": "2025-09-27 20:32",
       "link": "https://xingwangzhe.fun/posts/81fc36f0/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "7x24:运维使命",
-      "created": "2025-09-25 11:45",
-      "link": "https://xingwangzhe.fun/posts/143ecd9e/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
