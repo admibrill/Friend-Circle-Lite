@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 260,
-    "last_updated_time": "2025-12-08 08:59:24"
+    "last_updated_time": "2025-12-08 14:24:37"
   },
   "article_data": [
+    {
+      "title": "博客主题的软著下来了",
+      "created": "2025-12-08 10:43",
+      "link": "https://xingwangzhe.fun/posts/32b402b0/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "友链图谱 - 汇聚千丝万缕的联系",
       "created": "2025-12-05 19:58",
@@ -403,13 +410,6 @@
       "title": "GNU 42周年，AI时代的自由精神",
       "created": "2025-09-29 08:52",
       "link": "https://xingwangzhe.fun/posts/c08b9de1/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "解决Linux上启动游戏总是默认English的情况",
-      "created": "2025-09-27 20:32",
-      "link": "https://xingwangzhe.fun/posts/81fc36f0/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
