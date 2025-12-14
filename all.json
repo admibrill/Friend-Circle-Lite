@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 260,
-    "last_updated_time": "2025-12-14 09:05:59"
+    "last_updated_time": "2025-12-14 14:18:56"
   },
   "article_data": [
+    {
+      "title": "东北大仙基于恐惧的心理操控",
+      "created": "2025-12-14 12:22",
+      "link": "https://blog.linux-qitong.top/posts/206c7104",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
     {
       "title": "豆包输入法上手：我觉得就当个语音输入法就行",
       "created": "2025-12-12 15:57",
@@ -1392,13 +1399,6 @@
       "link": "https://www.ordchaos.com/posts/c2e7460a/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
-      "title": "如何编译Debian格式的Linux内核",
-      "created": "2023-06-25 12:20",
-      "link": "https://blog.linux-qitong.top/posts/15118675",
-      "author": "青稚の空间",
-      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "ECharts 帕累托图",
