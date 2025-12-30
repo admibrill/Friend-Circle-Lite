@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 275,
-    "last_updated_time": "2025-12-30 02:20:23"
+    "last_updated_time": "2025-12-30 09:01:26"
   },
   "article_data": [
+    {
+      "title": "PJSK COLORFUL LIVE 5th",
+      "created": "2025-12-29 11:00",
+      "link": "http://ichika.cc/Article/life_PJSK5thLive/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
     {
       "title": "我的2025年度经历",
       "created": "2025-12-28 12:48",
@@ -951,13 +958,6 @@
       "link": "https://blog.qyadbr.top/posts/hexo9/",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "《学园偶像大师》 站在赛马娘的肩膀上",
-      "created": "2024-12-04 19:50",
-      "link": "http://ichika.cc/Article/game_GakuenImas/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "自己动手写三维引擎（一）",
