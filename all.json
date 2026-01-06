@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 24,
-    "active_num": 18,
-    "error_num": 6,
-    "article_num": 260,
-    "last_updated_time": "2026-01-06 09:01:58"
+    "active_num": 19,
+    "error_num": 5,
+    "article_num": 275,
+    "last_updated_time": "2026-01-06 14:21:15"
   },
   "article_data": [
+    {
+      "title": "welcome",
+      "created": "2026-01-05 08:00",
+      "link": "https://blog.walterfang.site/posts/welcome/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
     {
       "title": "2025——年复年兮连年念",
       "created": "2026-01-04 23:21",
@@ -41,6 +48,13 @@
       "link": "https://blog.linux-qitong.top/posts/065f484b",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "活成常人：我的2025",
+      "created": "2025-12-27 08:00",
+      "link": "https://blog.walterfang.site/posts/my-2025/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
     },
     {
       "title": "我在2026年推荐的Mac软件",
@@ -652,6 +666,13 @@
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
     },
     {
+      "title": "2507成都行",
+      "created": "2025-08-09 08:00",
+      "link": "https://blog.walterfang.site/posts/2507-chengdu/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
       "title": "循一缕风，入山偷得夏日凉",
       "created": "2025-08-08 13:50",
       "link": "https://blog.liushen.fun/posts/aae6fd55/",
@@ -974,6 +995,13 @@
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
     },
     {
+      "title": "题解：P4526 【模板】自适应辛普森法 2",
+      "created": "2024-10-21 08:00",
+      "link": "https://blog.walterfang.site/posts/solution-p4526/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
       "title": "自己动手写二维物理引擎（一）",
       "created": "2024-10-20 21:33",
       "link": "https://blog.qyadbr.top/posts/hexo7/",
@@ -981,11 +1009,74 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "题解：P11214 【MX-J8-T2】黑洞",
+      "created": "2024-10-20 08:00",
+      "link": "https://blog.walterfang.site/posts/solution-p11214/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
+      "title": "题解：P11217 【MX-S4-T1】「yyOI R2」youyou 的垃圾桶",
+      "created": "2024-10-20 08:00",
+      "link": "https://blog.walterfang.site/posts/solution-p11217/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
+      "title": "转载作文『落雪』",
+      "created": "2024-10-19 08:00",
+      "link": "https://blog.walterfang.site/posts/snow/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
+      "title": "P2880 做题笔记",
+      "created": "2024-10-16 08:00",
+      "link": "https://blog.walterfang.site/posts/note-p2880/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
+      "title": "函数零点求解方法与布伦特法",
+      "created": "2024-10-14 08:00",
+      "link": "https://blog.walterfang.site/posts/brent/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
       "title": "React-记-3",
       "created": "2024-10-13 01:26",
       "link": "https://www.qcqx.cn/article/55cefeb1.html",
       "author": "轻笑Chuckle",
       "avatar": "https://www.qcqx.cn/head.webp"
+    },
+    {
+      "title": "题解：P4986 逃离",
+      "created": "2024-10-11 08:00",
+      "link": "https://blog.walterfang.site/posts/solution-p4986/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
+      "title": "题解：AT_abc236_f [ABC236F] Spices",
+      "created": "2024-10-09 08:00",
+      "link": "https://blog.walterfang.site/posts/solution-at_abc236_f/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
+      "title": "题解：P10464 Task",
+      "created": "2024-10-09 08:00",
+      "link": "https://blog.walterfang.site/posts/solution-p10464/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
+      "title": "做题笔记",
+      "created": "2024-10-07 08:00",
+      "link": "https://blog.walterfang.site/posts/oi-notes/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
     },
     {
       "title": "域名迁移到blog.qyadbr.top",
@@ -1826,6 +1917,20 @@
       "link": "https://zfe.space/post/python-learning.html",
       "author": "小冰博客",
       "avatar": "https://zfe.space/images/headimage.png"
+    },
+    {
+      "title": "Firefly 一款清新美观的 Astro 博客主题模板",
+      "created": "1970-01-02 08:00",
+      "link": "https://blog.walterfang.site/posts/firefly/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
+    },
+    {
+      "title": "Firefly 简单使用指南",
+      "created": "1970-01-02 08:00",
+      "link": "https://blog.walterfang.site/posts/guide/",
+      "author": "Walter_Fang",
+      "avatar": "https://blog.walterfang.site/walterfang.jpg"
     }
   ]
 }
