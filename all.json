@@ -4,7 +4,7 @@
     "active_num": 19,
     "error_num": 5,
     "article_num": 275,
-    "last_updated_time": "2026-01-08 02:20:35"
+    "last_updated_time": "2026-01-08 09:03:43"
   },
   "article_data": [
     {
@@ -13,6 +13,20 @@
       "link": "https://blog.liushen.fun/posts/5db5181d/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "《空之轨迹1st》终于可以入坑轨迹了",
+      "created": "2026-01-07 15:00",
+      "link": "http://ichika.cc/Article/game_SoraNoKiseki1st/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
+      "title": "初音未来交响乐10th神户场",
+      "created": "2026-01-07 15:00",
+      "link": "http://ichika.cc/Article/life_MikuSymphonyAndKobe/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "【置顶】致新访客",
@@ -937,20 +951,6 @@
       "link": "https://blog.qyadbr.top/posts/hexo11/",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "《逆向坍塌：面包房行动》这不比少前好玩？",
-      "created": "2025-01-16 18:10",
-      "link": "http://ichika.cc/Article/game_ReverseCollapse/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "2025游戏记录",
-      "created": "2025-01-01 00:00",
-      "link": "http://ichika.cc/Article/game_GameRecord2025/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "十五岁、迷茫还是梦与希冀？——我的2024",
