@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 24,
-    "active_num": 17,
-    "error_num": 7,
-    "article_num": 245,
-    "last_updated_time": "2026-01-26 02:19:33"
+    "active_num": 18,
+    "error_num": 6,
+    "article_num": 260,
+    "last_updated_time": "2026-01-26 09:08:41"
   },
   "article_data": [
     {
@@ -27,6 +27,13 @@
       "link": "https://blog.linux-qitong.top/posts/12edca53",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "再见👋 LeanCloud",
+      "created": "2026-01-13 13:08",
+      "link": "https://xingwangzhe.fun/posts/7c604030/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "Mac中罗技鼠标键盘近期失灵问题解决方法，Logi Options 打不开",
@@ -83,6 +90,13 @@
       "link": "https://blog.yaria.top/posts/33452911",
       "author": "Ariasakaの小窝",
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
+    },
+    {
+      "title": "2025年终总结",
+      "created": "2025-12-31 18:37",
+      "link": "https://xingwangzhe.fun/posts/cbab25fa/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "PJSK COLORFUL LIVE 5th",
@@ -169,6 +183,13 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "许可合规-fancybox",
+      "created": "2025-12-16 20:12",
+      "link": "https://xingwangzhe.fun/posts/2da95e5f/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "腊月十六 · 光阴转记",
       "created": "2025-12-16 01:08",
       "link": "https://blog.yaria.top/posts/ae5bcf9e",
@@ -211,6 +232,27 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "博客主题的软著下来了",
+      "created": "2025-12-08 10:43",
+      "link": "https://xingwangzhe.fun/posts/32b402b0/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "友链图谱 - 汇聚千丝万缕的联系",
+      "created": "2025-12-05 19:58",
+      "link": "https://xingwangzhe.fun/posts/ceec80f8/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "chen-er 专为Chen式ER图打造的npm包",
+      "created": "2025-12-03 15:34",
+      "link": "https://xingwangzhe.fun/posts/b8eb3b61/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "滥用SWPP的后果",
       "created": "2025-11-30 11:35",
       "link": "https://blog.linux-qitong.top/posts/47f86cfb",
@@ -225,6 +267,20 @@
       "avatar": "https://liangbm3.site/avatar.png"
     },
     {
+      "title": "为什么我推荐你使用GPG来加密你的邮件",
+      "created": "2025-11-24 16:17",
+      "link": "https://xingwangzhe.fun/posts/587ede8c/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "2025第三方客户端登录东北大学邮箱",
+      "created": "2025-11-24 15:47",
+      "link": "https://xingwangzhe.fun/posts/f01f67d6/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "关于未成年犯罪率",
       "created": "2025-11-24 13:35",
       "link": "https://blog.linux-qitong.top/posts/f5843bbd",
@@ -237,6 +293,13 @@
       "link": "https://blog.liushen.fun/posts/6010fc85/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "好久没更新了，过去与未来",
+      "created": "2025-11-18 20:24",
+      "link": "https://xingwangzhe.fun/posts/cc443f72/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "Viitor上手：iOS免费的实时翻译字幕，在小窗中看到正在播放视频的中文翻译",
@@ -300,6 +363,13 @@
       "link": "https://liangbm3.site/blog/effective-c-que-ding-ni-de-public-ji-cheng-su-mo-chu-is-a-guan-xi",
       "author": "liangbm3’s blog",
       "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "1024 重要的日子",
+      "created": "2025-10-24 11:48",
+      "link": "https://xingwangzhe.fun/posts/749956b2/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "Effective C++: 成对使用 new 和 delete 时要采取相同形式",
@@ -379,6 +449,20 @@
       "avatar": "https://liangbm3.site/avatar.png"
     },
     {
+      "title": "再也不见Windows10",
+      "created": "2025-10-14 08:25",
+      "link": "https://xingwangzhe.fun/posts/ac8ebba9/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "偷梁换柱，解决Ubuntu24.04安装Packet Tracer缺失依赖问题",
+      "created": "2025-10-12 17:50",
+      "link": "https://xingwangzhe.fun/posts/9fe82262/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "免费实现未备案域名解析国内服务器",
       "created": "2025-10-12 13:07",
       "link": "https://blog.6uu.us/archives/mian-fei-shi-xian-wei-bei-an-yu-ming-jie-xi-guo-nei-fu-wu-qi",
@@ -400,6 +484,13 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
+      "title": "神秘的外链指向我站",
+      "created": "2025-10-09 11:32",
+      "link": "https://xingwangzhe.fun/posts/7cd9e7a9/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "使用TinyAuth实现任意应用登录认证",
       "created": "2025-10-07 16:20",
       "link": "https://blog.liushen.fun/posts/362bfd8b/",
@@ -407,11 +498,25 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "中秋-来试试Moonbit吧",
+      "created": "2025-10-06 16:11",
+      "link": "https://xingwangzhe.fun/posts/32faf407/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "免费获得17级域名并且托管在CF——IPv6反解域名",
       "created": "2025-10-02 20:31",
       "link": "https://blog.6uu.us/archives/mian-fei-huo-de-17ji-yu-ming-bing-qie-tuo-guan-zai-cf----ipv6fan-jie-yu-ming",
       "author": "bbb-lsy07",
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
+    },
+    {
+      "title": "Obsidian使用体验",
+      "created": "2025-10-02 16:58",
+      "link": "https://xingwangzhe.fun/posts/d5f89da4/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "不同姿势部署Anheyu-App应用",
