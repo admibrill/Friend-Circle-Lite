@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 6,
     "article_num": 260,
-    "last_updated_time": "2026-01-28 14:24:45"
+    "last_updated_time": "2026-01-28 20:30:41"
   },
   "article_data": [
+    {
+      "title": "把Hexo永久链接迁移到Astro",
+      "created": "2026-01-28 23:06",
+      "link": "https://xingwangzhe.fun/posts/move-hexo-permalink-to-astro/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "如何将 FinalcutPro的fcpxml文件转换为srt字幕？导出srt字幕方法",
       "created": "2026-01-22 12:19",
@@ -510,13 +517,6 @@
       "link": "https://blog.6uu.us/archives/mian-fei-huo-de-17ji-yu-ming-bing-qie-tuo-guan-zai-cf----ipv6fan-jie-yu-ming",
       "author": "bbb-lsy07",
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
-    },
-    {
-      "title": "Obsidian使用体验",
-      "created": "2025-10-02 16:58",
-      "link": "https://xingwangzhe.fun/posts/d5f89da4/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "不同姿势部署Anheyu-App应用",
