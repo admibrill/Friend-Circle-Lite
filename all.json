@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 275,
-    "last_updated_time": "2026-02-04 14:38:51"
+    "last_updated_time": "2026-02-04 20:37:24"
   },
   "article_data": [
+    {
+      "title": "出租人类：AI时代的荒诞与真实",
+      "created": "2026-02-04 16:18",
+      "link": "https://xingwangzhe.fun/posts/ai-rentahuman/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "红包封面：祝大家新的一年发大财啦！",
       "created": "2026-02-04 12:06",
@@ -475,13 +482,6 @@
       "link": "https://liangbm3.site/blog/sqlite-cai-keng-ji-lu",
       "author": "liangbm3’s blog",
       "avatar": "https://liangbm3.site/avatar.png"
-    },
-    {
-      "title": "再也不见Windows10",
-      "created": "2025-10-14 08:25",
-      "link": "https://xingwangzhe.fun/posts/ac8ebba9/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "免费实现未备案域名解析国内服务器",
