@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 275,
-    "last_updated_time": "2026-02-06 14:41:13"
+    "last_updated_time": "2026-02-06 20:37:02"
   },
   "article_data": [
+    {
+      "title": "Astro: 优化katex,mermaid和灯箱使用",
+      "created": "2026-02-07 02:13",
+      "link": "https://xingwangzhe.fun/posts/astro-optimize-katex-mermaid-photoswipe/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "从edgeone迁移到esa",
       "created": "2026-02-06 01:55",
@@ -342,13 +349,6 @@
       "link": "https://blog.liushen.fun/posts/6010fc85/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "好久没更新了，过去与未来",
-      "created": "2025-11-18 20:24",
-      "link": "https://xingwangzhe.fun/posts/cc443f72/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "河南研学记录",
