@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 4,
     "article_num": 275,
-    "last_updated_time": "2026-02-11 20:44:39"
+    "last_updated_time": "2026-02-12 02:51:09"
   },
   "article_data": [
+    {
+      "title": "被光改造的人",
+      "created": "2026-02-12 02:07",
+      "link": "https://kmar.top/posts/11bd97d6/",
+      "author": "山岳库博",
+      "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
+    },
     {
       "title": "Moonbit 0.8.0 重大发布,我也要改一下我的包",
       "created": "2026-02-11 04:25",
@@ -1721,13 +1728,6 @@
       "link": "https://www.ordchaos.com/posts/3386e07f/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
-      "title": "MI—电力系统工作原理",
-      "created": "2022-11-08 20:05",
-      "link": "https://kmar.top/posts/1c61a114/",
-      "author": "山岳库博",
-      "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
     },
     {
       "title": "ECharts 生涯彩虹图",
