@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 24,
-    "active_num": 18,
-    "error_num": 6,
-    "article_num": 250,
-    "last_updated_time": "2026-02-28 20:27:27"
+    "active_num": 17,
+    "error_num": 7,
+    "article_num": 245,
+    "last_updated_time": "2026-03-01 02:21:09"
   },
   "article_data": [
     {
@@ -1177,20 +1177,6 @@
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
     },
     {
-      "title": "关于群聊更换的紧急通知",
-      "created": "2024-04-24 21:42",
-      "link": "https://akilar.top/posts/c215d440/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
-      "title": "源计划-方舟：友链卡片",
-      "created": "2024-04-09 05:42",
-      "link": "https://akilar.top/posts/fb6a1a78/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
       "title": "如何在RK系开发板的linux冷门内核上编译CH340驱动",
       "created": "2024-03-15 16:34",
       "link": "https://blog.yaria.top/posts/dad8e69b",
@@ -1217,13 +1203,6 @@
       "link": "https://kmar.top/posts/6e8d014c/",
       "author": "山岳库博",
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
-    },
-    {
-      "title": "找到新工作了，还挺喜欢的",
-      "created": "2023-12-16 00:08",
-      "link": "https://akilar.top/posts/5ad2af31/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
       "title": "幽门螺旋杆菌的治疗",
@@ -1266,20 +1245,6 @@
       "link": "https://blog.leonus.cn/2023/baiyaopu.html",
       "author": "Leonus",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "闪电入职vs光速离职",
-      "created": "2023-09-21 03:08",
-      "link": "https://akilar.top/posts/b5a208a8/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-    },
-    {
-      "title": "20230915",
-      "created": "2023-09-15 17:30",
-      "link": "https://akilar.top/posts/eee5afe4/",
-      "author": "Akilarの糖果屋",
-      "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
       "title": "最近买的一些打折的 Steam 游戏",
