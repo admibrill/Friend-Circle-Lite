@@ -1,10 +1,5 @@
 [
   [
-    "Akilarの糖果屋",
-    "https://akilar.top/",
-    "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
-  ],
-  [
     "Tianli",
     "https://tianli-blog.club/",
     "https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640"
@@ -20,23 +15,18 @@
     "https://fastly.jsdelivr.net/npm/xyx404blogphoto@1.2.23/avatar.webp"
   ],
   [
-    "CyanFalse's Weblog",
-    "https://blog.eurekac.cn",
-    "https://cdn.eurekac.cn/npm/chenyfan-oss/4.0.0/files/512.jpg"
-  ],
-  [
     "bbb-lsy07",
     "https://blog.6uu.us/",
     "https://images.6uu.us/20250511114301488.JPG"
   ],
   [
+    "CyanFalse's Weblog",
+    "https://blog.eurekac.cn",
+    "https://cdn.eurekac.cn/npm/chenyfan-oss/4.0.0/files/512.jpg"
+  ],
+  [
     "唐志远",
     "https://fe32.top/",
     "https://bu.dusays.com/2022/05/02/626f92e193879.jpg"
-  ],
-  [
-    "序炁的博客",
-    "https://www.ordchaos.com",
-    "https://www.ordchaos.com/img/avatar.jpg"
   ]
 ]
