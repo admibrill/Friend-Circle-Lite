@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 230,
-    "last_updated_time": "2026-03-06 14:36:59"
+    "last_updated_time": "2026-03-06 20:34:52"
   },
   "article_data": [
+    {
+      "title": "Ubuntu 24.04 安装 Win10 虚拟机",
+      "created": "2026-03-07 01:40",
+      "link": "https://xingwangzhe.fun/posts/ubuntu-24.04-install-win10-vm/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "盘点手里的电子产品传家宝",
       "created": "2026-03-05 18:30",
@@ -361,13 +368,6 @@
       "title": "博客主题的软著下来了",
       "created": "2025-12-08 10:43",
       "link": "https://xingwangzhe.fun/posts/32b402b0/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "友链图谱 - 汇聚千丝万缕的联系",
-      "created": "2025-12-05 19:58",
-      "link": "https://xingwangzhe.fun/posts/ceec80f8/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
