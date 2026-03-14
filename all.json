@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 230,
-    "last_updated_time": "2026-03-14 14:35:34"
+    "last_updated_time": "2026-03-14 20:31:07"
   },
   "article_data": [
+    {
+      "title": "Vite8 - 统一的基建开始",
+      "created": "2026-03-14 21:24",
+      "link": "https://xingwangzhe.fun/posts/vite-voidzero-features/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "Astro 6 推出啦",
       "created": "2026-03-12 17:27",
@@ -258,13 +265,6 @@
       "link": "https://blog.yaria.top/posts/33452911",
       "author": "Ariasakaの小窝",
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
-    },
-    {
-      "title": "2025年终总结",
-      "created": "2025-12-31 18:37",
-      "link": "https://xingwangzhe.fun/posts/cbab25fa/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "PJSK COLORFUL LIVE 5th",
