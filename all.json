@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 230,
-    "last_updated_time": "2026-03-18 14:52:40"
+    "last_updated_time": "2026-03-18 20:48:13"
   },
   "article_data": [
+    {
+      "title": "解决 Nautilus 自定义终端插件安装依赖问题",
+      "created": "2026-03-18 22:40",
+      "link": "https://xingwangzhe.fun/posts/nautilus-open-any-terminal/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "腾讯QClaw上手：打通微信很方便，但是性能上略有不足",
       "created": "2026-03-17 15:44",
@@ -207,13 +214,6 @@
       "title": "Stalux Astro博客主题自荐",
       "created": "2026-01-31 03:53",
       "link": "https://xingwangzhe.fun/posts/stalux-astro/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "把Hexo永久链接迁移到Astro",
-      "created": "2026-01-28 23:06",
-      "link": "https://xingwangzhe.fun/posts/move-hexo-permalink-to-astro/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
