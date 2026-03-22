@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 230,
-    "last_updated_time": "2026-03-22 14:39:54"
+    "last_updated_time": "2026-03-22 20:31:07"
   },
   "article_data": [
+    {
+      "title": "为了自由Android",
+      "created": "2026-03-22 21:50",
+      "link": "https://xingwangzhe.fun/posts/for-free-android/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "GPL\"2,3\"事",
       "created": "2026-03-22 18:10",
@@ -207,13 +214,6 @@
       "title": "Astro: 优化katex,mermaid和灯箱使用",
       "created": "2026-02-07 02:13",
       "link": "https://xingwangzhe.fun/posts/astro-optimize-katex-mermaid-photoswipe/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "从edgeone迁移到esa",
-      "created": "2026-02-06 01:55",
-      "link": "https://xingwangzhe.fun/posts/mv-edgeone-to-esa/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
