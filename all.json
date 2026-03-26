@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 230,
-    "last_updated_time": "2026-03-26 09:24:37"
+    "last_updated_time": "2026-03-26 14:58:31"
   },
   "article_data": [
+    {
+      "title": "Copilot将使用交互数据来训练",
+      "created": "2026-03-26 11:30",
+      "link": "https://xingwangzhe.fun/posts/copilot-train/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "重要通知-请更新我的GPG公钥",
       "created": "2026-03-23 19:19",
@@ -195,13 +202,6 @@
       "link": "https://kmar.top/posts/11bd97d6/",
       "author": "山岳库博",
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
-    },
-    {
-      "title": "Moonbit 0.8.0 重大发布,我也要改一下我的包",
-      "created": "2026-02-10 20:25",
-      "link": "https://xingwangzhe.fun/posts/moonbit-0-8-0-release-change-my-package/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "罗森初音，Sunrise寝台特急，高松，和歌山",
