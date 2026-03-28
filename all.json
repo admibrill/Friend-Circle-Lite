@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 230,
-    "last_updated_time": "2026-03-28 14:47:37"
+    "last_updated_time": "2026-03-28 20:34:44"
   },
   "article_data": [
+    {
+      "title": "Ubuntu26.04-beta体验:坚毅浣熊!",
+      "created": "2026-03-28 14:17",
+      "link": "https://xingwangzhe.fun/posts/ubuntu-26-04-beta/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "fakeclaw装作龙虾发贴吧",
       "created": "2026-03-27 19:00",
@@ -123,13 +130,6 @@
       "title": "Vite8 - 统一的基建开始",
       "created": "2026-03-14 13:24",
       "link": "https://xingwangzhe.fun/posts/vite-voidzero-features/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Astro 6 推出啦",
-      "created": "2026-03-12 09:27",
-      "link": "https://xingwangzhe.fun/posts/astro6-release/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
