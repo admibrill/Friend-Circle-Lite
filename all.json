@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 230,
-    "last_updated_time": "2026-03-29 14:54:44"
+    "last_updated_time": "2026-03-29 20:35:22"
   },
   "article_data": [
+    {
+      "title": "突发：GitHub 正遭受大规模 Issue 赌博广告轰炸",
+      "created": "2026-03-29 19:29",
+      "link": "https://xingwangzhe.fun/posts/github-issue-spam-bombing-20260329/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "Ubuntu26.04-beta体验:坚毅浣熊!",
       "created": "2026-03-28 14:17",
@@ -92,13 +99,6 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "解决 Nautilus 自定义终端插件安装依赖问题",
-      "created": "2026-03-18 14:40",
-      "link": "https://xingwangzhe.fun/posts/nautilus-open-any-terminal/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "腾讯QClaw上手：打通微信很方便，但是性能上略有不足",
       "created": "2026-03-17 15:44",
       "link": "https://blog.zhheo.com/p/bn8aror2.html",
@@ -118,20 +118,6 @@
       "link": "https://blog.zhheo.com/p/z9rm5p4p.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "OpenClaw 该熄火了",
-      "created": "2026-03-16 00:00",
-      "link": "https://xingwangzhe.fun/posts/openclaw-no/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Vite8 - 统一的基建开始",
-      "created": "2026-03-14 13:24",
-      "link": "https://xingwangzhe.fun/posts/vite-voidzero-features/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "超级制图上手：图片上的文字如何用AI修改？无痕改字一键出图",
@@ -650,6 +636,20 @@
       "link": "https://liangbm3.site/blog/zui-xiao-sheng-cheng-shu",
       "author": "liangbm3’s blog",
       "avatar": "https://liangbm3.site/avatar.png"
+    },
+    {
+      "title": "在 Ubuntu 上实现 Thetis FIDO U2F 密钥登录",
+      "created": "2025-07-04 18:44",
+      "link": "https://xingwangzhe.fun/posts/f69680bd/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "Thetis物理密钥，为什么我们应该使用物理密钥",
+      "created": "2025-07-04 18:44",
+      "link": "https://xingwangzhe.fun/posts/eaafd5fa/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "P13020 [GESP202506 八级] 遍历计数 题解",
