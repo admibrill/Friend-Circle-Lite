@@ -4,7 +4,7 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 230,
-    "last_updated_time": "2026-03-31 15:03:10"
+    "last_updated_time": "2026-03-31 20:56:03"
   },
   "article_data": [
     {
@@ -27,6 +27,13 @@
       "link": "https://xingwangzhe.fun/posts/github-issue-spam-bombing-20260329/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "洪绘存图发布：保存浏览器图片为指定格式、提取网页所有图片、屏幕截图插件",
+      "created": "2026-03-29 14:41",
+      "link": "https://blog.zhheo.com/p/drqm39ob.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "Ubuntu26.04-beta体验:坚毅浣熊!",
@@ -298,13 +305,6 @@
       "title": "我在2026年推荐的Mac软件",
       "created": "2025-12-25 18:39",
       "link": "https://blog.zhheo.com/p/vtyyrfd3.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "在Mac上使用快捷指令解决：已损坏，无法打开。你应该将它移到废纸篓",
-      "created": "2025-12-24 10:41",
-      "link": "https://blog.zhheo.com/p/tsk1v2fy.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
