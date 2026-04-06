@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 230,
-    "last_updated_time": "2026-04-06 15:17:32"
+    "last_updated_time": "2026-04-06 20:49:52"
   },
   "article_data": [
+    {
+      "title": "MAD Bugs 已经开始——关于信息安全的军备竞赛",
+      "created": "2026-04-06 16:07",
+      "link": "https://xingwangzhe.fun/posts/mad-bugs-begin/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "使用 Magsafe 磁吸保护壳，但是磁力比较低，怎么办",
       "created": "2026-04-05 08:41",
@@ -116,13 +123,6 @@
       "title": "短文-对VitePlus的一点🤏小贡献",
       "created": "2026-03-21 17:09",
       "link": "https://xingwangzhe.fun/posts/contribute-vite-plus/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Bing收录没了？亲测有效的快速恢复指南",
-      "created": "2026-03-20 10:30",
-      "link": "https://xingwangzhe.fun/posts/bing-re-index/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
