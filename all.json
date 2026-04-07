@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-04-07 15:04:47"
+    "last_updated_time": "2026-04-07 20:58:17"
   },
   "article_data": [
+    {
+      "title": "Linux用户Secure Boot自主维护指南",
+      "created": "2026-04-07 17:30",
+      "link": "https://xingwangzhe.fun/posts/linux-uefi-ca-update/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "抖音iframe代码生成器：将抖音链接转为可嵌入网页的iframe代码",
       "created": "2026-04-07 13:59",
@@ -130,13 +137,6 @@
       "title": "GPL\"2,3\"事",
       "created": "2026-03-22 10:10",
       "link": "https://xingwangzhe.fun/posts/gpl-2-3-thing/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "短文-对VitePlus的一点🤏小贡献",
-      "created": "2026-03-21 17:09",
-      "link": "https://xingwangzhe.fun/posts/contribute-vite-plus/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
