@@ -4,9 +4,23 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-04-20 09:51:07"
+    "last_updated_time": "2026-04-20 15:52:31"
   },
   "article_data": [
+    {
+      "title": "龙虾与微信聊天记录结合：群内容总结、整理和提取关键内容实在是太方便",
+      "created": "2026-04-20 12:47",
+      "link": "https://blog.zhheo.com/p/2muck4bk.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "解决 Claude Code 安装或更新后 claude.exe 无法运行、claude native binary not installed",
+      "created": "2026-04-20 12:00",
+      "link": "https://www.imaegoo.com/2026/claude-code-native-binary-not-installed/",
+      "author": "iMaeGoo’s Blog",
+      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
+    },
     {
       "title": "洪绘压图发布！批量转图片格式，批量压缩图片工具（Mac/Windows）",
       "created": "2026-04-15 12:52",
@@ -148,6 +162,13 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
+      "title": "OpenClaw 安装与配置",
+      "created": "2026-03-25 19:30",
+      "link": "https://www.imaegoo.com/2026/openclaw-start/",
+      "author": "iMaeGoo’s Blog",
+      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
+    },
+    {
       "title": "重要通知-请更新我的GPG公钥",
       "created": "2026-03-23 19:19",
       "link": "https://xingwangzhe.fun/posts/2026-3-gpg-update/",
@@ -200,13 +221,6 @@
       "title": "超级制图上手：图片上的文字如何用AI修改？无痕改字一键出图",
       "created": "2026-03-11 10:46",
       "link": "https://blog.zhheo.com/p/yynnxi2c.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "用虚拟机养龙虾，在Mac上通过Lume使用虚拟机的隔离环境安装OpenClaw",
-      "created": "2026-03-10 11:30",
-      "link": "https://blog.zhheo.com/p/h6k74j9o.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
@@ -498,13 +512,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "bat 脚本打印输出彩色文字",
-      "created": "2025-08-06 08:00",
-      "link": "https://www.imaegoo.com/2025/bat-color/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "发生什么事情了捏？记博客图片丢失与被黑删文——用CFR2当图床！",
       "created": "2025-08-02 11:15",
       "link": "https://blog.yaria.top/posts/730cf317",
@@ -531,13 +538,6 @@
       "link": "http://ichika.cc/Article/life_SpritedAway/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "Android 强制锁定屏幕旋转方向",
-      "created": "2025-07-11 08:00",
-      "link": "https://www.imaegoo.com/2025/orientation-lock/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "在 Ubuntu 上实现 Thetis FIDO U2F 密钥登录",
