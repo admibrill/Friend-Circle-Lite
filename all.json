@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-04-24 15:49:51"
+    "last_updated_time": "2026-04-24 21:01:10"
   },
   "article_data": [
+    {
+      "title": "Ubuntu26.04正式推出",
+      "created": "2026-04-24 01:00",
+      "link": "https://xingwangzhe.fun/posts/ubuntu-26-04-official-release/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "ChatGPT Image-2 上手：杀死比赛！设计师这下子真的可以解放双手了",
       "created": "2026-04-21 16:18",
@@ -193,13 +200,6 @@
       "title": "为了自由Android",
       "created": "2026-03-22 13:50",
       "link": "https://xingwangzhe.fun/posts/for-free-android/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "GPL\"2,3\"事",
-      "created": "2026-03-22 10:10",
-      "link": "https://xingwangzhe.fun/posts/gpl-2-3-thing/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
