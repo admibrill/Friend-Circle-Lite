@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-04-25 09:28:06"
+    "last_updated_time": "2026-04-25 15:04:00"
   },
   "article_data": [
+    {
+      "title": "收到微软Bing的奖品",
+      "created": "2026-04-25 14:00",
+      "link": "https://xingwangzhe.fun/posts/microsoft-bing-prize/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "Ubuntu26.04正式推出",
       "created": "2026-04-24 01:00",
@@ -193,13 +200,6 @@
       "title": "重要通知-请更新我的GPG公钥",
       "created": "2026-03-23 19:19",
       "link": "https://xingwangzhe.fun/posts/2026-3-gpg-update/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "为了自由Android",
-      "created": "2026-03-22 13:50",
-      "link": "https://xingwangzhe.fun/posts/for-free-android/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
