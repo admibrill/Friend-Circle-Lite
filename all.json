@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 24,
-    "active_num": 16,
-    "error_num": 8,
-    "article_num": 215,
-    "last_updated_time": "2026-05-15 03:30:59"
+    "active_num": 15,
+    "error_num": 9,
+    "article_num": 205,
+    "last_updated_time": "2026-05-15 10:14:35"
   },
   "article_data": [
     {
@@ -113,13 +113,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "解决 Claude Code 安装或更新后 claude.exe 无法运行、claude native binary not installed",
-      "created": "2026-04-20 12:00",
-      "link": "https://www.imaegoo.com/2026/claude-code-native-binary-not-installed/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "洪绘压图发布！批量转图片格式，批量压缩图片工具（Mac/Windows）",
       "created": "2026-04-15 12:52",
       "link": "https://blog.zhheo.com/p/bp85fpdb.html",
@@ -197,13 +190,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "Windows 11 26H1 显示所有托盘图标",
-      "created": "2026-03-31 11:30",
-      "link": "https://www.imaegoo.com/2026/win-11-show-all-tray-icon/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "解决钉钉Dingtalk无法在Linux新版内核上启动问题-修复可执行栈错误",
       "created": "2026-03-31 09:00",
       "link": "https://xingwangzhe.fun/posts/dingtalk-linux-fix-execstack/",
@@ -246,13 +232,6 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "OpenClaw 安装与配置",
-      "created": "2026-03-25 19:30",
-      "link": "https://www.imaegoo.com/2026/openclaw-start/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "CMCC RAX3000QY路由器TTL刷机与OpenWrt解锁全记录",
       "created": "2026-03-07 22:03",
       "link": "https://blog.linux-qitong.top/posts/af0f6a8a",
@@ -260,25 +239,11 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
-      "title": "盘点手里的电子产品传家宝",
-      "created": "2026-03-05 18:30",
-      "link": "https://www.imaegoo.com/2026/my-prized-tech-heirloom/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "兰空图床深度美化",
       "created": "2026-03-01 20:40",
       "link": "https://blog.liushen.fun/posts/eabede01/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "基于 7z 的 NAS 到网盘备份解决方案，支持增量、分卷、加密、压缩",
-      "created": "2026-02-26 21:44",
-      "link": "https://www.imaegoo.com/2026/nas-backup/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "年味",
@@ -449,27 +414,6 @@
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
-      "title": "卸载百度网盘智能看图",
-      "created": "2025-09-02 08:00",
-      "link": "https://www.imaegoo.com/2025/uninstall-netdisk-image-viewer/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "CDN 方式引入 Monaco Editor",
-      "created": "2025-09-01 17:30",
-      "link": "https://www.imaegoo.com/2025/monaco-editor-cdn/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "在线工具 - 富文本转 Markdown",
-      "created": "2025-09-01 12:30",
-      "link": "https://www.imaegoo.com/2025/html-to-md/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
       "title": "博客一周年记",
       "created": "2025-08-30 14:17",
       "link": "https://blog.qyadbr.top/posts/hexo17",
@@ -482,20 +426,6 @@
       "link": "https://blog.liushen.fun/posts/470abaf8/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "2025 年了，安卓平板上什么第三方九键输入法最好用？",
-      "created": "2025-08-25 12:00",
-      "link": "https://www.imaegoo.com/2025/android-pad-input-method/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "鸿蒙 PC 编译运行 Electron 应用",
-      "created": "2025-08-25 08:00",
-      "link": "https://www.imaegoo.com/2025/harmony-pc-electron/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "Nintendo Switch 2：恰到好处的升级",
