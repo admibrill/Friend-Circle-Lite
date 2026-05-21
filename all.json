@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-05-21 16:56:09"
+    "last_updated_time": "2026-05-21 22:40:55"
   },
   "article_data": [
+    {
+      "title": "Claude Code 怎样快速消耗 token",
+      "created": "2026-05-21 18:30",
+      "link": "https://www.imaegoo.com/2026/claude-code-token-burner/",
+      "author": "iMaeGoo’s Blog",
+      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
+    },
     {
       "title": "这一次，我们听点有意思的",
       "created": "2026-05-21 12:27",
@@ -489,13 +496,6 @@
       "link": "https://blog.liushen.fun/posts/470abaf8/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "2025 年了，安卓平板上什么第三方九键输入法最好用？",
-      "created": "2025-08-25 12:00",
-      "link": "https://www.imaegoo.com/2025/android-pad-input-method/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "Nintendo Switch 2：恰到好处的升级",
