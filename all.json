@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-02 18:03:41"
+    "last_updated_time": "2026-06-03 00:00:01"
   },
   "article_data": [
+    {
+      "title": "笔记软件推荐-花笺",
+      "created": "2026-06-02 19:00",
+      "link": "https://xingwangzhe.fun/posts/floral-notepaper-review/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "建站四年，从Hexo换到Astro",
       "created": "2026-06-01 02:10",
@@ -566,13 +573,6 @@
       "link": "http://ichika.cc/Article/life_SpritedAway/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "在 Ubuntu 上实现 Thetis FIDO U2F 密钥登录",
-      "created": "2025-07-04 18:44",
-      "link": "https://xingwangzhe.fun/posts/f69680bd/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "P13020 [GESP202506 八级] 遍历计数 题解",
