@@ -4,9 +4,23 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-09 10:08:11"
+    "last_updated_time": "2026-06-09 17:23:28"
   },
   "article_data": [
+    {
+      "title": "洪绘历史记录大更新：支持根据历史记录的AI对话",
+      "created": "2026-06-09 10:22",
+      "link": "https://blog.zhheo.com/p/i8c7l4eo.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "别让AI替你捣乱-致零软件工程经验新人的指南",
+      "created": "2026-06-09 09:11",
+      "link": "https://xingwangzhe.fun/posts/zero-se-newcomer-guide/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题",
       "created": "2026-06-06 18:30",
@@ -253,23 +267,9 @@
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
-      "title": "洪绘压图发布！批量转图片格式，批量压缩图片工具（Mac/Windows）",
-      "created": "2026-04-15 12:52",
-      "link": "https://blog.zhheo.com/p/bp85fpdb.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "Linux用户Secure Boot自主维护指南",
       "created": "2026-04-07 17:30",
       "link": "https://xingwangzhe.fun/posts/linux-uefi-ca-update/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "MAD Bugs 已经开始——关于信息安全的军备竞赛",
-      "created": "2026-04-06 16:07",
-      "link": "https://xingwangzhe.fun/posts/mad-bugs-begin/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
