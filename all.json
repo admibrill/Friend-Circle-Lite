@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-10 10:32:24"
+    "last_updated_time": "2026-06-10 17:40:06"
   },
   "article_data": [
+    {
+      "title": "这才是我心目中AI博客的样子",
+      "created": "2026-06-09 18:51",
+      "link": "https://blog.zhheo.com/p/vp4ate1j.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "洪绘历史记录大更新：支持根据历史记录的AI对话",
       "created": "2026-06-09 10:22",
@@ -251,13 +258,6 @@
       "link": "https://blog.linux-qitong.top/posts/11fb8caf",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
-      "title": "龙虾与微信聊天记录结合：群内容总结、整理和提取关键内容实在是太方便",
-      "created": "2026-04-20 12:47",
-      "link": "https://blog.zhheo.com/p/2muck4bk.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "解决 Claude Code 安装或更新后 claude.exe 无法运行、claude native binary not installed",
