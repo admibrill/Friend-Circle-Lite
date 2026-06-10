@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-10 17:40:06"
+    "last_updated_time": "2026-06-10 22:53:21"
   },
   "article_data": [
+    {
+      "title": "我做了一个现代Web版本的标签云，支持图片视频Web组件",
+      "created": "2026-06-10 20:00",
+      "link": "https://xingwangzhe.fun/posts/modern-tags-cloud-3d/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "这才是我心目中AI博客的样子",
       "created": "2026-06-09 18:51",
@@ -265,13 +272,6 @@
       "link": "https://www.imaegoo.com/2026/claude-code-native-binary-not-installed/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "Linux用户Secure Boot自主维护指南",
-      "created": "2026-04-07 17:30",
-      "link": "https://xingwangzhe.fun/posts/linux-uefi-ca-update/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "ChronoFrame - 一款优雅的瀑布流相册系统",
