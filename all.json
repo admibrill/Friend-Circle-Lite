@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-14 21:28:53"
+    "last_updated_time": "2026-06-15 03:09:20"
   },
   "article_data": [
+    {
+      "title": "vibe-coding个人实践",
+      "created": "2026-06-15 01:00",
+      "link": "https://blog.liushen.fun/posts/67261b47/",
+      "author": "清羽飞扬",
+      "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
     {
       "title": "回顾经典-程序员的三大美德",
       "created": "2026-06-12 14:00",
@@ -510,13 +517,6 @@
       "link": "https://blog.qyadbr.top/posts/hexo17",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "第三方1Panel应用商店不完全指北",
-      "created": "2025-08-29 15:50",
-      "link": "https://blog.liushen.fun/posts/470abaf8/",
-      "author": "清羽飞扬",
-      "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
       "title": "Nintendo Switch 2：恰到好处的升级",
