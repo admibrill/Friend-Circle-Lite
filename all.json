@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-22 10:49:30"
+    "last_updated_time": "2026-06-22 19:36:04"
   },
   "article_data": [
+    {
+      "title": "人工智能实训Day1：Ubuntu 基础与 Conda 推理环境搭建",
+      "created": "2026-06-22 15:00",
+      "link": "https://xingwangzhe.fun/posts/ai-training-ubuntu-conda-day1/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "秦地恨屈原：罪千年的记忆",
       "created": "2026-06-19 00:00",
@@ -251,13 +258,6 @@
       "link": "https://blog.linux-qitong.top/posts/ad370841",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
-      "title": "CVE-2026-31431 Linux Copy Fail 史诗级提权漏洞分析",
-      "created": "2026-04-30 08:30",
-      "link": "https://xingwangzhe.fun/posts/cve-2026-31431-copy-fail/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "中国传统色上线！快速寻找和使用具有文化气息和韵味的中国传统色",
