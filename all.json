@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-23 16:59:41"
+    "last_updated_time": "2026-06-23 22:28:51"
   },
   "article_data": [
+    {
+      "title": "再造图灵",
+      "created": "2026-06-23 14:00",
+      "link": "https://xingwangzhe.fun/posts/redesigning-turing/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "人工智能实训Day1：Ubuntu 基础与 Conda 推理环境搭建",
       "created": "2026-06-22 15:00",
@@ -230,13 +237,6 @@
       "link": "https://blog.zhheo.com/p/bvj6caeg.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "一辆共享单车的两副面孔",
-      "created": "2026-05-09 08:30",
-      "link": "https://xingwangzhe.fun/posts/two-faces-of-a-shared-bike/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "黔山赴夏，清风入怀",
