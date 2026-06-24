@@ -4,9 +4,23 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-24 10:26:57"
+    "last_updated_time": "2026-06-24 16:53:56"
   },
   "article_data": [
+    {
+      "title": "人工智能实训Day3：Agent智能体实践——工具调用与多技能协作",
+      "created": "2026-06-24 15:00",
+      "link": "https://xingwangzhe.fun/posts/ai-training-agent-day3/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "人工智能实训Day2：大模型对齐技术实践——SFT与DPO",
+      "created": "2026-06-24 15:00",
+      "link": "https://xingwangzhe.fun/posts/ai-training-sft-dpo-day2/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "再造图灵",
       "created": "2026-06-23 14:00",
@@ -216,20 +230,6 @@
       "link": "https://www.imaegoo.com/2026/amap-ad/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "Cloudflare Pages自定义依赖安装实践",
-      "created": "2026-05-15 20:03",
-      "link": "https://xingwangzhe.fun/posts/cf-pages-custom-deps/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Debian 14 强制可重现构建：从\"信任我们\"到\"验证我们\"",
-      "created": "2026-05-12 09:00",
-      "link": "https://xingwangzhe.fun/posts/debian-14-reproducible-builds/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "洪绘响度发布：测量视频LUFS工具，并支持转换视频到指定LUFS",
