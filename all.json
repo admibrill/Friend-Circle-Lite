@@ -4,12 +4,12 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-24 16:53:56"
+    "last_updated_time": "2026-06-24 22:07:46"
   },
   "article_data": [
     {
       "title": "人工智能实训Day3：Agent智能体实践——工具调用与多技能协作",
-      "created": "2026-06-24 15:00",
+      "created": "2026-06-24 16:00",
       "link": "https://xingwangzhe.fun/posts/ai-training-agent-day3/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
