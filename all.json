@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-25 16:48:23"
+    "last_updated_time": "2026-06-25 22:04:58"
   },
   "article_data": [
+    {
+      "title": "人工智能实训Day4：Agent智能体系统Proposal——B4 LLM决策模块",
+      "created": "2026-06-25 15:00",
+      "link": "https://xingwangzhe.fun/posts/ai-training-agent-day4-proposal/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "洪绘动图发布：将视频转换为帧图或者GIF并且限制只有5MB，APNG、WEBP动图生成工具",
       "created": "2026-06-25 13:43",
@@ -223,13 +230,6 @@
       "link": "https://blog.zhheo.com/p/jsrckoff.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "敬告 mazongYY：停止抄袭，请遵守 CC 协议",
-      "created": "2026-05-18 10:30",
-      "link": "https://xingwangzhe.fun/posts/warning-mazongyy-plagiarism/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "去掉高德地图开屏广告",
