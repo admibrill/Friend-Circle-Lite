@@ -4,9 +4,16 @@
     "active_num": 17,
     "error_num": 7,
     "article_num": 215,
-    "last_updated_time": "2026-06-26 16:51:06"
+    "last_updated_time": "2026-06-26 22:04:17"
   },
   "article_data": [
+    {
+      "title": "告别 Pagefind，用 Orama 实现静态博客的全文搜索",
+      "created": "2026-06-26 18:30",
+      "link": "https://xingwangzhe.fun/posts/orama-search-replace-pagefind/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "人工智能实训Day4：Agent智能体系统Proposal——B4 LLM决策模块",
       "created": "2026-06-25 15:00",
@@ -160,13 +167,6 @@
       "link": "https://blog.zhheo.com/p/56yusy1w.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "我的异常体验光谱：当物质、时间和自我开始松动",
-      "created": "2026-05-27 18:30",
-      "link": "https://xingwangzhe.fun/posts/abnormal-experience-spectrum/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "分享一下我现在都在使用哪些AI工具，以及我的的AI生产力状况",
