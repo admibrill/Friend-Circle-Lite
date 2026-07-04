@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 230,
-    "last_updated_time": "2026-07-04 09:58:24"
+    "last_updated_time": "2026-07-04 16:23:51"
   },
   "article_data": [
+    {
+      "title": "AI + Rust 两连发：从 20 分钟到 12 秒，博客宇宙的构建优化之旅",
+      "created": "2026-07-04 13:00",
+      "link": "https://xingwangzhe.fun/posts/ai-rust-bfs-force-two-wheels/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "豆言豆语Skill发布：让AI学会豆包的毒舌说话风格",
       "created": "2026-07-02 19:04",
@@ -179,13 +186,6 @@
       "title": "别让AI替你捣乱-致零软件工程经验新人的指南",
       "created": "2026-06-09 09:11",
       "link": "https://xingwangzhe.fun/posts/zero-se-newcomer-guide/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题",
-      "created": "2026-06-06 18:30",
-      "link": "https://xingwangzhe.fun/posts/fix-svg-background-forcedark-whitening/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
