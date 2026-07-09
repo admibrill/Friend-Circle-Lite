@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-09 22:30:57"
+    "last_updated_time": "2026-07-10 03:22:31"
   },
   "article_data": [
     {
@@ -76,6 +76,13 @@
       "link": "https://xingwangzhe.fun/posts/ai-training-b4-llm-week2/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "世界计划交响乐2026",
+      "created": "2026-06-29 12:00",
+      "link": "http://ichika.cc/Article/life_SekaiSymphony2026/",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "小米平板8Pro上手：便宜且流畅的好平板，安卓平板的高效令人印象深刻",
@@ -790,13 +797,6 @@
       "link": "https://blog.linux-qitong.top/posts/604987c3",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
-      "title": "看了PJSK 4th live与初音未来大电影",
-      "created": "2025-02-02 22:30",
-      "link": "http://ichika.cc/Article/life_PJSK4thLiveAndMovie/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "公共澡堂体验：记录一次北方乡下的专业搓澡",
