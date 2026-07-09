@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-09 10:00:03"
+    "last_updated_time": "2026-07-09 17:21:07"
   },
   "article_data": [
+    {
+      "title": "申请 Edgeone Makers 提升额度",
+      "created": "2026-07-09 16:00",
+      "link": "https://xingwangzhe.fun/posts/apply-edgeone-makers/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "混元hy3模型上手：腾讯送了云函数个人版6个月，怎么才能用上",
       "created": "2026-07-08 11:08",
@@ -20,6 +27,13 @@
       "link": "https://blog.zhheo.com/p/owiixgnk.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "人工智能 Poster 专业展示",
+      "created": "2026-07-07 16:00",
+      "link": "https://xingwangzhe.fun/posts/week3-ai-poster/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "第一次做学术 Poster——人工智能实训 Week2 的报告体验",
@@ -183,25 +197,11 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "title": "回顾经典-程序员的三大美德",
-      "created": "2026-06-12 14:00",
-      "link": "https://xingwangzhe.fun/posts/programmers-three-virtues/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "HeoSticker3D发布：3D形态的Heo表情，个人免费使用",
       "created": "2026-06-11 13:23",
       "link": "https://blog.zhheo.com/p/mjpbdtsh.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "我做了一个现代Web版本的标签云，支持图片视频Web组件",
-      "created": "2026-06-10 20:00",
-      "link": "https://xingwangzhe.fun/posts/modern-tags-cloud-3d/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "这才是我心目中AI博客的样子",
