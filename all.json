@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-11 15:40:28"
+    "last_updated_time": "2026-07-11 20:55:53"
   },
   "article_data": [
+    {
+      "title": "后来-人们管这叫作魔法",
+      "created": "2026-07-11 16:48",
+      "link": "https://xingwangzhe.fun/posts/later-they-called-it-magic/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "给博客加上隐式 LLM 提示词",
       "created": "2026-07-10 20:00",
@@ -165,13 +172,6 @@
       "title": "再造图灵",
       "created": "2026-06-23 14:00",
       "link": "https://xingwangzhe.fun/posts/redesigning-turing/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "人工智能实训Day1：Ubuntu 基础与 Conda 推理环境搭建",
-      "created": "2026-06-22 15:00",
-      "link": "https://xingwangzhe.fun/posts/ai-training-ubuntu-conda-day1/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
