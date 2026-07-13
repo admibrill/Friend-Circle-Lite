@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-13 16:48:55"
+    "last_updated_time": "2026-07-13 22:05:54"
   },
   "article_data": [
+    {
+      "title": "B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践",
+      "created": "2026-07-13 22:00",
+      "link": "https://xingwangzhe.fun/posts/ai-training-b4-week2-review/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "评论迁移及样式更新",
       "created": "2026-07-13 21:56",
@@ -720,13 +727,6 @@
       "link": "http://ichika.cc/Article/life_SpritedAway/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "高考生过来看！教你精准转换录取位次！",
-      "created": "2025-07-04 18:44",
-      "link": "https://xingwangzhe.fun/posts/03e0f0c0/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "P13020 [GESP202506 八级] 遍历计数 题解",
