@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-15 21:12:54"
+    "last_updated_time": "2026-07-16 02:55:07"
   },
   "article_data": [
+    {
+      "title": "关于博客组织友链迁移的公告",
+      "created": "2026-07-15 20:30",
+      "link": "https://xingwangzhe.fun/posts/blogroll-migration-notice/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践",
       "created": "2026-07-13 22:00",
@@ -193,13 +200,6 @@
       "title": "人工智能实训Day2：大模型对齐技术实践——SFT与DPO",
       "created": "2026-06-24 15:00",
       "link": "https://xingwangzhe.fun/posts/ai-training-sft-dpo-day2/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "再造图灵",
-      "created": "2026-06-23 14:00",
-      "link": "https://xingwangzhe.fun/posts/redesigning-turing/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
