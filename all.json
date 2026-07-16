@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-16 09:45:11"
+    "last_updated_time": "2026-07-16 15:55:32"
   },
   "article_data": [
+    {
+      "title": "OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置",
+      "created": "2026-07-16 12:17",
+      "link": "https://blog.zhheo.com/p/0kl9erod.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "关于博客组织友链迁移的公告",
       "created": "2026-07-15 20:30",
@@ -270,13 +277,6 @@
       "title": "如何判断一个文章是不是AI写的？文字、视频、图片AI检测方法",
       "created": "2026-05-29 15:23",
       "link": "https://blog.zhheo.com/p/56yusy1w.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "分享一下我现在都在使用哪些AI工具，以及我的的AI生产力状况",
-      "created": "2026-05-26 13:18",
-      "link": "https://blog.zhheo.com/p/ug37qbz9.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
