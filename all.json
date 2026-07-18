@@ -4,13 +4,13 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-18 15:27:17"
+    "last_updated_time": "2026-07-18 20:52:26"
   },
   "article_data": [
     {
       "title": "人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶",
       "created": "2026-07-17 13:30",
-      "link": "https://xingwangzhe.fun/posts/ai-training-b4-final-report/",
+      "link": "https://stalux.needhelp.icu/posts/ai-training-b4-final-report/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -38,14 +38,14 @@
     {
       "title": "关于博客组织友链迁移的公告",
       "created": "2026-07-15 20:30",
-      "link": "https://xingwangzhe.fun/posts/blogroll-migration-notice/",
+      "link": "https://stalux.needhelp.icu/posts/blogroll-migration-notice/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践",
       "created": "2026-07-13 22:00",
-      "link": "https://xingwangzhe.fun/posts/ai-training-b4-week2-review/",
+      "link": "https://stalux.needhelp.icu/posts/ai-training-b4-week2-review/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -73,21 +73,21 @@
     {
       "title": "后来-人们管这叫作魔法",
       "created": "2026-07-11 16:48",
-      "link": "https://xingwangzhe.fun/posts/later-they-called-it-magic/",
+      "link": "https://stalux.needhelp.icu/posts/later-they-called-it-magic/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "给博客加上隐式 LLM 提示词",
       "created": "2026-07-10 20:00",
-      "link": "https://xingwangzhe.fun/posts/llm-prompt-injection-defense/",
+      "link": "https://stalux.needhelp.icu/posts/llm-prompt-injection-defense/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "申请 Edgeone Makers 提升额度",
       "created": "2026-07-09 16:00",
-      "link": "https://xingwangzhe.fun/posts/apply-edgeone-makers/",
+      "link": "https://stalux.needhelp.icu/posts/apply-edgeone-makers/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -108,21 +108,21 @@
     {
       "title": "人工智能 Poster 专业展示",
       "created": "2026-07-07 16:00",
-      "link": "https://xingwangzhe.fun/posts/week3-ai-poster/",
+      "link": "https://stalux.needhelp.icu/posts/week3-ai-poster/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "第一次做学术 Poster——人工智能实训 Week2 的报告体验",
       "created": "2026-07-04 15:00",
-      "link": "https://xingwangzhe.fun/posts/ai-week2end-poster/",
+      "link": "https://stalux.needhelp.icu/posts/ai-week2end-poster/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "AI + Rust 两连发：从 20 分钟到 12 秒，博客宇宙的构建优化之旅",
       "created": "2026-07-04 13:00",
-      "link": "https://xingwangzhe.fun/posts/ai-rust-bfs-force-two-wheels/",
+      "link": "https://stalux.needhelp.icu/posts/ai-rust-bfs-force-two-wheels/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -150,7 +150,7 @@
     {
       "title": "人工智能实训Week2：B4 LLM决策模块五维升级实战",
       "created": "2026-06-30 10:00",
-      "link": "https://xingwangzhe.fun/posts/ai-training-b4-llm-week2/",
+      "link": "https://stalux.needhelp.icu/posts/ai-training-b4-llm-week2/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -178,21 +178,21 @@
     {
       "title": "d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力",
       "created": "2026-06-28 15:17",
-      "link": "https://xingwangzhe.fun/posts/d3-force-precompute-3d/",
+      "link": "https://stalux.needhelp.icu/posts/d3-force-precompute-3d/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "友链图谱 2.0 - 3D 更美观的可视化",
       "created": "2026-06-27 18:30",
-      "link": "https://xingwangzhe.fun/posts/2d3d-graph-v2/",
+      "link": "https://stalux.needhelp.icu/posts/2d3d-graph-v2/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "告别 Pagefind，用 Orama 实现静态博客的全文搜索",
       "created": "2026-06-26 18:30",
-      "link": "https://xingwangzhe.fun/posts/orama-search-replace-pagefind/",
+      "link": "https://stalux.needhelp.icu/posts/orama-search-replace-pagefind/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -206,7 +206,7 @@
     {
       "title": "人工智能实训Day4：Agent智能体系统Proposal——B4 LLM决策模块",
       "created": "2026-06-25 15:00",
-      "link": "https://xingwangzhe.fun/posts/ai-training-agent-day4-proposal/",
+      "link": "https://stalux.needhelp.icu/posts/ai-training-agent-day4-proposal/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -220,7 +220,7 @@
     {
       "title": "人工智能实训Day3：Agent智能体实践——工具调用与多技能协作",
       "created": "2026-06-24 16:00",
-      "link": "https://xingwangzhe.fun/posts/ai-training-agent-day3/",
+      "link": "https://stalux.needhelp.icu/posts/ai-training-agent-day3/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
