@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-19 15:59:12"
+    "last_updated_time": "2026-07-19 20:54:56"
   },
   "article_data": [
     {
@@ -113,20 +113,6 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "第一次做学术 Poster——人工智能实训 Week2 的报告体验",
-      "created": "2026-07-04 15:00",
-      "link": "https://xingwangzhe.fun/posts/ai-week2end-poster/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "AI + Rust 两连发：从 20 分钟到 12 秒，博客宇宙的构建优化之旅",
-      "created": "2026-07-04 13:00",
-      "link": "https://xingwangzhe.fun/posts/ai-rust-bfs-force-two-wheels/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "豆言豆语Skill发布：让AI学会豆包的毒舌说话风格",
       "created": "2026-07-02 19:04",
       "link": "https://blog.zhheo.com/p/ojxzvqar.html",
@@ -146,13 +132,6 @@
       "link": "https://blog.zhheo.com/p/s3li91qz.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "人工智能实训Week2：B4 LLM决策模块五维升级实战",
-      "created": "2026-06-30 10:00",
-      "link": "https://xingwangzhe.fun/posts/ai-training-b4-llm-week2/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "世界计划交响乐2026",
@@ -176,27 +155,6 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
-      "title": "d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力",
-      "created": "2026-06-28 15:17",
-      "link": "https://xingwangzhe.fun/posts/d3-force-precompute-3d/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "友链图谱 2.0 - 3D 更美观的可视化",
-      "created": "2026-06-27 18:30",
-      "link": "https://xingwangzhe.fun/posts/2d3d-graph-v2/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "告别 Pagefind，用 Orama 实现静态博客的全文搜索",
-      "created": "2026-06-26 18:30",
-      "link": "https://xingwangzhe.fun/posts/orama-search-replace-pagefind/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "结束了——高中毕业有感",
       "created": "2026-06-25 23:22",
       "link": "https://www.ordchaos.com/posts/6831682d/",
@@ -204,25 +162,11 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
-      "title": "人工智能实训Day4：Agent智能体系统Proposal——B4 LLM决策模块",
-      "created": "2026-06-25 15:00",
-      "link": "https://xingwangzhe.fun/posts/ai-training-agent-day4-proposal/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "洪绘动图发布：将视频转换为帧图或者GIF并且限制只有5MB，APNG、WEBP动图生成工具",
       "created": "2026-06-25 13:43",
       "link": "https://blog.zhheo.com/p/9yuhxjpl.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "人工智能实训Day3：Agent智能体实践——工具调用与多技能协作",
-      "created": "2026-06-24 16:00",
-      "link": "https://xingwangzhe.fun/posts/ai-training-agent-day3/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难",
@@ -785,6 +729,48 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "离散数学:格的基本概念",
+      "created": "2025-03-23 14:31",
+      "link": "https://xingwangzhe.fun/posts/41696/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:环与域",
+      "created": "2025-03-23 13:15",
+      "link": "https://xingwangzhe.fun/posts/60641/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:子群的陪集及拉格朗日定理",
+      "created": "2025-03-23 11:07",
+      "link": "https://xingwangzhe.fun/posts/14001/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:子群及其证明",
+      "created": "2025-03-23 09:08",
+      "link": "https://xingwangzhe.fun/posts/52401/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:群的定义及性质",
+      "created": "2025-03-22 10:42",
+      "link": "https://xingwangzhe.fun/posts/62320/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:半群,独异点",
+      "created": "2025-03-22 10:02",
+      "link": "https://xingwangzhe.fun/posts/25427/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "そして、次の曲が始まるのです！——吹响吧上低音号10th Anniversary",
       "created": "2025-03-18 22:00",
       "link": "http://ichika.cc/Article/life_eupho10th/",
@@ -797,6 +783,20 @@
       "link": "http://ichika.cc/Article/life_NintendoMuseum/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
+      "title": "离散数学:代数系统(二)",
+      "created": "2025-03-06 10:24",
+      "link": "https://xingwangzhe.fun/posts/42789/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:代数系统(一)",
+      "created": "2025-03-04 17:49",
+      "link": "https://xingwangzhe.fun/posts/26496/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "《终焉之马格诺利亚》 优雅的恶魔城续作",
