@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-19 20:54:56"
+    "last_updated_time": "2026-07-20 02:51:31"
   },
   "article_data": [
+    {
+      "title": "发布 @xingwangzhe/satteri-mermaid：剔除mermaid.js，用Rust原生渲染流程图，构建时产出纯静态SVG",
+      "created": "2026-07-19 19:00",
+      "link": "https://xingwangzhe.fun/posts/satteri-mermaid-npm-package/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶",
       "created": "2026-07-17 13:30",
@@ -104,13 +111,6 @@
       "link": "https://blog.zhheo.com/p/owiixgnk.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "人工智能 Poster 专业展示",
-      "created": "2026-07-07 16:00",
-      "link": "https://xingwangzhe.fun/posts/week3-ai-poster/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "豆言豆语Skill发布：让AI学会豆包的毒舌说话风格",
