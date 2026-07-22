@@ -4,7 +4,7 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-22 16:09:19"
+    "last_updated_time": "2026-07-22 21:22:44"
   },
   "article_data": [
     {
@@ -36,13 +36,6 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶",
-      "created": "2026-07-17 13:30",
-      "link": "https://xingwangzhe.fun/posts/ai-training-b4-final-report/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "给 SearXNG 接入豆包搜索，解决 OpenClaw 信源难题",
       "created": "2026-07-17 13:08",
       "link": "https://blog.zhheo.com/p/1ffvrvyd.html",
@@ -62,20 +55,6 @@
       "link": "https://blog.zhheo.com/p/94w0byur.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "关于博客组织友链迁移的公告",
-      "created": "2026-07-15 20:30",
-      "link": "https://xingwangzhe.fun/posts/blogroll-migration-notice/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践",
-      "created": "2026-07-13 22:00",
-      "link": "https://xingwangzhe.fun/posts/ai-training-b4-week2-review/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "评论迁移及样式更新",
@@ -99,9 +78,9 @@
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
     },
     {
-      "title": "后来-人们管这叫作魔法",
-      "created": "2026-07-11 16:48",
-      "link": "https://xingwangzhe.fun/posts/later-they-called-it-magic/",
+      "title": "LLM & AI Discovery File Configuration",
+      "created": "2026-07-10 20:00",
+      "link": "https://xingwangzhe.fun/posts/a1b2c3d4/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -715,6 +694,48 @@
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
+      "title": "Waline Comment System Configuration",
+      "created": "2025-05-10 16:00",
+      "link": "https://xingwangzhe.fun/posts/f4442947/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "Footer Configuration Details",
+      "created": "2025-05-10 15:00",
+      "link": "https://xingwangzhe.fun/posts/dd30cf92/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "Typing Animation, Social Media & Friend Links",
+      "created": "2025-05-10 13:00",
+      "link": "https://xingwangzhe.fun/posts/8e8c59c4/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "Custom Head, Analytics & Navigation",
+      "created": "2025-05-10 12:00",
+      "link": "https://xingwangzhe.fun/posts/0035a0ee/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "Site Basic Information & Content Collections",
+      "created": "2025-05-10 11:00",
+      "link": "https://xingwangzhe.fun/posts/ad81245d/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "Stalux Theme Configuration Overview",
+      "created": "2025-05-10 10:00",
+      "link": "https://xingwangzhe.fun/posts/0b563d42/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "使用Github Actions定制Github个人主页",
       "created": "2025-04-05 23:18",
       "link": "https://blog.qyadbr.top/posts/hexo14",
@@ -736,30 +757,9 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "离散数学:环与域",
-      "created": "2025-03-23 13:15",
-      "link": "https://xingwangzhe.fun/posts/60641/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "离散数学:子群的陪集及拉格朗日定理",
       "created": "2025-03-23 11:07",
       "link": "https://xingwangzhe.fun/posts/14001/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "离散数学:子群及其证明",
-      "created": "2025-03-23 09:08",
-      "link": "https://xingwangzhe.fun/posts/52401/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "离散数学:群的定义及性质",
-      "created": "2025-03-22 10:42",
-      "link": "https://xingwangzhe.fun/posts/62320/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
