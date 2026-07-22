@@ -3,10 +3,17 @@
     "friends_num": 25,
     "active_num": 20,
     "error_num": 5,
-    "article_num": 245,
-    "last_updated_time": "2026-07-22 21:22:44"
+    "article_num": 235,
+    "last_updated_time": "2026-07-23 02:58:37"
   },
   "article_data": [
+    {
+      "title": "Linux下的手动双面打印工具：DupriMan",
+      "created": "2026-07-23 05:30",
+      "link": "https://www.ordchaos.com/posts/0250ea69/",
+      "author": "序炁的博客",
+      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
     {
       "title": "我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样",
       "created": "2026-07-21 09:50",
@@ -36,6 +43,13 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
+      "title": "人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶",
+      "created": "2026-07-17 13:30",
+      "link": "https://xingwangzhe.fun/posts/ai-training-b4-final-report/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "给 SearXNG 接入豆包搜索，解决 OpenClaw 信源难题",
       "created": "2026-07-17 13:08",
       "link": "https://blog.zhheo.com/p/1ffvrvyd.html",
@@ -55,6 +69,20 @@
       "link": "https://blog.zhheo.com/p/94w0byur.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "关于博客组织友链迁移的公告",
+      "created": "2026-07-15 20:30",
+      "link": "https://xingwangzhe.fun/posts/blogroll-migration-notice/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践",
+      "created": "2026-07-13 22:00",
+      "link": "https://xingwangzhe.fun/posts/ai-training-b4-week2-review/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "评论迁移及样式更新",
@@ -78,9 +106,9 @@
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
     },
     {
-      "title": "LLM & AI Discovery File Configuration",
-      "created": "2026-07-10 20:00",
-      "link": "https://xingwangzhe.fun/posts/a1b2c3d4/",
+      "title": "后来-人们管这叫作魔法",
+      "created": "2026-07-11 16:48",
+      "link": "https://xingwangzhe.fun/posts/later-they-called-it-magic/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -694,48 +722,6 @@
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
-      "title": "Waline Comment System Configuration",
-      "created": "2025-05-10 16:00",
-      "link": "https://xingwangzhe.fun/posts/f4442947/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Footer Configuration Details",
-      "created": "2025-05-10 15:00",
-      "link": "https://xingwangzhe.fun/posts/dd30cf92/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Typing Animation, Social Media & Friend Links",
-      "created": "2025-05-10 13:00",
-      "link": "https://xingwangzhe.fun/posts/8e8c59c4/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Custom Head, Analytics & Navigation",
-      "created": "2025-05-10 12:00",
-      "link": "https://xingwangzhe.fun/posts/0035a0ee/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Site Basic Information & Content Collections",
-      "created": "2025-05-10 11:00",
-      "link": "https://xingwangzhe.fun/posts/ad81245d/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Stalux Theme Configuration Overview",
-      "created": "2025-05-10 10:00",
-      "link": "https://xingwangzhe.fun/posts/0b563d42/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "使用Github Actions定制Github个人主页",
       "created": "2025-04-05 23:18",
       "link": "https://blog.qyadbr.top/posts/hexo14",
@@ -757,9 +743,30 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
+      "title": "离散数学:环与域",
+      "created": "2025-03-23 13:15",
+      "link": "https://xingwangzhe.fun/posts/60641/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "离散数学:子群的陪集及拉格朗日定理",
       "created": "2025-03-23 11:07",
       "link": "https://xingwangzhe.fun/posts/14001/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:子群及其证明",
+      "created": "2025-03-23 09:08",
+      "link": "https://xingwangzhe.fun/posts/52401/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:群的定义及性质",
+      "created": "2025-03-22 10:42",
+      "link": "https://xingwangzhe.fun/posts/62320/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -1121,13 +1128,6 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
-      "title": "人没逝，感谢关心（咬牙切齿）",
-      "created": "2024-08-01 18:46",
-      "link": "https://blog.leonus.cn/2024/alive.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
       "title": "Vue+TS 实现虚拟列表",
       "created": "2024-07-04 14:41",
       "link": "https://www.qcqx.cn/article/6ae8614b.html",
@@ -1205,13 +1205,6 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
-      "title": "新年倒计时改良&随便说说",
-      "created": "2023-12-25 20:24",
-      "link": "https://blog.leonus.cn/2023/newYearCard2.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
       "title": "一文搞懂伪代码",
       "created": "2023-12-16 15:58",
       "link": "https://kmar.top/posts/6e8d014c/",
@@ -1219,67 +1212,11 @@
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
     },
     {
-      "title": "幽门螺旋杆菌的治疗",
-      "created": "2023-11-12 12:10",
-      "link": "https://blog.leonus.cn/2023/Helicobacter-pylori.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "《光年 星环》蓝牙耳机购买体验",
-      "created": "2023-11-07 20:14",
-      "link": "https://blog.leonus.cn/2023/star-ring.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
       "title": "2023 级新生周赛第二周题解",
       "created": "2023-11-05 17:03",
       "link": "https://kmar.top/posts/fd60364e/",
       "author": "山岳库博",
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
-    },
-    {
-      "title": "最近我都干了些什么",
-      "created": "2023-10-22 09:05",
-      "link": "https://blog.leonus.cn/2023/recently.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "发现了一款好用的安卓视频播放器",
-      "created": "2023-10-13 09:43",
-      "link": "https://blog.leonus.cn/2023/nextplayer.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "《百妖谱》经典语录",
-      "created": "2023-10-10 00:33",
-      "link": "https://blog.leonus.cn/2023/baiyaopu.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "最近买的一些打折的 Steam 游戏",
-      "created": "2023-09-15 16:42",
-      "link": "https://blog.leonus.cn/2023/steam.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "面试问题总结",
-      "created": "2023-08-28 20:58",
-      "link": "https://blog.leonus.cn/2023/interview-qa.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "实用配件 —— 视频采集卡",
-      "created": "2023-08-26 11:32",
-      "link": "https://blog.leonus.cn/2023/video-capture.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
       "title": "年中总结，及进16岁生贺",
@@ -1313,13 +1250,6 @@
       "title": "文章AI摘要？太酷啦！",
       "created": "2023-07-07 00:05",
       "link": "https://www.ordchaos.com/posts/ec8c9790/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
-      "title": "哇！是毕业旅行！",
-      "created": "2023-07-02 00:17",
-      "link": "https://www.ordchaos.com/posts/c2e7460a/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
