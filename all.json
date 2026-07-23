@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-07-23 16:13:00"
+    "last_updated_time": "2026-07-23 21:25:25"
   },
   "article_data": [
+    {
+      "title": "给 Linux 上的 Chrome 打一针肾上腺素——我的 GPU 加速调优方案",
+      "created": "2026-07-23 15:00",
+      "link": "https://xingwangzhe.fun/posts/chrome-linux-gpu-tuning/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "腾讯miora上手：设计师又又又失业的一集？",
       "created": "2026-07-23 11:31",
@@ -118,13 +125,6 @@
       "link": "https://kmar.top/posts/6fea76ad/",
       "author": "山岳库博",
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
-    },
-    {
-      "title": "后来-人们管这叫作魔法",
-      "created": "2026-07-11 16:48",
-      "link": "https://xingwangzhe.fun/posts/later-they-called-it-magic/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "混元hy3模型上手：腾讯送了云函数个人版6个月，怎么才能用上",
