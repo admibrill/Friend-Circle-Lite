@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 245,
-    "last_updated_time": "2026-08-06 09:42:31"
+    "last_updated_time": "2026-08-06 16:15:13"
   },
   "article_data": [
+    {
+      "title": "WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持",
+      "created": "2026-08-06 11:56",
+      "link": "https://blog.zhheo.com/p/z1fmm8ee.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "2507成都行",
       "created": "2026-08-01 03:06",
@@ -207,13 +214,6 @@
       "title": "洪绘动图发布：将视频转换为帧图或者GIF并且限制只有5MB，APNG、WEBP动图生成工具",
       "created": "2026-06-25 13:43",
       "link": "https://blog.zhheo.com/p/9yuhxjpl.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难",
-      "created": "2026-06-18 10:27",
-      "link": "https://blog.zhheo.com/p/sir4kfs9.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
