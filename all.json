@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 25,
-    "active_num": 19,
-    "error_num": 6,
-    "article_num": 230,
-    "last_updated_time": "2026-08-09 02:22:18"
+    "active_num": 18,
+    "error_num": 7,
+    "article_num": 215,
+    "last_updated_time": "2026-08-09 08:57:14"
   },
   "article_data": [
     {
@@ -211,13 +211,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "世界计划交响乐2026",
-      "created": "2026-06-29 12:00",
-      "link": "http://ichika.cc/Article/life_SekaiSymphony2026/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "Arch Linux安装（LUKS+BtrFS+UKI+Nvidia驱动）",
       "created": "2026-06-28 17:50",
       "link": "https://www.ordchaos.com/posts/d5d12650/",
@@ -386,13 +379,6 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "title": "罗森初音，Sunrise寝台特急，高松，和歌山",
-      "created": "2026-02-09 12:00",
-      "link": "http://ichika.cc/Article/life_Lawson50thMiku/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "2025，清风已至，正帆向星海",
       "created": "2026-01-08 00:06",
       "link": "https://blog.liushen.fun/posts/5db5181d/",
@@ -400,32 +386,11 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "《空之轨迹1st》终于可以入坑轨迹了",
-      "created": "2026-01-07 15:00",
-      "link": "http://ichika.cc/Article/game_SoraNoKiseki1st/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "初音未来交响乐10th神户场",
-      "created": "2026-01-07 15:00",
-      "link": "http://ichika.cc/Article/life_MikuSymphonyAndKobe/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "2025——年复年兮连年念",
       "created": "2026-01-04 23:21",
       "link": "https://blog.yaria.top/posts/33452911",
       "author": "Ariasakaの小窝",
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
-    },
-    {
-      "title": "PJSK COLORFUL LIVE 5th",
-      "created": "2025-12-29 11:00",
-      "link": "http://ichika.cc/Article/life_PJSK5thLive/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "活成常人：我的2025",
@@ -468,13 +433,6 @@
       "link": "https://blog.tsoo.net/archives/he-nan-yan-xue-ji-lu",
       "author": "bbb-lsy07",
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
-    },
-    {
-      "title": "烤5th感谢祭&马6秋&初音联动房&秒五真人版",
-      "created": "2025-11-03 00:00",
-      "link": "http://ichika.cc/Article/life_PJSKandUMA/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "从Moments迁移到Ech0",
@@ -554,13 +512,6 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "title": "Anisama与魔法未来2025",
-      "created": "2025-09-09 10:00",
-      "link": "http://ichika.cc/Article/life_ASLandMM2025/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "免费部署Lsky Pro+",
       "created": "2025-09-06 19:54",
       "link": "https://blog.tsoo.net/archives/mian-fei-bu-shu-lsky-pro",
@@ -587,13 +538,6 @@
       "link": "https://blog.qyadbr.top/posts/hexo17",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "Nintendo Switch 2：恰到好处的升级",
-      "created": "2025-08-24 18:00",
-      "link": "http://ichika.cc/Article/game_NintendoSwitch2/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "奔向梦想与未来！BW2025&&沪苏游记",
@@ -624,32 +568,11 @@
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
     },
     {
-      "title": "去看了千与千寻舞台剧，超级推荐",
-      "created": "2025-07-23 16:00",
-      "link": "http://ichika.cc/Article/life_SpritedAway/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "P13020 [GESP202506 八级] 遍历计数 题解",
       "created": "2025-06-30 19:18",
       "link": "https://blog.qyadbr.top/posts/hexo16",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "拓竹H2D小测评",
-      "created": "2025-06-11 19:05",
-      "link": "http://ichika.cc/Article/tech_BambuH2D/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "《光与影：33号远征队》",
-      "created": "2025-06-09 22:10",
-      "link": "http://ichika.cc/Article/game_Expedition33/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "哈哈，好久没更新了",
@@ -664,13 +587,6 @@
       "link": "https://blog.qyadbr.top/posts/hexo15",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "《浪漫沙加2：七英雄的复仇》不浪漫，但好玩",
-      "created": "2025-05-12 18:10",
-      "link": "http://ichika.cc/Article/game_RomancingSaga2/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "使用Github Actions定制Github个人主页",
@@ -729,20 +645,6 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "そして、次の曲が始まるのです！——吹响吧上低音号10th Anniversary",
-      "created": "2025-03-18 22:00",
-      "link": "http://ichika.cc/Article/life_eupho10th/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "任天堂博物馆参观与购票指北",
-      "created": "2025-03-18 16:00",
-      "link": "http://ichika.cc/Article/life_NintendoMuseum/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
       "title": "离散数学:代数系统(二)",
       "created": "2025-03-06 10:24",
       "link": "https://xingwangzhe.fun/posts/42789/",
@@ -755,13 +657,6 @@
       "link": "https://xingwangzhe.fun/posts/26496/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "《终焉之马格诺利亚》 优雅的恶魔城续作",
-      "created": "2025-02-27 19:50",
-      "link": "http://ichika.cc/Article/game_EnderMagnolia/",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
       "title": "Qt Troubleshoot（三）",
