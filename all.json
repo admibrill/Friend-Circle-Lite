@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 230,
-    "last_updated_time": "2026-08-18 14:25:20"
+    "last_updated_time": "2026-08-18 20:24:02"
   },
   "article_data": [
+    {
+      "title": "EdgeOne 与 Cloudflare 海内外分流 CDN",
+      "created": "2026-08-19 00:58",
+      "link": "https://xingwangzhe.fun/posts/edgeone-cloudflare-split-cdn/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "旧忆今拾",
       "created": "2026-08-18 16:40",
@@ -690,13 +697,6 @@
       "title": "离散数学:格的基本概念",
       "created": "2025-03-23 22:31",
       "link": "https://xingwangzhe.fun/posts/41696/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "离散数学:环与域",
-      "created": "2025-03-23 21:15",
-      "link": "https://xingwangzhe.fun/posts/60641/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
