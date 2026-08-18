@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 230,
-    "last_updated_time": "2026-08-18 08:39:45"
+    "last_updated_time": "2026-08-18 14:25:20"
   },
   "article_data": [
+    {
+      "title": "旧忆今拾",
+      "created": "2026-08-18 16:40",
+      "link": "https://xingwangzhe.fun/posts/old-memories-revisited/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "给DeepSeek-V4-Flash借一双眼睛：ZCode视觉子Agent方案",
       "created": "2026-08-14 17:46",
@@ -57,6 +64,13 @@
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
+      "title": "Astro 7.2.0 实验性增量构建：从 0 命中到 1254 个 restored 的踩坑实录",
+      "created": "2026-08-07 09:09",
+      "link": "https://xingwangzhe.fun/posts/astro-7.2-incremental-build/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "AxonHub - 多模型API智能路由网关",
       "created": "2026-08-07 01:12",
       "link": "https://blog.liushen.fun/posts/b404081c/",
@@ -64,9 +78,9 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "Astro 7.2.0 实验性增量构建：从 0 命中到 1254 个 restored 的踩坑实录",
-      "created": "2026-08-07 01:09",
-      "link": "https://xingwangzhe.fun/posts/astro-7.2-incremental-build/",
+      "title": "Astro 博客主题 Stalux 集成 WebMCP：纯前端注册 7 个工具，让 AI 代理直接用你的博客",
+      "created": "2026-08-06 19:30",
+      "link": "https://xingwangzhe.fun/posts/stalux-webmcp-integration/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -85,13 +99,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "Astro 博客主题 Stalux 集成 WebMCP：纯前端注册 7 个工具，让 AI 代理直接用你的博客",
-      "created": "2026-08-06 11:30",
-      "link": "https://xingwangzhe.fun/posts/stalux-webmcp-integration/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "2507成都行",
       "created": "2026-08-01 03:06",
       "link": "https://blog.walterfang.site/posts/2507-chengdu/",
@@ -107,14 +114,14 @@
     },
     {
       "title": "把 Stalux 从源码博客改造为 npm 插件——一次完整的 Astro Integration 实践",
-      "created": "2026-07-27 22:00",
+      "created": "2026-07-28 06:00",
       "link": "https://xingwangzhe.fun/posts/stalux-dual-mode-refactor/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "给 Linux 上的 Chrome 打一针肾上腺素——我的 GPU 加速调优方案",
-      "created": "2026-07-23 15:00",
+      "created": "2026-07-23 23:00",
       "link": "https://xingwangzhe.fun/posts/chrome-linux-gpu-tuning/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -142,14 +149,14 @@
     },
     {
       "title": "我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样",
-      "created": "2026-07-21 09:50",
+      "created": "2026-07-21 17:50",
       "link": "https://xingwangzhe.fun/posts/mozilla-monitor-check/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "雅可比猜想被AI推翻——世界杯决赛夜，Fable一脚踢翻了85年的数学猜想",
-      "created": "2026-07-20 16:00",
+      "created": "2026-07-21 00:00",
       "link": "https://xingwangzhe.fun/posts/jacobian-conjecture-counterexample-fable/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -163,7 +170,7 @@
     },
     {
       "title": "发布 @xingwangzhe/satteri-mermaid：剔除mermaid.js，用Rust原生渲染流程图，构建时产出纯静态SVG",
-      "created": "2026-07-19 19:00",
+      "created": "2026-07-20 03:00",
       "link": "https://xingwangzhe.fun/posts/satteri-mermaid-npm-package/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -680,6 +687,20 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "离散数学:格的基本概念",
+      "created": "2025-03-23 22:31",
+      "link": "https://xingwangzhe.fun/posts/41696/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:环与域",
+      "created": "2025-03-23 21:15",
+      "link": "https://xingwangzhe.fun/posts/60641/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "P3435 [POI 2006] OKR-Periods of Words 题解",
       "created": "2025-03-23 20:45",
       "link": "https://blog.qyadbr.top/posts/hexo13",
@@ -687,43 +708,22 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
-      "title": "离散数学:格的基本概念",
-      "created": "2025-03-23 14:31",
-      "link": "https://xingwangzhe.fun/posts/41696/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "离散数学:环与域",
-      "created": "2025-03-23 13:15",
-      "link": "https://xingwangzhe.fun/posts/60641/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "离散数学:子群的陪集及拉格朗日定理",
-      "created": "2025-03-23 11:07",
+      "created": "2025-03-23 19:07",
       "link": "https://xingwangzhe.fun/posts/14001/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "离散数学:子群及其证明",
-      "created": "2025-03-23 09:08",
+      "created": "2025-03-23 17:08",
       "link": "https://xingwangzhe.fun/posts/52401/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "离散数学:群的定义及性质",
-      "created": "2025-03-22 10:42",
-      "link": "https://xingwangzhe.fun/posts/62320/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "离散数学:半群,独异点",
-      "created": "2025-03-22 10:02",
+      "created": "2025-03-22 18:02",
       "link": "https://xingwangzhe.fun/posts/25427/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -744,14 +744,14 @@
     },
     {
       "title": "离散数学:代数系统(二)",
-      "created": "2025-03-06 10:24",
+      "created": "2025-03-06 18:24",
       "link": "https://xingwangzhe.fun/posts/42789/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "离散数学:代数系统(一)",
-      "created": "2025-03-04 17:49",
+      "created": "2025-03-05 01:49",
       "link": "https://xingwangzhe.fun/posts/26496/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
