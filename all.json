@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 230,
-    "last_updated_time": "2026-08-21 20:26:17"
+    "last_updated_time": "2026-08-22 02:22:10"
   },
   "article_data": [
+    {
+      "title": "博客第一次接到赞助：聊聊不繁简历",
+      "created": "2026-08-22 04:00",
+      "link": "https://xingwangzhe.fun/posts/bufancv-first-sponsorship/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "个人小项目vibecoding方案推荐：opencode spark 1.2 和 zcode",
       "created": "2026-08-20 13:05",
@@ -711,13 +718,6 @@
       "title": "离散数学:子群的陪集及拉格朗日定理",
       "created": "2025-03-23 19:07",
       "link": "https://xingwangzhe.fun/posts/14001/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "离散数学:子群及其证明",
-      "created": "2025-03-23 17:08",
-      "link": "https://xingwangzhe.fun/posts/52401/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
