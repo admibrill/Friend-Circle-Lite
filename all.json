@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 230,
-    "last_updated_time": "2026-08-22 14:22:05"
+    "last_updated_time": "2026-08-22 20:18:59"
   },
   "article_data": [
+    {
+      "title": "我用 Is Agentic 给博客做了一次体检",
+      "created": "2026-08-22 23:00",
+      "link": "https://xingwangzhe.fun/posts/is-agentic-blog-check/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "这个 aptitude 没有超级牛力",
       "created": "2026-08-22 18:00",
@@ -706,13 +713,6 @@
       "link": "https://blog.qyadbr.top/posts/hexo14",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "离散数学:格的基本概念",
-      "created": "2025-03-23 22:31",
-      "link": "https://xingwangzhe.fun/posts/41696/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "P3435 [POI 2006] OKR-Periods of Words 题解",
