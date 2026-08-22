@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 230,
-    "last_updated_time": "2026-08-22 08:39:38"
+    "last_updated_time": "2026-08-22 14:22:05"
   },
   "article_data": [
+    {
+      "title": "这个 aptitude 没有超级牛力",
+      "created": "2026-08-22 18:00",
+      "link": "https://xingwangzhe.fun/posts/aptitude-super-cow-powers/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "博客第一次接到赞助：聊聊不繁简历",
       "created": "2026-08-22 04:00",
@@ -741,13 +748,6 @@
       "link": "http://ichika.cc/Article/life_NintendoMuseum/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "离散数学:代数系统(二)",
-      "created": "2025-03-06 18:24",
-      "link": "https://xingwangzhe.fun/posts/42789/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "离散数学:代数系统(一)",
