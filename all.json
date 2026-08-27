@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 230,
-    "last_updated_time": "2026-08-27 13:48:44"
+    "last_updated_time": "2026-08-28 01:07:22"
   },
   "article_data": [
+    {
+      "title": "BrowserSkill上手：让AI接入浏览器，还能录制动作教它学习",
+      "created": "2026-08-27 18:36",
+      "link": "https://blog.zhheo.com/p/q6b3774w.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "我与我的 OpenClaw 凉透了焦虑和解了",
       "created": "2026-08-27 11:13",
@@ -200,13 +207,6 @@
       "title": "腾讯miora上手：设计师又又又失业的一集？",
       "created": "2026-07-23 11:31",
       "link": "https://blog.zhheo.com/p/lw65vj43.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "Mac 合盖不休眠：用 pmset 彻底禁止系统睡眠",
-      "created": "2026-07-23 10:48",
-      "link": "https://blog.zhheo.com/p/xvupxvv6.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
