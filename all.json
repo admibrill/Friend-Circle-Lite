@@ -3,8 +3,8 @@
     "friends_num": 25,
     "active_num": 19,
     "error_num": 6,
-    "article_num": 215,
-    "last_updated_time": "2026-08-31 10:23:43"
+    "article_num": 230,
+    "last_updated_time": "2026-08-31 20:09:59"
   },
   "article_data": [
     {
@@ -50,6 +50,27 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "我用 Is Agentic 给博客做了一次体检",
+      "created": "2026-08-22 15:00",
+      "link": "https://xingwangzhe.fun/posts/is-agentic-blog-check/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "这个 aptitude 没有超级牛力",
+      "created": "2026-08-22 10:00",
+      "link": "https://xingwangzhe.fun/posts/aptitude-super-cow-powers/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "博客第一次接到赞助：聊聊不繁简历",
+      "created": "2026-08-21 20:00",
+      "link": "https://xingwangzhe.fun/posts/bufancv-first-sponsorship/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "个人小项目vibecoding方案推荐：opencode spark 1.2 和 zcode",
       "created": "2026-08-20 13:05",
       "link": "https://blog.zhheo.com/p/1bwuf82b.html",
@@ -69,6 +90,20 @@
       "link": "https://blog.zhheo.com/p/mgii3qy1.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "EdgeOne 与 Cloudflare 海内外分流 CDN",
+      "created": "2026-08-18 16:58",
+      "link": "https://xingwangzhe.fun/posts/edgeone-cloudflare-split-cdn/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "旧忆今拾",
+      "created": "2026-08-18 08:40",
+      "link": "https://xingwangzhe.fun/posts/old-memories-revisited/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "给DeepSeek-V4-Flash借一双眼睛：ZCode视觉子Agent方案",
@@ -127,6 +162,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "Astro 7.2.0 实验性增量构建：从 0 命中到 1254 个 restored 的踩坑实录",
+      "created": "2026-08-07 01:09",
+      "link": "https://xingwangzhe.fun/posts/astro-7.2-incremental-build/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "洪绘烧纸：一个网页在线电子烧纸，电子祭祀工具",
       "created": "2026-08-06 16:44",
       "link": "https://blog.zhheo.com/p/kiazx47a.html",
@@ -141,6 +183,13 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "Astro 博客主题 Stalux 集成 WebMCP：纯前端注册 7 个工具，让 AI 代理直接用你的博客",
+      "created": "2026-08-06 11:30",
+      "link": "https://xingwangzhe.fun/posts/stalux-webmcp-integration/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "2507成都行",
       "created": "2026-08-01 03:06",
       "link": "https://blog.walterfang.site/posts/2507-chengdu/",
@@ -148,11 +197,46 @@
       "avatar": "https://blog.walterfang.site/assets/images/avatar.png"
     },
     {
+      "title": "把 Stalux 从源码博客改造为 npm 插件——一次完整的 Astro Integration 实践",
+      "created": "2026-07-27 22:00",
+      "link": "https://xingwangzhe.fun/posts/stalux-dual-mode-refactor/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "给 Linux 上的 Chrome 打一针肾上腺素——我的 GPU 加速调优方案",
+      "created": "2026-07-23 15:00",
+      "link": "https://xingwangzhe.fun/posts/chrome-linux-gpu-tuning/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "Linux下的手动双面打印工具：DupriMan",
       "created": "2026-07-23 05:30",
       "link": "https://www.ordchaos.com/posts/0250ea69/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样",
+      "created": "2026-07-21 09:50",
+      "link": "https://xingwangzhe.fun/posts/mozilla-monitor-check/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "雅可比猜想被AI推翻——世界杯决赛夜，Fable一脚踢翻了85年的数学猜想",
+      "created": "2026-07-20 16:00",
+      "link": "https://xingwangzhe.fun/posts/jacobian-conjecture-counterexample-fable/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "发布 @xingwangzhe/satteri-mermaid：剔除mermaid.js，用Rust原生渲染流程图，构建时产出纯静态SVG",
+      "created": "2026-07-19 19:00",
+      "link": "https://xingwangzhe.fun/posts/satteri-mermaid-npm-package/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "评论迁移及样式更新",
@@ -645,6 +729,20 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "离散数学:子群的陪集及拉格朗日定理",
+      "created": "2025-03-23 11:07",
+      "link": "https://xingwangzhe.fun/posts/14001/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "离散数学:半群,独异点",
+      "created": "2025-03-22 10:02",
+      "link": "https://xingwangzhe.fun/posts/25427/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "そして、次の曲が始まるのです！——吹响吧上低音号10th Anniversary",
       "created": "2025-03-18 22:00",
       "link": "http://ichika.cc/Article/life_eupho10th/",
@@ -657,6 +755,13 @@
       "link": "http://ichika.cc/Article/life_NintendoMuseum/",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
+      "title": "离散数学:代数系统(一)",
+      "created": "2025-03-04 17:49",
+      "link": "https://xingwangzhe.fun/posts/26496/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "《终焉之马格诺利亚》 优雅的恶魔城续作",
