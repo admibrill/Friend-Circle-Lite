@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 220,
-    "last_updated_time": "2026-09-12 17:48:03"
+    "last_updated_time": "2026-09-12 22:38:36"
   },
   "article_data": [
+    {
+      "title": "辽宁省往年高考成绩查询方法",
+      "created": "2026-09-12 18:22",
+      "link": "https://xingwangzhe.fun/posts/liaoning-gaokao-score-history/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "为 iPhone Duo 做设计：苹果官方设计原则全解读",
       "created": "2026-09-11 16:59",
@@ -739,13 +746,6 @@
       "title": "离散数学:子群的陪集及拉格朗日定理",
       "created": "2025-03-23 11:07",
       "link": "https://xingwangzhe.fun/posts/14001/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "离散数学:半群,独异点",
-      "created": "2025-03-22 10:02",
-      "link": "https://xingwangzhe.fun/posts/25427/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
