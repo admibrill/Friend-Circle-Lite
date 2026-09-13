@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 7,
     "article_num": 220,
-    "last_updated_time": "2026-09-13 10:07:24"
+    "last_updated_time": "2026-09-13 18:48:14"
   },
   "article_data": [
+    {
+      "title": "WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了",
+      "created": "2026-09-13 16:30",
+      "link": "https://xingwangzhe.fun/posts/workbuddy-linux-deb-rpm/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "辽宁省往年高考成绩查询方法",
       "created": "2026-09-12 18:22",
@@ -741,13 +748,6 @@
       "link": "https://blog.qyadbr.top/posts/hexo13",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
-    },
-    {
-      "title": "离散数学:子群的陪集及拉格朗日定理",
-      "created": "2025-03-23 11:07",
-      "link": "https://xingwangzhe.fun/posts/14001/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "そして、次の曲が始まるのです！——吹响吧上低音号10th Anniversary",
