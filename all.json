@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 7,
     "article_num": 220,
-    "last_updated_time": "2026-09-14 10:25:12"
+    "last_updated_time": "2026-09-14 19:15:23"
   },
   "article_data": [
+    {
+      "title": "OpenClaw 接管你的油猴脚本：让 AI 直接读改网页脚本，不用再复制粘贴",
+      "created": "2026-09-14 12:30",
+      "link": "https://blog.zhheo.com/p/kp6o6mwu.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了",
       "created": "2026-09-13 16:30",
@@ -193,13 +200,6 @@
       "title": "给DeepSeek-V4-Flash借一双眼睛：ZCode视觉子Agent方案",
       "created": "2026-08-14 17:46",
       "link": "https://blog.zhheo.com/p/3gr7k8xj.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "Mole Mac 上手：界面精美，优秀好用的Mac清理工具",
-      "created": "2026-08-14 16:22",
-      "link": "https://blog.zhheo.com/p/lgodvfdh.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
