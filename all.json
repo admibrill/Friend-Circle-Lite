@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 25,
-    "active_num": 18,
-    "error_num": 7,
-    "article_num": 220,
-    "last_updated_time": "2026-09-29 06:45:34"
+    "active_num": 19,
+    "error_num": 6,
+    "article_num": 235,
+    "last_updated_time": "2026-09-29 11:19:38"
   },
   "article_data": [
     {
@@ -379,6 +379,20 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "中兴微ZX296716机顶盒TTL救砖全攻略",
+      "created": "2026-05-04 14:50",
+      "link": "https://blog.linux-qitong.top/posts/ad370841",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "闲鱼副业之行：在机顶盒救砖中，窥见人性的温差",
+      "created": "2026-04-20 19:54",
+      "link": "https://blog.linux-qitong.top/posts/11fb8caf",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "解决 Claude Code 安装或更新后 claude.exe 无法运行、claude native binary not installed",
       "created": "2026-04-20 12:00",
       "link": "https://www.imaegoo.com/2026/claude-code-native-binary-not-installed/",
@@ -419,6 +433,13 @@
       "link": "https://www.ordchaos.com/posts/093965f1/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "CMCC RAX3000QY路由器TTL刷机与OpenWrt解锁全记录",
+      "created": "2026-03-07 22:03",
+      "link": "https://blog.linux-qitong.top/posts/af0f6a8a",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "迁移到React",
@@ -561,6 +582,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "Clarity主题深度定制指南",
+      "created": "2025-11-02 18:51",
+      "link": "https://blog.linux-qitong.top/posts/90ddf487",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "Zmail + .ip6.arpa 自建永久免费临时邮箱",
       "created": "2025-10-26 19:30",
       "link": "https://blog.tsoo.net/archives/zmail-.ip6.arpa-zi-jian-yong-jiu-mian-fei-lin-shi-you-xiang",
@@ -687,6 +715,13 @@
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
     },
     {
+      "title": "当田园牧歌遭遇田埂上的贪婪",
+      "created": "2025-07-30 15:50",
+      "link": "https://blog.linux-qitong.top/posts/5233feb3",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "去看了千与千寻舞台剧，超级推荐",
       "created": "2025-07-23 16:00",
       "link": "http://ichika.cc/Article/life_SpritedAway/",
@@ -771,6 +806,20 @@
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
+      "title": "家庭阴影与校园霸凌的自愈",
+      "created": "2025-02-15 09:23",
+      "link": "https://blog.linux-qitong.top/posts/604987c3",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "公共澡堂体验：记录一次北方乡下的专业搓澡",
+      "created": "2025-01-23 09:23",
+      "link": "https://blog.linux-qitong.top/posts/851d5ed7",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "Qt Troubleshoot（三）",
       "created": "2025-01-20 10:21",
       "link": "https://blog.qyadbr.top/posts/hexo12",
@@ -799,6 +848,13 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "如何打造高效的团队",
+      "created": "2024-12-29 12:20",
+      "link": "https://blog.linux-qitong.top/posts/bacc54dc",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "迟别，OI",
       "created": "2024-12-17 08:00",
       "link": "https://blog.yaria.top/posts/7944d7c6",
@@ -825,6 +881,13 @@
       "link": "https://blog.qyadbr.top/posts/hexo8",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
+    },
+    {
+      "title": "Linux系统Git使用指南：从本地仓库创建到远程仓库推送",
+      "created": "2024-11-16 09:28",
+      "link": "https://blog.linux-qitong.top/posts/c06a1f35",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "时光漫谈",
@@ -972,6 +1035,13 @@
       "link": "https://blog.yaria.top/posts/c0z8jdo2",
       "author": "Ariasakaの小窝",
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
+    },
+    {
+      "title": "Hexo Butterfly主题进阶美化：添加FPS显示、节日弹窗与评论提示",
+      "created": "2024-09-17 06:30",
+      "link": "https://blog.linux-qitong.top/posts/305bae84",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "闭包与内存泄漏",
@@ -1128,6 +1198,13 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
+      "title": "告别手动编译：利用GitHub Actions自动化部署你的Hexo博客",
+      "created": "2024-01-22 12:23",
+      "link": "https://blog.linux-qitong.top/posts/fd2f879b",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "一文搞懂伪代码",
       "created": "2023-12-16 15:58",
       "link": "https://kmar.top/posts/6e8d014c/",
@@ -1163,11 +1240,32 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
+      "title": "从零搭建Hexo静态博客：环境配置、主题安装到部署上线完全指南",
+      "created": "2023-07-16 09:23",
+      "link": "https://blog.linux-qitong.top/posts/1b32c63",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "文章AI摘要？太酷啦！",
       "created": "2023-07-07 00:05",
       "link": "https://www.ordchaos.com/posts/ec8c9790/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "解决Debian包格式兼容：从zst到xz的手动转换与重打包教程",
+      "created": "2023-06-27 09:28",
+      "link": "https://blog.linux-qitong.top/posts/7394d04d",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "Debian系统编译Linux内核deb包：从编译到打包安装全流程",
+      "created": "2023-06-25 12:20",
+      "link": "https://blog.linux-qitong.top/posts/15118675",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "ECharts 帕累托图",
@@ -1252,6 +1350,13 @@
       "link": "https://www.fomal.cc/posts/c59270e7.html",
       "author": "Fomalhaut🥝",
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
+    {
+      "title": "老爷机复活指南：Linux Mint Xfce 轻量系统安装与优化全流程",
+      "created": "2023-03-15 08:52",
+      "link": "https://blog.linux-qitong.top/posts/1131c5be",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "ECharts 渐变折线图",
