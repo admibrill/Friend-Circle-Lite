@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 7,
     "article_num": 220,
-    "last_updated_time": "2026-10-03 18:49:31"
+    "last_updated_time": "2026-10-03 23:25:39"
   },
   "article_data": [
+    {
+      "title": "[短讯]:查询whois for edu.cn",
+      "created": "2026-10-04 03:57",
+      "link": "https://xingwangzhe.fun/posts/whois-for-edu-cn/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "Whois edu.cn? CERNIC介绍",
       "created": "2026-09-27 03:46",
@@ -270,13 +277,6 @@
       "title": "把 Stalux 从源码博客改造为 npm 插件——一次完整的 Astro Integration 实践",
       "created": "2026-07-28 06:00",
       "link": "https://xingwangzhe.fun/posts/stalux-dual-mode-refactor/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "给 Linux 上的 Chrome 打一针肾上腺素——我的 GPU 加速调优方案",
-      "created": "2026-07-23 23:00",
-      "link": "https://xingwangzhe.fun/posts/chrome-linux-gpu-tuning/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
