@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 7,
     "article_num": 220,
-    "last_updated_time": "2026-10-05 21:02:42"
+    "last_updated_time": "2026-10-06 07:28:54"
   },
   "article_data": [
+    {
+      "title": "GNU Guix 初体验",
+      "created": "2026-10-06 06:01",
+      "link": "https://www.ordchaos.com/posts/de44fa09/",
+      "author": "序炁的博客",
+      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
     {
       "title": "[短讯]:查询whois for edu.cn",
       "created": "2026-10-04 03:57",
@@ -1166,13 +1173,6 @@
       "title": "数字生命卡开箱——来自《流浪地球II》",
       "created": "2023-07-24 00:00",
       "link": "https://www.ordchaos.com/posts/b3d3143c/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
-      "title": "文章AI摘要？太酷啦！",
-      "created": "2023-07-07 00:05",
-      "link": "https://www.ordchaos.com/posts/ec8c9790/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
