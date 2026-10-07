@@ -4,9 +4,16 @@
     "active_num": 18,
     "error_num": 7,
     "article_num": 220,
-    "last_updated_time": "2026-10-07 11:21:21"
+    "last_updated_time": "2026-10-07 20:19:08"
   },
   "article_data": [
+    {
+      "title": "Vibe Coding 写 Rust：CJK 字体分片与 WOFF2 缓存优化复盘",
+      "created": "2026-10-08 03:47",
+      "link": "https://xingwangzhe.fun/posts/cjk-font-split-rust-vibe-optimization/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "GNU Guix 初体验",
       "created": "2026-10-06 06:01",
@@ -286,13 +293,6 @@
       "link": "https://blog.walterfang.site/posts/2507-chengdu/",
       "author": "Walter_Fang",
       "avatar": "https://blog.walterfang.site/assets/images/avatar.png"
-    },
-    {
-      "title": "把 Stalux 从源码博客改造为 npm 插件——一次完整的 Astro Integration 实践",
-      "created": "2026-07-28 06:00",
-      "link": "https://xingwangzhe.fun/posts/stalux-dual-mode-refactor/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "Linux下的手动双面打印工具：DupriMan",
