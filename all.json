@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 222,
-    "last_updated_time": "2026-10-08 20:28:42"
+    "last_updated_time": "2026-10-09 06:39:32"
   },
   "article_data": [
+    {
+      "title": "魔法未来2026",
+      "created": "2026-10-09 04:35",
+      "link": "https://ichika.cc/article/75",
+      "author": "ichika",
+      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
     {
       "title": "Apple Pay 自定义卡面教程：用 AirCard 给交通卡和银行卡换个卡面",
       "created": "2026-10-08 10:55",
@@ -781,13 +788,6 @@
       "title": "そして、次の曲が始まるのです！——吹响吧上低音号10th Anniversary",
       "created": "2025-03-19 06:00",
       "link": "https://ichika.cc/article/56",
-      "author": "ichika",
-      "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "任天堂博物馆参观与购票指北",
-      "created": "2025-03-19 00:00",
-      "link": "https://ichika.cc/article/47",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
