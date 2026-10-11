@@ -4,9 +4,23 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 222,
-    "last_updated_time": "2026-10-11 04:53:31"
+    "last_updated_time": "2026-10-11 10:57:08"
   },
   "article_data": [
+    {
+      "title": "HUAWEI MateBook D15 2022 Ubuntu 指纹识别修复：Goodix GDIX51C0 采图超时",
+      "created": "2026-10-11 18:25",
+      "link": "https://xingwangzhe.fun/posts/matebook-d15-goodix-gdix51c0-fingerprint/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "HUAWEI MateBook D 15 2022（BoF-XX-PCB）Ubuntu Linux 外放无声修复",
+      "created": "2026-10-11 18:00",
+      "link": "https://xingwangzhe.fun/posts/matebook-d15-bofxx-hwsp0001-no-speaker/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "国庆的PJSK 6th感谢祭与箱根二日游",
       "created": "2026-10-11 08:58",
@@ -274,25 +288,11 @@
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "旧忆今拾",
-      "created": "2026-08-18 16:40",
-      "link": "https://xingwangzhe.fun/posts/old-memories-revisited/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "谨慎选择京东云",
       "created": "2026-08-07 10:30",
       "link": "https://www.imaegoo.com/2026/fk-jdcloud/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "Astro 7.2.0 实验性增量构建：从 0 命中到 1254 个 restored 的踩坑实录",
-      "created": "2026-08-07 09:09",
-      "link": "https://xingwangzhe.fun/posts/astro-7.2-incremental-build/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "AxonHub - 多模型API智能路由网关",
