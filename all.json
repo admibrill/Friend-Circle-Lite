@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 222,
-    "last_updated_time": "2026-10-15 00:10:51"
+    "last_updated_time": "2026-10-15 05:06:20"
   },
   "article_data": [
+    {
+      "title": "谈谈我的以前、现在，和未来吧",
+      "created": "2026-10-14 22:47",
+      "link": "https://blog.yaria.top/posts/6f617894",
+      "author": "Ariasakaの小窝",
+      "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
+    },
     {
       "title": "com 域名 11 月 1 日要涨价，我把续费直接拉满到了 2036 年",
       "created": "2026-10-14 14:47",
@@ -1140,13 +1147,6 @@
       "link": "https://kmar.top/posts/6f6ff562/",
       "author": "山岳库博",
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
-    },
-    {
-      "title": "如何在RK系开发板的linux冷门内核上编译CH340驱动",
-      "created": "2024-03-15 16:34",
-      "link": "https://blog.yaria.top/posts/dad8e69b",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
     },
     {
       "title": "使用Github Action定时重启邮件服务",
