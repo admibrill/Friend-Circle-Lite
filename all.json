@@ -4,15 +4,43 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 222,
-    "last_updated_time": "2026-10-18 18:06:34"
+    "last_updated_time": "2026-10-18 23:05:53"
   },
   "article_data": [
+    {
+      "title": "在对话里按下 Ctrl+F",
+      "created": "2026-10-19 02:10",
+      "link": "https://www.fomal.cc/posts/5d9b3e71.html",
+      "author": "Fomalhaut🥝",
+      "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
+    {
+      "title": "让 agent 自己去搜图",
+      "created": "2026-10-19 01:40",
+      "link": "https://www.fomal.cc/posts/a41f7c2e.html",
+      "author": "Fomalhaut🥝",
+      "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
     {
       "title": "3D 关系图的极致优化：GPT-6.1 sol Ultra 的神力",
       "created": "2026-10-18 21:18",
       "link": "https://xingwangzhe.fun/posts/3d-graph-extreme-optimization-gpt-6-1-sol-ultra/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "把查 AI 模型做成插件",
+      "created": "2026-10-18 18:30",
+      "link": "https://www.fomal.cc/posts/3f284ebe.html",
+      "author": "Fomalhaut🥝",
+      "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
+    {
+      "title": "美股估值与情绪看板",
+      "created": "2026-10-18 17:30",
+      "link": "https://www.fomal.cc/posts/66daeeae.html",
+      "author": "Fomalhaut🥝",
+      "avatar": "https://www.fomal.cc/assets/avatar.webp"
     },
     {
       "title": "校园秋色",
@@ -1324,39 +1352,11 @@
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
     },
     {
-      "title": "博客魔改教程总结(五)",
-      "created": "2023-01-01 02:00",
-      "link": "https://www.fomal.cc/posts/d1927166.html",
-      "author": "Fomalhaut🥝",
-      "avatar": "https://www.fomal.cc/assets/avatar.webp"
-    },
-    {
       "title": "数仓设计与 ETL 规范",
       "created": "2022-12-31 10:00",
       "link": "https://blog.eurkon.com/post/1c85bfc3.html",
       "author": "Eurkon",
       "avatar": "https://npm.elemecdn.com/eurkon-cdn/hexo/images/user/avatar.jpg"
-    },
-    {
-      "title": "博客魔改教程总结(四)",
-      "created": "2022-12-31 08:00",
-      "link": "https://www.fomal.cc/posts/d739261b.html",
-      "author": "Fomalhaut🥝",
-      "avatar": "https://www.fomal.cc/assets/avatar.webp"
-    },
-    {
-      "title": "博客魔改教程总结(三)",
-      "created": "2022-12-31 02:00",
-      "link": "https://www.fomal.cc/posts/2d7ac914.html",
-      "author": "Fomalhaut🥝",
-      "avatar": "https://www.fomal.cc/assets/avatar.webp"
-    },
-    {
-      "title": "免费图床综合教程",
-      "created": "2022-12-04 01:41",
-      "link": "https://www.fomal.cc/posts/d7fb1ba1.html",
-      "author": "Fomalhaut🥝",
-      "avatar": "https://www.fomal.cc/assets/avatar.webp"
     },
     {
       "title": "小白也能用的 SW 构建插件",
