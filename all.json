@@ -4,9 +4,16 @@
     "active_num": 19,
     "error_num": 6,
     "article_num": 222,
-    "last_updated_time": "2026-10-18 10:10:00"
+    "last_updated_time": "2026-10-18 18:06:34"
   },
   "article_data": [
+    {
+      "title": "3D 关系图的极致优化：GPT-6.1 sol Ultra 的神力",
+      "created": "2026-10-18 21:18",
+      "link": "https://xingwangzhe.fun/posts/3d-graph-extreme-optimization-gpt-6-1-sol-ultra/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "校园秋色",
       "created": "2026-10-18 00:08",
@@ -277,13 +284,6 @@
       "title": "我用 Is Agentic 给博客做了一次体检",
       "created": "2026-08-22 23:00",
       "link": "https://xingwangzhe.fun/posts/is-agentic-blog-check/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "这个 aptitude 没有超级牛力",
-      "created": "2026-08-22 18:00",
-      "link": "https://xingwangzhe.fun/posts/aptitude-super-cow-powers/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
