@@ -4,12 +4,19 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 227,
-    "last_updated_time": "2026-10-24 17:59:23"
+    "last_updated_time": "2026-10-24 23:04:14"
   },
   "article_data": [
     {
+      "title": "在一个网站下远程管理多台设备上的 DeepSeek Harness",
+      "created": "2026-10-24 18:00",
+      "link": "https://www.imaegoo.com/2026/remote-manage-deepseek-harness/",
+      "author": "iMaeGoo’s Blog",
+      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
+    },
+    {
       "title": "1024程序员节-最后一次节日吗",
-      "created": "2026-10-24 20:55",
+      "created": "2026-10-24 12:55",
       "link": "https://xingwangzhe.fun/posts/1024-last-programmers-day/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -20,13 +27,6 @@
       "link": "https://blog.zhheo.com/p/rdxftsp4.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "我们可能面临互联网末日的奇点",
-      "created": "2026-10-22 22:30",
-      "link": "https://xingwangzhe.fun/posts/internet-doomsday-singularity/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "弥留之际与GPT-3.5的告别",
@@ -43,9 +43,9 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "PHP 大逃杀严阵以待",
-      "created": "2026-10-22 03:50",
-      "link": "https://xingwangzhe.fun/posts/php2shell-datasha/",
+      "title": "我们可能面临互联网末日的奇点",
+      "created": "2026-10-22 14:30",
+      "link": "https://xingwangzhe.fun/posts/internet-doomsday-singularity/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -55,6 +55,13 @@
       "link": "https://blog.yaria.top/posts/cfc502b1",
       "author": "Ariasakaの小窝",
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
+    },
+    {
+      "title": "PHP 大逃杀严阵以待",
+      "created": "2026-10-21 19:50",
+      "link": "https://xingwangzhe.fun/posts/php2shell-datasha/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "OPPO Watch X3 Mini 表盘魔改过程记录",
@@ -85,13 +92,6 @@
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
     },
     {
-      "title": "3D 关系图的极致优化：GPT-6.1 sol Ultra 的神力",
-      "created": "2026-10-18 21:18",
-      "link": "https://xingwangzhe.fun/posts/3d-graph-extreme-optimization-gpt-6-1-sol-ultra/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "把查 AI 模型做成插件",
       "created": "2026-10-18 18:30",
       "link": "https://www.fomal.cc/posts/3f284ebe.html",
@@ -106,8 +106,15 @@
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
     },
     {
+      "title": "3D 关系图的极致优化：GPT-6.1 sol Ultra 的神力",
+      "created": "2026-10-18 13:18",
+      "link": "https://xingwangzhe.fun/posts/3d-graph-extreme-optimization-gpt-6-1-sol-ultra/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "校园秋色",
-      "created": "2026-10-18 00:08",
+      "created": "2026-10-17 16:08",
       "link": "https://xingwangzhe.fun/posts/campus-autumn-20261017/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -142,14 +149,14 @@
     },
     {
       "title": "HUAWEI MateBook D15 2022 Ubuntu 指纹识别修复：Goodix GDIX51C0 采图超时",
-      "created": "2026-10-11 18:25",
+      "created": "2026-10-11 10:25",
       "link": "https://xingwangzhe.fun/posts/matebook-d15-goodix-gdix51c0-fingerprint/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "HUAWEI MateBook D 15 2022（BoF-XX-PCB）Ubuntu Linux 外放无声修复",
-      "created": "2026-10-11 18:00",
+      "created": "2026-10-11 10:00",
       "link": "https://xingwangzhe.fun/posts/matebook-d15-bofxx-hwsp0001-no-speaker/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -163,7 +170,7 @@
     },
     {
       "title": "Ubuntu Intel 性能模式问题排查：我修复 i7-1260P 的 PPD Governor 切换",
-      "created": "2026-10-09 23:39",
+      "created": "2026-10-09 15:39",
       "link": "https://xingwangzhe.fun/posts/ubuntu-intel-pstate-performance-governor/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -191,7 +198,7 @@
     },
     {
       "title": "Vibe Coding 写 Rust：CJK 字体分片与 WOFF2 缓存优化复盘",
-      "created": "2026-10-08 03:47",
+      "created": "2026-10-07 19:47",
       "link": "https://xingwangzhe.fun/posts/cjk-font-split-rust-vibe-optimization/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -205,7 +212,7 @@
     },
     {
       "title": "[短讯]:查询whois for edu.cn",
-      "created": "2026-10-04 03:57",
+      "created": "2026-10-03 19:57",
       "link": "https://xingwangzhe.fun/posts/whois-for-edu-cn/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -219,21 +226,21 @@
     },
     {
       "title": "Whois edu.cn? CERNIC介绍",
-      "created": "2026-09-27 03:46",
+      "created": "2026-09-26 19:46",
       "link": "https://xingwangzhe.fun/posts/whois-edu-cn-cernic/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "明月几时有：月相的知识",
-      "created": "2026-09-26 02:40",
+      "created": "2026-09-25 18:40",
       "link": "https://xingwangzhe.fun/posts/moon-phase-mid-autumn/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "公告:密友请更新我的GPG时间",
-      "created": "2026-09-24 01:29",
+      "created": "2026-09-23 17:29",
       "link": "https://xingwangzhe.fun/posts/gpg-expiry-update-2027/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -254,14 +261,14 @@
     },
     {
       "title": "WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了",
-      "created": "2026-09-14 00:30",
+      "created": "2026-09-13 16:30",
       "link": "https://xingwangzhe.fun/posts/workbuddy-linux-deb-rpm/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "辽宁省往年高考成绩查询方法",
-      "created": "2026-09-13 02:22",
+      "created": "2026-09-12 18:22",
       "link": "https://xingwangzhe.fun/posts/liaoning-gaokao-score-history/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
@@ -482,13 +489,6 @@
       "link": "https://blog.liushen.fun/posts/1968ba6c/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
-    },
-    {
-      "title": "解决 Claude Code 安装或更新后 claude.exe 无法运行、claude native binary not installed",
-      "created": "2026-04-20 12:00",
-      "link": "https://www.imaegoo.com/2026/claude-code-native-binary-not-installed/",
-      "author": "iMaeGoo’s Blog",
-      "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
       "title": "ChronoFrame - 一款优雅的瀑布流相册系统",
