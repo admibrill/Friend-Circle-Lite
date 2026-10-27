@@ -4,9 +4,16 @@
     "active_num": 20,
     "error_num": 5,
     "article_num": 227,
-    "last_updated_time": "2026-10-27 19:16:25"
+    "last_updated_time": "2026-10-28 01:01:51"
   },
   "article_data": [
+    {
+      "title": "推荐我开发的 Linux AppImage 管理器：AppimageMannger",
+      "created": "2026-10-27 17:55",
+      "link": "https://xingwangzhe.fun/posts/appimage-mannger-native-linux/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "iOS27.2支持禁止应用使用摇一摇广告了，不影响导航软件和视频软件",
       "created": "2026-10-27 10:50",
@@ -277,13 +284,6 @@
       "title": "WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了",
       "created": "2026-09-13 16:30",
       "link": "https://xingwangzhe.fun/posts/workbuddy-linux-deb-rpm/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "辽宁省往年高考成绩查询方法",
-      "created": "2026-09-12 18:22",
-      "link": "https://xingwangzhe.fun/posts/liaoning-gaokao-score-history/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
