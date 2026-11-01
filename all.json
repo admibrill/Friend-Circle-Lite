@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 25,
-    "active_num": 20,
-    "error_num": 5,
-    "article_num": 227,
-    "last_updated_time": "2026-11-01 04:47:24"
+    "active_num": 21,
+    "error_num": 4,
+    "article_num": 242,
+    "last_updated_time": "2026-11-01 11:17:45"
   },
   "article_data": [
     {
@@ -491,6 +491,20 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "中兴微ZX296716机顶盒TTL救砖",
+      "created": "2026-05-04 14:50",
+      "link": "https://blog.linux-qitong.top/posts/ad370841",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "机顶盒救砖副业，闲鱼里的人性温差",
+      "created": "2026-04-20 19:54",
+      "link": "https://blog.linux-qitong.top/posts/11fb8caf",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "ChronoFrame - 一款优雅的瀑布流相册系统",
       "created": "2026-04-05 00:00",
       "link": "https://blog.liushen.fun/posts/381a41ac/",
@@ -510,6 +524,13 @@
       "link": "https://www.ordchaos.com/posts/093965f1/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "CMCC RAX3000QY路由器TTL刷OpenWrt",
+      "created": "2026-03-07 22:03",
+      "link": "https://blog.linux-qitong.top/posts/af0f6a8a",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "迁移到React",
@@ -652,6 +673,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "Clarity主题深度定制指南",
+      "created": "2025-11-02 18:51",
+      "link": "https://blog.linux-qitong.top/posts/90ddf487",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "Zmail + .ip6.arpa 自建永久免费临时邮箱",
       "created": "2025-10-26 19:30",
       "link": "https://blog.tsoo.net/archives/zmail-.ip6.arpa-zi-jian-yong-jiu-mian-fei-lin-shi-you-xiang",
@@ -778,6 +806,13 @@
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
     },
     {
+      "title": "我的乡下生活，因为地界那点事",
+      "created": "2025-07-30 15:50",
+      "link": "https://blog.linux-qitong.top/posts/5233feb3",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "去看了千与千寻舞台剧，超级推荐",
       "created": "2025-07-24 00:00",
       "link": "https://ichika.cc/article/52",
@@ -841,6 +876,20 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "走出家庭阴影与校园霸凌",
+      "created": "2025-02-15 09:23",
+      "link": "https://blog.linux-qitong.top/posts/604987c3",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "在北方乡下公共澡堂的一次搓澡",
+      "created": "2025-01-23 09:23",
+      "link": "https://blog.linux-qitong.top/posts/851d5ed7",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "Qt Troubleshoot（三）",
       "created": "2025-01-20 10:21",
       "link": "https://blog.qyadbr.top/posts/hexo12",
@@ -869,6 +918,13 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "如何打造高效的团队",
+      "created": "2024-12-29 12:20",
+      "link": "https://blog.linux-qitong.top/posts/bacc54dc",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "迟别，OI",
       "created": "2024-12-17 08:00",
       "link": "https://blog.yaria.top/posts/7944d7c6",
@@ -895,6 +951,13 @@
       "link": "https://blog.qyadbr.top/posts/hexo8",
       "author": "Admibrill",
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
+    },
+    {
+      "title": "在Linux系统下使用Git进行远程上传",
+      "created": "2024-11-16 09:28",
+      "link": "https://blog.linux-qitong.top/posts/c06a1f35",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "时光漫谈",
@@ -1042,6 +1105,13 @@
       "link": "https://blog.yaria.top/posts/c0z8jdo2",
       "author": "Ariasakaの小窝",
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
+    },
+    {
+      "title": "给Butterfly主题添加三个新功能",
+      "created": "2024-09-17 06:30",
+      "link": "https://blog.linux-qitong.top/posts/305bae84",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "闭包与内存泄漏",
@@ -1198,6 +1268,13 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
+      "title": "利用GitHub Actions自动化部署Hexo博客",
+      "created": "2024-01-22 12:23",
+      "link": "https://blog.linux-qitong.top/posts/fd2f879b",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
       "title": "一文搞懂伪代码",
       "created": "2023-12-16 15:58",
       "link": "https://kmar.top/posts/6e8d014c/",
@@ -1252,6 +1329,27 @@
       "link": "https://www.ordchaos.com/posts/b3d3143c/",
       "author": "序炁的博客",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "从零搭建一个Hexo静态博客",
+      "created": "2023-07-16 09:23",
+      "link": "https://blog.linux-qitong.top/posts/1b32c63",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "把zst格式的deb包转换为xz格式重新打包",
+      "created": "2023-06-27 09:28",
+      "link": "https://blog.linux-qitong.top/posts/7394d04d",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
+    },
+    {
+      "title": "在Debian编译Linux内核打包",
+      "created": "2023-06-25 12:20",
+      "link": "https://blog.linux-qitong.top/posts/15118675",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "ECharts 帕累托图",
@@ -1336,6 +1434,13 @@
       "link": "https://www.fomal.cc/posts/c59270e7.html",
       "author": "Fomalhaut🥝",
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
+    },
+    {
+      "title": "给老爷机装上Linux Mint Xfce",
+      "created": "2023-03-15 08:52",
+      "link": "https://blog.linux-qitong.top/posts/1131c5be",
+      "author": "青稚の空间",
+      "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
       "title": "ECharts 渐变折线图",
