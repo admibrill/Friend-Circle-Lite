@@ -4,9 +4,16 @@
     "active_num": 21,
     "error_num": 4,
     "article_num": 242,
-    "last_updated_time": "2026-11-02 11:27:25"
+    "last_updated_time": "2026-11-02 22:13:10"
   },
   "article_data": [
+    {
+      "title": "用 REA 逆开华为 BoF-XX 的性能模式：MateBook D15 2022 在 Linux 下的真 Turbo 解锁",
+      "created": "2026-11-02 13:36",
+      "link": "https://xingwangzhe.fun/posts/huawei-bofxx-rea-turbo-unlock/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
     {
       "title": "博客4.5周年祭——迟到了！！！",
       "created": "2026-11-01 22:45",
@@ -246,32 +253,11 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
-      "title": "[短讯]:查询whois for edu.cn",
-      "created": "2026-10-03 19:57",
-      "link": "https://xingwangzhe.fun/posts/whois-for-edu-cn/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "通过DeepSeek Harness修复和优化网站",
       "created": "2026-10-01 05:00",
       "link": "https://www.fomal.cc/posts/d5a4e2f1.html",
       "author": "Fomalhaut🥝",
       "avatar": "https://www.fomal.cc/assets/avatar.webp"
-    },
-    {
-      "title": "Whois edu.cn? CERNIC介绍",
-      "created": "2026-09-26 19:46",
-      "link": "https://xingwangzhe.fun/posts/whois-edu-cn-cernic/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "明月几时有：月相的知识",
-      "created": "2026-09-25 18:40",
-      "link": "https://xingwangzhe.fun/posts/moon-phase-mid-autumn/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "Leo/need Fan Meeting 与大战白海豚",
@@ -377,6 +363,13 @@
       "link": "https://blog.walterfang.site/posts/2507-chengdu/",
       "author": "Walter_Fang",
       "avatar": "https://blog.walterfang.site/assets/images/avatar.png"
+    },
+    {
+      "title": "给 Linux 上的 Chrome 打一针肾上腺素——我的 GPU 加速调优方案",
+      "created": "2026-07-23 15:00",
+      "link": "https://xingwangzhe.fun/posts/chrome-linux-gpu-tuning/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "Linux下的手动双面打印工具：DupriMan",
@@ -825,6 +818,13 @@
       "link": "https://ichika.cc/article/52",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
+    },
+    {
+      "title": "ubuntu折腾记录",
+      "created": "2025-07-04 18:44",
+      "link": "https://xingwangzhe.fun/posts/6900d932/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "P13020 [GESP202506 八级] 遍历计数 题解",
