@@ -4,7 +4,7 @@
     "active_num": 21,
     "error_num": 4,
     "article_num": 242,
-    "last_updated_time": "2026-11-14 12:05:12"
+    "last_updated_time": "2026-11-14 20:43:15"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://blog.zhheo.com/p/st6h457x.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "最后一次第一节课",
+      "created": "2026-11-10 20:30",
+      "link": "https://xingwangzhe.fun/posts/software-architecture-lesson-1/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "博客七周年记",
@@ -314,13 +321,6 @@
       "link": "https://ichika.cc/article/74",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "WorkBuddy 没给 Ubuntu/Fedora 留下载入口？官方的 deb 和 rpm 都找到了",
-      "created": "2026-09-13 16:30",
-      "link": "https://xingwangzhe.fun/posts/workbuddy-linux-deb-rpm/",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "联想拯救者 Y700 四代（TB322FC）刷入澎湃 OS 3 教程",
