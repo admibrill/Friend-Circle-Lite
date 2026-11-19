@@ -1,30 +1,16 @@
 {
   "statistical_data": {
     "friends_num": 25,
-    "active_num": 21,
-    "error_num": 4,
-    "article_num": 242,
-    "last_updated_time": "2026-11-19 13:03:46"
+    "active_num": 20,
+    "error_num": 5,
+    "article_num": 227,
+    "last_updated_time": "2026-11-19 22:55:02"
   },
   "article_data": [
     {
       "title": "EdgeOne 尾斜杠路由的占位符配置",
       "created": "2026-11-18 21:30",
-      "link": "https://xingwangzhe.fun/posts/edgeone-trailing-slash-routing",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "node:napi——关于npm的分包子包实现",
-      "created": "2026-11-18 17:48",
-      "link": "https://xingwangzhe.fun/posts/node-napi-npm-platform-packages",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "一次教室温度调查",
-      "created": "2026-11-17 14:19",
-      "link": "https://xingwangzhe.fun/posts/classroom-temperature-survey",
+      "link": "https://xingwangzhe.fun/posts/edgeone-trailing-slash-routing/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
@@ -41,13 +27,6 @@
       "link": "https://blog.zhheo.com/p/st6h457x.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "最后一次第一节课",
-      "created": "2026-11-10 20:30",
-      "link": "https://xingwangzhe.fun/posts/software-architecture-lesson-1",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "博客七周年记",
@@ -78,13 +57,6 @@
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
     },
     {
-      "title": "一封退货邮件的陷阱：“开箱视频”背后的 WPS、隐藏 DLL 与恶意加载链",
-      "created": "2026-11-05 10:36",
-      "link": "https://xingwangzhe.fun/posts/outlook-return-malware",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "SwiftUI 如何适配 iPhoneDuo？回顾设计与开发遇到的那些坑",
       "created": "2026-11-03 12:29",
       "link": "https://blog.zhheo.com/p/0ly3ty1o.html",
@@ -99,13 +71,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "用 REA 逆开华为 BoF-XX 的性能模式：MateBook D15 2022 在 Linux 下的真 Turbo 解锁",
-      "created": "2026-11-02 13:36",
-      "link": "https://xingwangzhe.fun/posts/huawei-bofxx-rea-turbo-unlock",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "博客4.5周年祭——迟到了！！！",
       "created": "2026-11-01 22:45",
       "link": "https://blog.yaria.top/posts/5766f9d3",
@@ -118,13 +83,6 @@
       "link": "https://blog.zhheo.com/p/gev3cm0t.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "推荐我开发的 Linux AppImage 管理器：AppimageMannger",
-      "created": "2026-10-27 17:55",
-      "link": "https://xingwangzhe.fun/posts/appimage-mannger-native-linux",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "iOS27.2支持禁止应用使用摇一摇广告了，不影响导航软件和视频软件",
@@ -148,13 +106,6 @@
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
     },
     {
-      "title": "1024程序员节-最后一次节日吗",
-      "created": "2026-10-24 12:55",
-      "link": "https://xingwangzhe.fun/posts/1024-last-programmers-day",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "给 AI 编程限个上下文：把窗口砍到 300k 反而更省",
       "created": "2026-10-23 16:36",
       "link": "https://blog.zhheo.com/p/rdxftsp4.html",
@@ -176,25 +127,11 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "我们可能面临互联网末日的奇点",
-      "created": "2026-10-22 14:30",
-      "link": "https://xingwangzhe.fun/posts/internet-doomsday-singularity",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "Opus大小姐的赛博出逃与蓝色大肥鱼的诱惑",
       "created": "2026-10-21 19:59",
       "link": "https://blog.yaria.top/posts/cfc502b1",
       "author": "Ariasakaの小窝",
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
-    },
-    {
-      "title": "PHP 大逃杀严阵以待",
-      "created": "2026-10-21 19:50",
-      "link": "https://xingwangzhe.fun/posts/php2shell-datasha",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "OPPO Watch X3 Mini 表盘魔改过程记录",
@@ -267,20 +204,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "HUAWEI MateBook D15 2022 Ubuntu 指纹识别修复：Goodix GDIX51C0 采图超时",
-      "created": "2026-10-11 10:25",
-      "link": "https://xingwangzhe.fun/posts/matebook-d15-goodix-gdix51c0-fingerprint",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "HUAWEI MateBook D 15 2022（BoF-XX-PCB）Ubuntu Linux 外放无声修复",
-      "created": "2026-10-11 10:00",
-      "link": "https://xingwangzhe.fun/posts/matebook-d15-bofxx-hwsp0001-no-speaker",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "国庆的PJSK 6th感谢祭与箱根二日游",
       "created": "2026-10-11 08:58",
       "link": "https://ichika.cc/article/76",
@@ -300,13 +223,6 @@
       "link": "https://ichika.cc/article/75",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "GNU Guix 初体验",
-      "created": "2026-10-06 06:01",
-      "link": "https://www.ordchaos.com/posts/de44fa09/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
       "title": "通过DeepSeek Harness修复和优化网站",
@@ -351,11 +267,25 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
+      "title": "博客第一次接到赞助：聊聊不繁简历",
+      "created": "2026-08-21 20:00",
+      "link": "https://xingwangzhe.fun/posts/bufancv-first-sponsorship/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "跨域预检请求失败问题分析",
       "created": "2026-08-19 14:30",
       "link": "https://www.imaegoo.com/2026/cors-issue-analysis/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
+    },
+    {
+      "title": "EdgeOne 与 Cloudflare 海内外分流 CDN",
+      "created": "2026-08-18 16:58",
+      "link": "https://xingwangzhe.fun/posts/edgeone-cloudflare-split-cdn/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "谨慎选择京东云",
@@ -379,18 +309,11 @@
       "avatar": "https://blog.walterfang.site/assets/images/avatar.png"
     },
     {
-      "title": "给 Linux 上的 Chrome 打一针肾上腺素——我的 GPU 加速调优方案",
-      "created": "2026-07-23 15:00",
-      "link": "https://xingwangzhe.fun/posts/chrome-linux-gpu-tuning",
+      "title": "我收到了 Mozilla Monitor 的泄露警报，你的邮箱可能也一样",
+      "created": "2026-07-21 09:50",
+      "link": "https://xingwangzhe.fun/posts/mozilla-monitor-check/",
       "author": "姓王者的博客",
       "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
-      "title": "Linux下的手动双面打印工具：DupriMan",
-      "created": "2026-07-23 05:30",
-      "link": "https://www.ordchaos.com/posts/0250ea69/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
       "title": "Hello World",
@@ -400,11 +323,18 @@
       "avatar": "https://bu.dusays.com/2024/09/01/66d3c23c16277.jpg"
     },
     {
-      "title": "评论迁移及样式更新",
-      "created": "2026-07-13 21:56",
-      "link": "https://www.ordchaos.com/posts/0f7569c5/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+      "title": "人工智能实训结题报告：B4 Agent LLM决策模块 —— 从架构设计到五维进阶",
+      "created": "2026-07-17 13:30",
+      "link": "https://xingwangzhe.fun/posts/ai-training-b4-final-report/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "B4 LLM决策模块：验收讲解 —— 从基础到进阶的五维实践",
+      "created": "2026-07-13 22:00",
+      "link": "https://xingwangzhe.fun/posts/ai-training-b4-week2-review/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "Cloudflare/Vercel项目推荐(6)",
@@ -421,6 +351,20 @@
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
     },
     {
+      "title": "给博客加上隐式 LLM 提示词",
+      "created": "2026-07-10 20:00",
+      "link": "https://xingwangzhe.fun/posts/llm-prompt-injection-defense/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
+      "title": "人工智能实训Week2：B4 LLM决策模块五维升级实战",
+      "created": "2026-06-30 10:00",
+      "link": "https://xingwangzhe.fun/posts/ai-training-b4-llm-week2/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "世界计划交响乐2026",
       "created": "2026-06-29 20:04",
       "link": "https://ichika.cc/article/73",
@@ -428,18 +372,18 @@
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
-      "title": "Arch Linux安装（LUKS+BtrFS+UKI+Nvidia驱动）",
-      "created": "2026-06-28 17:50",
-      "link": "https://www.ordchaos.com/posts/d5d12650/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+      "title": "d3-force-3d 构建时预计算 3D 网络布局，减少客户端渲染压力",
+      "created": "2026-06-28 15:17",
+      "link": "https://xingwangzhe.fun/posts/d3-force-precompute-3d/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
-      "title": "结束了——高中毕业有感",
-      "created": "2026-06-25 23:22",
-      "link": "https://www.ordchaos.com/posts/6831682d/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+      "title": "友链图谱 2.0 - 3D 更美观的可视化",
+      "created": "2026-06-27 18:30",
+      "link": "https://xingwangzhe.fun/posts/2d3d-graph-v2/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "vibe-coding个人实践",
@@ -475,13 +419,6 @@
       "link": "https://www.imaegoo.com/2026/claude-code-token-burner/",
       "author": "iMaeGoo’s Blog",
       "avatar": "https://source-admibrill.pages.dev/file/90015d2c90b2cd4ac99f5.png"
-    },
-    {
-      "title": "2026东北大学邮箱第三方客户端配置指南(Thunderbird)",
-      "created": "2026-05-19 08:00",
-      "link": "https://xingwangzhe.fun/posts/neu-email-thunderbird-2026",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "去掉高德地图开屏广告",
@@ -533,25 +470,11 @@
       "avatar": "https://images.6uu.us/20250511114301488.JPG"
     },
     {
-      "title": "有点紧急的（？）通知",
-      "created": "2026-03-23 06:10",
-      "link": "https://www.ordchaos.com/posts/093965f1/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
       "title": "CMCC RAX3000QY路由器TTL刷OpenWrt",
       "created": "2026-03-07 22:03",
       "link": "https://blog.linux-qitong.top/posts/af0f6a8a",
       "author": "青稚の空间",
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
-    },
-    {
-      "title": "迁移到React",
-      "created": "2026-03-04 04:00",
-      "link": "https://www.ordchaos.com/posts/5aa0f442/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
       "title": "兰空图床深度美化",
@@ -596,6 +519,13 @@
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
+      "title": "再见👋 LeanCloud",
+      "created": "2026-01-13 13:08",
+      "link": "https://xingwangzhe.fun/posts/7c604030/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "2025，清风已至，正帆向星海",
       "created": "2026-01-08 00:06",
       "link": "https://blog.liushen.fun/posts/5db5181d/",
@@ -622,6 +552,13 @@
       "link": "https://blog.yaria.top/posts/33452911",
       "author": "Ariasakaの小窝",
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
+    },
+    {
+      "title": "2025年终总结",
+      "created": "2025-12-31 18:37",
+      "link": "https://xingwangzhe.fun/posts/cbab25fa/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "PJSK COLORFUL LIVE 5th",
@@ -659,11 +596,25 @@
       "avatar": "https://img.0v0.my/2024/12/05/67517bcf104da.png"
     },
     {
+      "title": "chen-er 专为Chen式ER图打造的npm包",
+      "created": "2025-12-03 15:34",
+      "link": "https://xingwangzhe.fun/posts/b8eb3b61/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "魔改笔记八：外挂标签及侧边栏美化",
       "created": "2025-11-23 18:00",
       "link": "https://blog.liushen.fun/posts/6010fc85/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "好久没更新了，过去与未来",
+      "created": "2025-11-18 20:24",
+      "link": "https://xingwangzhe.fun/posts/cc443f72/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
     },
     {
       "title": "河南研学记录",
@@ -827,13 +778,6 @@
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
     },
     {
-      "title": "ubuntu折腾记录",
-      "created": "2025-07-04 18:44",
-      "link": "https://xingwangzhe.fun/posts/6900d932",
-      "author": "姓王者的博客",
-      "avatar": "https://xingwangzhe.fun/avatar.webp"
-    },
-    {
       "title": "P13020 [GESP202506 八级] 遍历计数 题解",
       "created": "2025-06-30 19:18",
       "link": "https://blog.qyadbr.top/posts/hexo16",
@@ -853,13 +797,6 @@
       "link": "https://ichika.cc/article/expedition33",
       "author": "ichika",
       "avatar": "https://cdn.ichika.cc/page/HeadIcon.jpg"
-    },
-    {
-      "title": "哈哈，好久没更新了",
-      "created": "2025-06-08 23:22",
-      "link": "https://www.ordchaos.com/posts/26a06268/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
       "title": "Moonlark（Nonebot2+Python）命令式聊天机器人插件开发记录",
@@ -1121,6 +1058,13 @@
       "avatar": "https://blog.linux-qitong.top/img/avatar.webp"
     },
     {
+      "title": "hexo创建一个友情链接页面",
+      "created": "2024-09-14 19:16",
+      "link": "https://xingwangzhe.fun/posts/62fedd1e/",
+      "author": "姓王者的博客",
+      "avatar": "https://xingwangzhe.fun/avatar.webp"
+    },
+    {
       "title": "闭包与内存泄漏",
       "created": "2024-09-13 04:04",
       "link": "https://www.qcqx.cn/article/d186ebdd.html",
@@ -1149,13 +1093,6 @@
       "avatar": "https://www.qcqx.cn/head.webp"
     },
     {
-      "title": "别样（咬牙切齿）的16（17）岁生日",
-      "created": "2024-08-31 03:08",
-      "link": "https://www.ordchaos.com/posts/2abcab89/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
       "title": "PX Formula",
       "created": "2024-08-31 00:00",
       "link": "https://blog.walterfang.site/posts/px-formula/",
@@ -1163,32 +1100,11 @@
       "avatar": "https://blog.walterfang.site/assets/images/avatar.png"
     },
     {
-      "title": "无服务器AI摘要后端——OrdChaosGPT",
-      "created": "2024-08-15 01:08",
-      "link": "https://www.ordchaos.com/posts/fd9dafa1/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
       "title": "Monorepo 单仓库多应用",
       "created": "2024-08-06 03:32",
       "link": "https://www.qcqx.cn/article/65df4aa6.html",
       "author": "轻笑Chuckle",
       "avatar": "https://www.qcqx.cn/head.webp"
-    },
-    {
-      "title": "学习笔记——分块、线段树",
-      "created": "2024-08-05 21:08",
-      "link": "https://www.ordchaos.com/posts/6e841aef/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
-      "title": "学习笔记——STL模板库之数据结构",
-      "created": "2024-08-02 00:09",
-      "link": "https://www.ordchaos.com/posts/8752b65a/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
       "title": "Deno再尝试：使用Deno编写一个简单的WebAPI",
@@ -1261,13 +1177,6 @@
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
-      "title": "使用Github Action定时重启邮件服务",
-      "created": "2024-02-10 02:52",
-      "link": "https://www.ordchaos.com/posts/e9c784c5/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
       "title": "利用GitHub Actions自动化部署Hexo博客",
       "created": "2024-01-22 12:23",
       "link": "https://blog.linux-qitong.top/posts/fd2f879b",
@@ -1310,25 +1219,11 @@
       "avatar": "https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg"
     },
     {
-      "title": "年中总结，及进16岁生贺",
-      "created": "2023-08-25 01:28",
-      "link": "https://www.ordchaos.com/posts/95bd9bb8/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
       "title": "Swpp Backends 官方文档",
       "created": "2023-08-09 16:18",
       "link": "https://kmar.top/posts/b70ec88f/",
       "author": "山岳库博",
       "avatar": "https://cdn.jsdelivr.net/npm/@kmar/fonts/avatar/own.png"
-    },
-    {
-      "title": "数字生命卡开箱——来自《流浪地球II》",
-      "created": "2023-07-24 00:00",
-      "link": "https://www.ordchaos.com/posts/b3d3143c/",
-      "author": "序炁的博客",
-      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
       "title": "从零搭建一个Hexo静态博客",
